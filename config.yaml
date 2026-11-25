@@ -1,0 +1,39 @@
+project:
+  name: "Complaint Root-Cause Engine"
+  random_seed: 42
+
+data:
+  raw_dir: "data/raw"
+  processed_dir: "data/processed"
+  reports_dir: "reports"
+  staging_db: "data/processed/ingestion_staging.sqlite"
+  parquet_dir: "data/processed/complaints_parquet"
+  start_date: "2024-06-01"
+  end_date: "2026-05-31"
+  chunksize: 25000
+  expected_archive_count: 13
+  max_rows: null
+
+columns:
+  complaint_id: ["Complaint ID", "complaint_id", "complaint id"]
+  date_received: ["Date received", "date_received", "date received"]
+  product: ["Product", "product"]
+  sub_product: ["Sub-product", "Sub product", "sub_product", "subproduct"]
+  issue: ["Issue", "issue"]
+  sub_issue: ["Sub-issue", "Sub issue", "sub_issue", "subissue"]
+  narrative: ["Consumer complaint narrative", "consumer_complaint_narrative", "narrative"]
+  company_public_response: ["Company public response", "company_public_response"]
+  company: ["Company", "company"]
+  state: ["State", "state"]
+  zip_code: ["ZIP code", "ZIP Code", "zip_code", "zipcode"]
+  tags: ["Tags", "tags"]
+  submitted_via: ["Submitted via", "submitted_via", "submitted via"]
+  date_sent_to_company: ["Date sent to company", "date_sent_to_company"]
+  company_response_to_consumer: ["Company response to consumer", "company_response_to_consumer"]
+  timely_response: ["Timely response?", "Timely response", "timely_response"]
+
+ingestion:
+  keep_only_records_with_narrative: true
+  deduplicate_on: "complaint_id"
+  duplicate_policy: "first_valid_record_wins"
+  date_parse_errors: "drop_and_count"
