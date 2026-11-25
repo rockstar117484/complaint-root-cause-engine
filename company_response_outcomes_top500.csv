@@ -1,0 +1,501 @@
+company,outcome,complaints,share_pct,rank
+Experian Information Solutions Inc.,Closed with explanation,389597,21.1447,1
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Closed with non-monetary relief,324021,17.5857,2
+"EQUIFAX, INC.",Closed with non-monetary relief,272484,14.7886,3
+"EQUIFAX, INC.",Closed with explanation,177321,9.6238,4
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Closed with explanation,106835,5.7983,5
+"Block, Inc.",Closed with explanation,42698,2.3174,6
+CAPITAL ONE FINANCIAL CORPORATION,Closed with explanation,22196,1.2046,7
+"Early Warning Services, LLC",Closed with explanation,18619,1.0105,8
+JPMORGAN CHASE & CO.,Closed with explanation,17933,0.9733,9
+Experian Information Solutions Inc.,Closed with non-monetary relief,16840,0.914,10
+WELLS FARGO & COMPANY,Closed with explanation,13562,0.7361,11
+NAVY FEDERAL CREDIT UNION,Closed with explanation,11789,0.6398,12
+"BANK OF AMERICA, NATIONAL ASSOCIATION",Closed with explanation,10536,0.5718,13
+Resurgent Capital Services L.P.,Closed with explanation,9598,0.5209,14
+CL Holdings LLC,Closed with explanation,9095,0.4936,15
+SYNCHRONY FINANCIAL,Closed with explanation,8898,0.4829,16
+Chime Financial Inc,Closed with explanation,8514,0.4621,17
+"CITIBANK, N.A.",Closed with explanation,8359,0.4537,18
+MOHELA,Closed with explanation,6432,0.3491,19
+AMERICAN EXPRESS COMPANY,Closed with explanation,6117,0.332,20
+"Paypal Holdings, Inc",Closed with explanation,6074,0.3297,21
+ENCORE CAPITAL GROUP INC.,Closed with explanation,5735,0.3113,22
+"Nelnet, Inc.",Closed with explanation,4891,0.2655,23
+"BANK OF AMERICA, NATIONAL ASSOCIATION",Closed with monetary relief,4819,0.2615,24
+"Portfolio Recovery Associates, LLC",Closed with explanation,4774,0.2591,25
+"CITIBANK, N.A.",Closed with non-monetary relief,4664,0.2531,26
+DISCOVER BANK,Closed with explanation,4233,0.2297,27
+ENCORE CAPITAL GROUP INC.,Closed with non-monetary relief,4170,0.2263,28
+"Shellpoint Partners, LLC",Closed with explanation,4097,0.2224,29
+LEXISNEXIS,Closed with explanation,4064,0.2206,30
+TRUIST FINANCIAL CORPORATION,Closed with explanation,3922,0.2129,31
+"National Credit Systems,Inc.",Closed with explanation,3762,0.2042,32
+"Portfolio Recovery Associates, LLC",Closed with non-monetary relief,3762,0.2042,33
+Resurgent Capital Services L.P.,Closed with non-monetary relief,3706,0.2011,34
+"CITIBANK, N.A.",Closed with monetary relief,3695,0.2005,35
+U.S. BANCORP,Closed with explanation,3638,0.1974,36
+ALLY FINANCIAL INC.,Closed with explanation,3633,0.1972,37
+"Affirm Holdings, Inc",Closed with explanation,3563,0.1934,38
+BARCLAYS BANK DELAWARE,Closed with explanation,3296,0.1789,39
+"CCS Financial Services, Inc.",Closed with explanation,3246,0.1762,40
+GOLDMAN SACHS BANK USA,Closed with explanation,3236,0.1756,41
+"Kriya Capital, LLC",Closed with non-monetary relief,3215,0.1745,42
+TRANSWORLD SYSTEMS INC,Closed with explanation,3187,0.173,43
+"Bread Financial Holdings, Inc.",Closed with explanation,3117,0.1692,44
+"CBC Companies, Inc.",Closed with non-monetary relief,3050,0.1655,45
+"Maximus Federal Services, Inc.",Closed with explanation,3024,0.1641,46
+CAPITAL ONE FINANCIAL CORPORATION,Closed with non-monetary relief,3012,0.1635,47
+"SANTANDER HOLDINGS USA, INC.",Closed with explanation,2936,0.1593,48
+TD BANK US HOLDING COMPANY,Closed with explanation,2927,0.1589,49
+"SOFI TECHNOLOGIES, INC.",Closed with explanation,2908,0.1578,50
+"I.C. System, Inc.",Closed with explanation,2670,0.1449,51
+PNC Bank N.A.,Closed with explanation,2661,0.1444,52
+"Westlake Services, LLC",Closed with explanation,2635,0.143,53
+CREDIT ACCEPTANCE CORPORATION,Closed with explanation,2423,0.1315,54
+Mr. Cooper Group Inc.,Closed with explanation,2384,0.1294,55
+OneMain Finance Corporation,Closed with explanation,2160,0.1172,56
+Self Financial Inc.,Closed with explanation,2102,0.1141,57
+"Fidelity National Information Services, Inc. (FNIS)",Closed with explanation,2100,0.114,58
+UNITED SERVICES AUTOMOBILE ASSOCIATION,Closed with explanation,2093,0.1136,59
+ROBINHOOD MARKETS INC.,Closed with explanation,2067,0.1122,60
+EdFinancial Services,Closed with explanation,1974,0.1071,61
+"CBC Companies, Inc.",Closed with explanation,1945,0.1056,62
+"CAINE & WEINER COMPANY, INC.",Closed with explanation,1896,0.1029,63
+"Rowland Avenue Management, Inc. A/KA Columbia Debt Recovery, LLC d/b/a Genesis",Closed with explanation,1888,0.1025,64
+MOHELA,Untimely response,1770,0.0961,65
+Servicer under contract with Federal Student Aid,Untimely response,1671,0.0907,66
+WELLS FARGO & COMPANY,Closed with monetary relief,1654,0.0898,67
+JPMORGAN CHASE & CO.,Closed with monetary relief,1643,0.0892,68
+"Bread Financial Holdings, Inc.",Closed with non-monetary relief,1638,0.0889,69
+"Exeter Finance, LLC.",Closed with explanation,1627,0.0883,70
+"Navient Solutions, LLC.",Closed with explanation,1622,0.088,71
+WELLS FARGO & COMPANY,Closed with non-monetary relief,1613,0.0875,72
+"Paypal Holdings, Inc",Closed with non-monetary relief,1590,0.0863,73
+Bridgecrest Acceptance Corporation,Closed with explanation,1578,0.0856,74
+LEXISNEXIS,Closed with non-monetary relief,1572,0.0853,75
+Freedom Mortgage Company,Closed with explanation,1542,0.0837,76
+SYNCHRONY FINANCIAL,Closed with monetary relief,1512,0.0821,77
+JPMORGAN CHASE & CO.,Closed with non-monetary relief,1479,0.0803,78
+"CITIZENS FINANCIAL GROUP, INC.",Closed with explanation,1477,0.0802,79
+AMERICAN EXPRESS COMPANY,Closed with monetary relief,1474,0.08,80
+FIFTH THIRD FINANCIAL CORPORATION,Closed with explanation,1422,0.0772,81
+CAPITAL ONE FINANCIAL CORPORATION,Closed with monetary relief,1416,0.0769,82
+T.S. Holdings,Closed with explanation,1407,0.0764,83
+"Rocket Mortgage, LLC",Closed with explanation,1394,0.0757,84
+"CLGF Holdco 1, LLC",Closed with explanation,1366,0.0741,85
+NAVY FEDERAL CREDIT UNION,Closed with non-monetary relief,1366,0.0741,86
+"Bread Financial Holdings, Inc.",Closed with monetary relief,1346,0.0731,87
+"Paypal Holdings, Inc",Closed with monetary relief,1336,0.0725,88
+"National Credit Adjusters, LLC",Closed with explanation,1310,0.0711,89
+DISCOVER BANK,Closed with non-monetary relief,1293,0.0702,90
+Kikoff Inc.,Closed with explanation,1288,0.0699,91
+"SUNRISE CREDIT SERVICES, INC",Closed with explanation,1274,0.0691,92
+Ocwen Financial Corporation,Closed with explanation,1228,0.0666,93
+TOYOTA MOTOR CREDIT CORPORATION,Closed with explanation,1223,0.0664,94
+U.S. BANCORP,Closed with non-monetary relief,1195,0.0649,95
+"SANTANDER HOLDINGS USA, INC.",Closed with non-monetary relief,1177,0.0639,96
+"Aldous & Associates, PLLC",Closed with explanation,1148,0.0623,97
+TrueAccord Corp.,Closed with explanation,1131,0.0614,98
+"FAIR COLLECTIONS & OUTSOURCING, INC.",Closed with explanation,1122,0.0609,99
+"Coinbase, Inc.",Closed with explanation,1121,0.0608,100
+"Spring Oaks Capital, LLC",Closed with non-monetary relief,1119,0.0607,101
+HYUNDAI CAPITAL AMERICA,Closed with explanation,1078,0.0585,102
+NCB Management Services Inc.,Closed with explanation,1058,0.0574,103
+"ProCollect, Inc.",Closed with explanation,1034,0.0561,104
+"SELECT PORTFOLIO SERVICING, INC.",Closed with explanation,1015,0.0551,105
+SYNCHRONY FINANCIAL,Closed with non-monetary relief,1004,0.0545,106
+"General Motors Financial Company, Inc.",Closed with explanation,989,0.0537,107
+"UPGRADE, INC.",Closed with explanation,949,0.0515,108
+"BANK OF AMERICA, NATIONAL ASSOCIATION",Closed with non-monetary relief,941,0.0511,109
+Global Lending Services LLC,Closed with explanation,917,0.0498,110
+AMERICAN EXPRESS COMPANY,Closed with non-monetary relief,910,0.0494,111
+"Spring Oaks Capital, LLC",Closed with explanation,905,0.0491,112
+"ENOVA INTERNATIONAL, INC.",Closed with explanation,903,0.049,113
+"Southwest Credit Systems, L.P.",Closed with non-monetary relief,889,0.0482,114
+Netspend Corporation,Closed with explanation,888,0.0482,115
+"Credit Control, LLC",Closed with explanation,881,0.0478,116
+BMO BANK NATIONAL ASSOCIATION,Closed with explanation,874,0.0474,117
+NAVY FEDERAL CREDIT UNION,Closed with monetary relief,866,0.047,118
+Radius Global Solutions LLC,Closed with non-monetary relief,866,0.047,119
+"PENNYMAC LOAN SERVICES, LLC.",Closed with explanation,858,0.0466,120
+CCF Intermediate Holdings LLC,Closed with explanation,851,0.0462,121
+Incomm Holdings Inc.,Closed with explanation,822,0.0446,122
+FISERV FINXACT CORE,Closed with explanation,819,0.0444,123
+"Amsher Collection Services, Inc.",Closed with explanation,817,0.0443,124
+"John C. Heath, Attorney at Law, PLLC",Closed with explanation,811,0.044,125
+M&T BANK CORPORATION,Closed with explanation,808,0.0439,126
+"CCS Financial Services, Inc.",Closed with non-monetary relief,799,0.0434,127
+Selene Holdings LLC,Closed with explanation,799,0.0434,128
+"HW Holding, Inc",Closed with explanation,795,0.0431,129
+REGIONS FINANCIAL CORPORATION,Closed with explanation,793,0.043,130
+GOLDMAN SACHS BANK USA,Closed with monetary relief,778,0.0422,131
+Source Receivables Management LLC,Closed with explanation,774,0.042,132
+TD BANK US HOLDING COMPANY,Closed with non-monetary relief,759,0.0412,133
+"ACIMA CREDIT, LLC",Closed with explanation,758,0.0411,134
+"HUNTINGTON NATIONAL BANK, THE",Closed with explanation,757,0.0411,135
+Klarna AB,Closed with explanation,757,0.0411,136
+"Sequium Asset Solutions, LLC",Closed with non-monetary relief,749,0.0407,137
+"Continental Finance Company, LLC",Closed with explanation,746,0.0405,138
+"American Credit Acceptance, LLC",Closed with explanation,728,0.0395,139
+TD BANK US HOLDING COMPANY,Closed with monetary relief,706,0.0383,140
+"Eastern Account Systems of Connecticut, Inc.",Closed with explanation,705,0.0383,141
+FinCo Services Inc DBA Current,Closed with explanation,694,0.0377,142
+"CARRINGTON MORTGAGE SERVICES, LLC",Closed with explanation,693,0.0376,143
+Chime Financial Inc,Closed with monetary relief,691,0.0375,144
+"NRA Group, LLC",Closed with explanation,689,0.0374,145
+NISSAN MOTOR ACCEPTANCE COMPANY LLC,Closed with explanation,679,0.0369,146
+"Collection Management Holdings, LLC",Closed with explanation,678,0.0368,147
+"Upstart Holdings, Inc.",Closed with explanation,676,0.0367,148
+"Paramount GR Holdings, LLC",Closed with explanation,672,0.0365,149
+SLM CORPORATION,Closed with explanation,670,0.0364,150
+Velocity Portfolio Group,Closed with explanation,659,0.0358,151
+"Avant Holding Company, Inc.",Closed with explanation,656,0.0356,152
+"ID Analytics, Inc.",Closed with explanation,653,0.0354,153
+"Credit Karma, LLC",Closed with explanation,640,0.0347,154
+AMERICAN HONDA FINANCE CORP,Closed with explanation,637,0.0346,155
+Synovus Bank,Closed with explanation,637,0.0346,156
+Atlanticus Services Corporation,Closed with explanation,634,0.0344,157
+Radius Global Solutions LLC,Closed with explanation,631,0.0342,158
+"CAVALRY INVESTMENTS, LLC",Closed with explanation,625,0.0339,159
+"CarMax, Inc.",Closed with explanation,625,0.0339,160
+V and H Portfolio,Closed with explanation,616,0.0334,161
+GOLDMAN SACHS BANK USA,Closed with non-monetary relief,612,0.0332,162
+Advanced Resolution Services Inc.,Closed with explanation,611,0.0332,163
+Central Portfolio Control Inc.,Closed with explanation,600,0.0326,164
+"LoanCare, LLC",Closed with explanation,598,0.0325,165
+FC HoldCo LLC,Closed with explanation,593,0.0322,166
+TekCollect Inc.,Closed with explanation,587,0.0319,167
+Credit Corp Solutions Inc.,Closed with explanation,578,0.0314,168
+"Harris & Harris, Ltd.",Closed with explanation,577,0.0313,169
+MoneyLion Inc.,Closed with explanation,570,0.0309,170
+"Security Credit Services, LLC",Closed with explanation,570,0.0309,171
+Absolute Resolutions Corp.,Closed with explanation,561,0.0304,172
+"Halsted Financial Services, LLC.",Closed with explanation,553,0.03,173
+"CLGF Holdco 1, LLC",Closed with non-monetary relief,549,0.0298,174
+TransferWise Ltd,Closed with explanation,534,0.029,175
+PENTAGON FEDERAL CREDIT UNION,Closed with explanation,527,0.0286,176
+"Consumer Portfolio Services, Inc.",Closed with explanation,520,0.0282,177
+"Fay Servicing, LLC",Closed with explanation,509,0.0276,178
+CORELOGIC INC,Closed with explanation,508,0.0276,179
+World Acceptance Corporation,Closed with explanation,508,0.0276,180
+"Ability Recovery Services, LLC",Closed with explanation,506,0.0275,181
+U.S. BANCORP,Closed with monetary relief,496,0.0269,182
+"Lockhart, Morris & Montgomery Inc.",Closed with explanation,494,0.0268,183
+"The CBE Group, Inc.",Closed with non-monetary relief,494,0.0268,184
+"Harris & Harris, Ltd.",Closed with non-monetary relief,491,0.0266,185
+Mercedes Benz Financial Services,Closed with explanation,489,0.0265,186
+"W&A Intermediate Co., LLC",Closed with explanation,488,0.0265,187
+"HW Holding, Inc",Closed with non-monetary relief,487,0.0264,188
+"Capio Partners, LLC",Closed with non-monetary relief,475,0.0258,189
+"WESTERN UNION COMPANY, THE",Closed with explanation,458,0.0249,190
+"Diversified Adjustment Service, Inc.",Closed with explanation,450,0.0244,191
+NEW YORK COMMUNITY BANCORP INC,Closed with explanation,441,0.0239,192
+"W&A Intermediate Co., LLC",Closed with non-monetary relief,441,0.0239,193
+KEYCORP,Closed with explanation,440,0.0239,194
+"Opportunity Financial, LLC",Closed with explanation,437,0.0237,195
+"Coinbase, Inc.",Closed with monetary relief,435,0.0236,196
+LJ Ross Associates,Closed with explanation,434,0.0236,197
+"United Shore Financial Services, LLC",Closed with explanation,430,0.0233,198
+"RentDebt Automated Collections, LLC",Closed with explanation,427,0.0232,199
+CL Holdings LLC,Closed with non-monetary relief,419,0.0227,200
+Monterey Financial Services LLC,Closed with explanation,415,0.0225,201
+"Bull City Financial Solutions, Inc",Closed with explanation,414,0.0225,202
+Possible Financial Inc,Closed with explanation,414,0.0225,203
+"Aargon Agency, Inc.",Closed with explanation,411,0.0223,204
+BTH Management,Closed with explanation,406,0.022,205
+Winklevoss Exchange LLC,Closed with explanation,406,0.022,206
+RoundPoint Mortgage Servicing LLC,Closed with explanation,400,0.0217,207
+FIRST NATIONAL BANK OF OMAHA,Closed with explanation,397,0.0215,208
+FIRST PORTFOLIO SERVICING INC,Closed with explanation,390,0.0212,209
+FORD MOTOR CREDIT CO.,Closed with explanation,389,0.0211,210
+Lendmark Financial Services,Closed with explanation,389,0.0211,211
+"MARINER FINANCE, LLC",Closed with explanation,380,0.0206,212
+Comerica,Closed with explanation,379,0.0206,213
+"PLANET HOME LENDING, LLC",Closed with explanation,372,0.0202,214
+"Bounce AI, Inc.",Closed with explanation,369,0.02,215
+Consumer Adjustment Company Incorporated,Closed with explanation,366,0.0199,216
+HSBC NORTH AMERICA HOLDINGS INC.,Closed with explanation,365,0.0198,217
+Unifin Inc.,Closed with explanation,364,0.0198,218
+"LAKEVIEW LOAN SERVICING, LLC",Closed with explanation,353,0.0192,219
+Atlanticus Services Corporation,Closed with monetary relief,352,0.0191,220
+"MRS BPO, LLC",Closed with non-monetary relief,349,0.0189,221
+Army and Air Force Exchange Service,Closed with explanation,348,0.0189,222
+"CITIZENS FINANCIAL GROUP, INC.",Closed with monetary relief,348,0.0189,223
+Rent Recovery Solutions,Closed with explanation,344,0.0187,224
+Zions Debt Holdings,Closed with explanation,343,0.0186,225
+"ID Analytics, Inc.",Closed with non-monetary relief,342,0.0186,226
+Solar Mosaic LLC,Closed with explanation,337,0.0183,227
+"ONLINE Information Services, Inc.",Closed with explanation,336,0.0182,228
+Sezzle Inc.,Closed with explanation,336,0.0182,229
+Chime Financial Inc,Closed with non-monetary relief,323,0.0175,230
+"I.C. System, Inc.",Closed with non-monetary relief,322,0.0175,231
+"Colony Brands, Inc.",Closed with explanation,321,0.0174,232
+United PanAm Financial Corp.,Closed with explanation,319,0.0173,233
+Comerica,Closed with monetary relief,318,0.0173,234
+Comerica,Closed with non-monetary relief,317,0.0172,235
+Central Research Inc,Closed with explanation,315,0.0171,236
+"Checkr, Inc",Closed with explanation,314,0.017,237
+"Debt Recovery Solutions, LLC",Closed with explanation,310,0.0168,238
+"Carvana Group, LLC",Closed with explanation,308,0.0167,239
+ALLY FINANCIAL INC.,Closed with non-monetary relief,306,0.0166,240
+"LD Holdings Group, LLC",Closed with explanation,305,0.0166,241
+"Credit Systems International, Inc.",Closed with explanation,303,0.0164,242
+"BMW Financial Services NA, LLC",Closed with explanation,302,0.0164,243
+"Dave Operating, LLC",Closed with explanation,301,0.0163,244
+CrossCountry Mortgage LLC,Closed with explanation,296,0.0161,245
+"Rowland Avenue Management, Inc. A/KA Columbia Debt Recovery, LLC d/b/a Genesis",Closed with non-monetary relief,294,0.016,246
+Blackhawk Network Holdings Inc.,Closed with explanation,293,0.0159,247
+VW Credit,Closed with explanation,292,0.0158,248
+Alorica Inc.,Closed with explanation,291,0.0158,249
+DISCOVER BANK,Closed with monetary relief,291,0.0158,250
+Conduent Incorporated,Closed with explanation,290,0.0157,251
+Larry H. Miller Group of Companies,Closed with explanation,288,0.0156,252
+STATE EMPLOYEES CREDIT UNION,Closed with explanation,287,0.0156,253
+Climb Credit Inc.,Closed with explanation,285,0.0155,254
+"Byrider Franchising, LLC",Closed with explanation,281,0.0153,255
+"Foris DAX, Inc.",Closed with explanation,279,0.0151,256
+T.S. Holdings,Closed with non-monetary relief,279,0.0151,257
+"Remitly, Inc.",Closed with explanation,277,0.015,258
+MORGAN STANLEY & CO. LLC,Closed with explanation,275,0.0149,259
+PNC Bank N.A.,Closed with monetary relief,275,0.0149,260
+"Kimball, Tirey & St. John LLP",Closed with explanation,273,0.0148,261
+Regional Management Corporation,Closed with explanation,273,0.0148,262
+"United Collection Bureau, Inc.",Closed with explanation,272,0.0148,263
+"HUNTINGTON NATIONAL BANK, THE",Closed with monetary relief,270,0.0147,264
+"Professional Debt Mediation, Inc.",Closed with explanation,270,0.0147,265
+AES/PHEAA,Closed with explanation,268,0.0145,266
+"CHARLES SCHWAB CORPORATION, THE",Closed with explanation,266,0.0144,267
+"Waypoint Resource Group, LLC",Closed with explanation,266,0.0144,268
+TRUIST FINANCIAL CORPORATION,Closed with non-monetary relief,264,0.0143,269
+"Prosper Marketplace, Inc.",Closed with explanation,261,0.0142,270
+Credit Fresh Holdings Inc,Closed with explanation,254,0.0138,271
+CONTRACT CALLERS INC,Closed with explanation,253,0.0137,272
+"SOFI TECHNOLOGIES, INC.",Closed with monetary relief,252,0.0137,273
+World Omni Financial Corp.,Closed with explanation,252,0.0137,274
+OPORTUN FINANCIAL CORPORATION,Closed with explanation,246,0.0134,275
+ADP Inc.,Closed with explanation,240,0.013,276
+Penn Credit Corporation,Closed with explanation,240,0.013,277
+CNG FINANCIAL CORPORATION,Closed with explanation,239,0.013,278
+"OPTUM BANK, INC.",Closed with explanation,239,0.013,279
+The Receivable Management Services LLC,Closed with explanation,239,0.013,280
+Synergetic Communication Inc,Closed with explanation,237,0.0129,281
+Westcreek Financial,Closed with explanation,235,0.0128,282
+"Bilt Technologies, Inc.",Closed with explanation,233,0.0126,283
+"Williams & Fudge, Inc",Closed with explanation,232,0.0126,284
+SUNCOAST CREDIT UNION,Closed with explanation,231,0.0125,285
+First Credit Services Inc.,Closed with explanation,231,0.0125,286
+"Marlette Funding, LLC",Closed with explanation,230,0.0125,287
+"The Bureaus, Inc.",Closed with explanation,229,0.0124,288
+Village Capital & Investment LLC,Closed with explanation,228,0.0124,289
+SECURITY FINANCE CORP,Closed with explanation,227,0.0123,290
+"FIRST CITIZENS BANCSHARES, INC.",Closed with explanation,226,0.0123,291
+"Shepherd Outsourcing, LLC",Closed with explanation,226,0.0123,292
+Atlanticus Services Corporation,Closed with non-monetary relief,225,0.0122,293
+Google Compare Credit Cards Inc.,Closed with explanation,221,0.012,294
+"Cascade CISS Holdings, LLC",Closed with explanation,220,0.0119,295
+"BSI Financial Holdings, Inc.",Closed with explanation,219,0.0119,296
+"EGL US, LLC",Closed with explanation,219,0.0119,297
+UNITED SERVICES AUTOMOBILE ASSOCIATION,Closed with monetary relief,219,0.0119,298
+"AXOS FINANCIAL, INC.",Closed with explanation,217,0.0118,299
+"Medical Data Systems, Inc.",Closed with explanation,215,0.0117,300
+"Credit Karma, LLC",Closed with non-monetary relief,211,0.0115,301
+"Ava Finance, Inc",Closed with explanation,210,0.0114,302
+"Skrill USA, Inc.",Closed with explanation,210,0.0114,303
+"January Technologies, Inc",Closed with explanation,209,0.0113,304
+LCI Acquisition Inc.,Closed with explanation,209,0.0113,305
+BARCLAYS BANK DELAWARE,Closed with monetary relief,208,0.0113,306
+CREDIT ACCEPTANCE CORPORATION,Closed with monetary relief,208,0.0113,307
+"Credit Karma, LLC",Closed with monetary relief,207,0.0112,308
+FirstPoint Collection Resources,Closed with explanation,207,0.0112,309
+"WEBSTER BANK, NATIONAL ASSOCIATION",Closed with explanation,206,0.0112,310
+BMO BANK NATIONAL ASSOCIATION,Closed with non-monetary relief,205,0.0111,311
+Rosebud Economic Development Corporation,Closed with explanation,205,0.0111,312
+TRUIST FINANCIAL CORPORATION,Closed with monetary relief,204,0.0111,313
+FIRST ADVANTAGE CORPORATION,Closed with explanation,202,0.011,314
+"Optio Solutions, LLC",Closed with explanation,202,0.011,315
+"HUNTINGTON NATIONAL BANK, THE",Closed with non-monetary relief,201,0.0109,316
+VYSTAR CREDIT UNION,Closed with explanation,201,0.0109,317
+"Sunbit, Inc.",Closed with explanation,201,0.0109,318
+MIDFIRST BANK,Closed with explanation,200,0.0109,319
+"Tower Loan of Mississippi, Inc.",Closed with explanation,200,0.0109,320
+BMO BANK NATIONAL ASSOCIATION,Closed with monetary relief,197,0.0107,321
+Payward Ventures Inc. dba Kraken,Closed with explanation,197,0.0107,322
+"Tesla, Inc.",Closed with explanation,197,0.0107,323
+AmeriCollect,Closed with explanation,195,0.0106,324
+"Aqua Finance, Inc.",Closed with explanation,194,0.0105,325
+"AmeriHome Mortgage Company, LLC",Closed with explanation,193,0.0105,326
+"Oliphant United, Inc.",Closed with explanation,193,0.0105,327
+"CLGF Holdco 1, LLC",Closed with monetary relief,192,0.0104,328
+"Nationwide Capital Services, LLC",Closed with explanation,192,0.0104,329
+Kovo,Closed with explanation,189,0.0103,330
+"Cedars Business Services, LLC",Closed with explanation,188,0.0102,331
+UNITED SERVICES AUTOMOBILE ASSOCIATION,Closed with non-monetary relief,188,0.0102,332
+FREEDOM FINANCIAL NETWORK,Closed with explanation,186,0.0101,333
+"FactorTrust, Inc.",Closed with explanation,186,0.0101,334
+"CMG Financial Services, Inc.",Closed with explanation,185,0.01,335
+Stellantis Financial Services US Corp.,Closed with explanation,185,0.01,336
+"Firstsource Business Process Services, LLC",Closed with explanation,183,0.0099,337
+ZWICKER & ASSOCIATES,Closed with explanation,181,0.0098,338
+ALLIANT CREDIT UNION,Closed with explanation,180,0.0098,339
+Albert Corporation,Closed with explanation,180,0.0098,340
+"Continental Services Group, Inc. d/b/a ConServe",Closed with explanation,180,0.0098,341
+WLCC,Closed with explanation,178,0.0097,342
+Rausch Sturm LLP,Closed with explanation,178,0.0097,343
+HEARTLAND PAYMENT SYSTEMS INC,Closed with explanation,176,0.0096,344
+Healthcare Finance Direct LLC.,Closed with explanation,176,0.0096,345
+CHERRY TECHNOLOGIES INC.,Closed with explanation,173,0.0094,346
+TomoCredit Inc.,Closed with explanation,171,0.0093,347
+MONEYGRAM PAYMENT SYSTEMS WORLDWIDE INC,Closed with explanation,171,0.0093,348
+"Harpeth Financial Services, LLC",Closed with explanation,169,0.0092,349
+MicroBilt / PRBC (formerly CL Verify),Closed with explanation,169,0.0092,350
+Thaxton Investment Corporation,Closed with explanation,169,0.0092,351
+NATIONAL DEBT RELIEF LLC,Closed with explanation,168,0.0091,352
+OneMain Finance Corporation,Closed with non-monetary relief,166,0.009,353
+Rent Recovery Solutions,Untimely response,162,0.0088,354
+"Revco Management, LLC",Closed with non-monetary relief,161,0.0087,355
+"Goal Structured Solutions, LLC",Closed with explanation,161,0.0087,356
+"Americas Car-Mart, Inc.",Closed with explanation,158,0.0086,357
+FIRST TECHNOLOGY FEDERAL CREDIT UNION,Closed with explanation,158,0.0086,358
+"Valon Technologies, Inc.",Closed with explanation,157,0.0085,359
+"BROKER SOLUTIONS, INC.",Closed with explanation,157,0.0085,360
+KEYCORP,Closed with monetary relief,156,0.0085,361
+"GREENSKY OPERATIONS, LLC",Closed with explanation,155,0.0084,362
+ALLY FINANCIAL INC.,Closed with monetary relief,154,0.0084,363
+"Crown Asset Management, LLC, Duluth, GA Branch",Closed with explanation,154,0.0084,364
+American Coradius International LLC,Closed with explanation,152,0.0082,365
+"CAINE & WEINER COMPANY, INC.",Closed with non-monetary relief,152,0.0082,366
+"Branch Messenger, Inc.",Closed with explanation,151,0.0082,367
+"Gurstel Law Firm, P.C.",Closed with explanation,150,0.0081,368
+"Helvey & Associates, Inc., Warsaw, IN Branch",Closed with explanation,150,0.0081,369
+Mercury Financial Intermediate LLC,Closed with explanation,150,0.0081,370
+"Consumer Financial Services Solutions, Inc.",Closed with explanation,149,0.0081,371
+Zip Co US Inc.,Closed with explanation,148,0.008,372
+"Conn's, Inc.",Closed with explanation,147,0.008,373
+"Relay Financial (US), Corp.",Closed with explanation,147,0.008,374
+"Receivables Management Partners, LLC",Closed with explanation,146,0.0079,375
+21ST MORTGAGE CORP.,Closed with explanation,145,0.0079,376
+"Blockchain.com, Inc.",Closed with explanation,145,0.0079,377
+Revolut Technologies Inc.,Closed with explanation,145,0.0079,378
+"Law Office of Michael J. Scott, PC",Closed with explanation,145,0.0079,379
+REGIONS FINANCIAL CORPORATION,Closed with monetary relief,144,0.0078,380
+United Revenue Corporation,Closed with explanation,144,0.0078,381
+"Duvera Billing Services, LLC",Closed with explanation,143,0.0078,382
+BOEING EMPLOYEES' CREDIT UNION,Closed with explanation,142,0.0077,383
+CIG FINANCIAL LLC,Closed with explanation,140,0.0076,384
+"Open Dealer Exchange, LLC",Closed with explanation,140,0.0076,385
+"Veros Credit, LLC",Closed with explanation,140,0.0076,386
+ZIONS BANCORPORATION,Closed with explanation,140,0.0076,387
+"GOLDEN 1 CREDIT UNION, THE",Closed with explanation,138,0.0075,388
+"WHEELS FINANCIAL GROUP, LLC.",Closed with explanation,138,0.0075,389
+"RFNA, LP",Closed with explanation,136,0.0074,390
+BANCO POPULAR DE PUERTO RICO,Closed with explanation,135,0.0073,391
+TClub Inc,Closed with explanation,135,0.0073,392
+"General Motors Financial Company, Inc.",Closed with non-monetary relief,134,0.0073,393
+Diverse Funding Associates LLC,Closed with explanation,133,0.0072,394
+"Blitt and Gaines, P.C.",Closed with explanation,132,0.0072,395
+"Lloyd & McDaniel, PLC",Closed with explanation,132,0.0072,396
+"Property Receivables, Corp",Closed with explanation,132,0.0072,397
+"Carter-Young, Inc.",Closed with explanation,129,0.007,398
+"Client Services, Inc.",Closed with explanation,129,0.007,399
+"Uprova Credit, LLC",Closed with explanation,129,0.007,400
+AMERISAVE MORTGAGE CORPORATION,Closed with explanation,127,0.0069,401
+Concord Servicing Corporation,Closed with explanation,127,0.0069,402
+"Dovenmuehle Mortgage, Inc.",Closed with explanation,127,0.0069,403
+BlueChip Financial,Closed with explanation,126,0.0068,404
+"CAVALRY INVESTMENTS, LLC",Closed with non-monetary relief,125,0.0068,405
+CNG HOLDINGS INC,Closed with explanation,125,0.0068,406
+"Southwest Recovery Services, Inc.",Closed with explanation,125,0.0068,407
+AMERICA FIRST FEDERAL CREDIT UNION,Closed with explanation,124,0.0067,408
+"ARVEST BANK GROUP, INC.",Closed with explanation,124,0.0067,409
+"Weltman, Weinberg & Reis Co., L.P.A.",Closed with explanation,124,0.0067,410
+Professional Recovery Management,Closed with explanation,124,0.0067,411
+RANDOLPH-BROOKS FEDERAL CREDIT UNION,Closed with explanation,122,0.0066,412
+COMMERCE BANK,Closed with explanation,122,0.0066,413
+"Advance America, Cash Advance Centers, Inc.",Closed with explanation,121,0.0066,414
+DriveTime,Closed with explanation,121,0.0066,415
+FIRST HORIZON BANK,Closed with explanation,121,0.0066,416
+LOBEL FINANCIAL CORPORATION,Closed with explanation,121,0.0066,417
+"BANK OF NEW YORK MELLON CORPORATION, THE",Closed with explanation,120,0.0065,418
+Newport Intermediate Inc.,Closed with explanation,120,0.0065,419
+FourLeaf Federal Credit Union,Closed with explanation,119,0.0065,420
+"Skopos Financial, LLC",Closed with explanation,119,0.0065,421
+MOUNTAIN AMERICA FEDERAL CREDIT UNION,Closed with explanation,118,0.0064,422
+"Alliance One, Inc.",Closed with non-monetary relief,118,0.0064,423
+"SERVICEMAC, LLC",Closed with explanation,117,0.0063,424
+"National Consumer Telecom & Utilities Exchange, Inc.",Closed with explanation,117,0.0063,425
+1st Franklin Financial Corporation,Closed with explanation,116,0.0063,426
+"Summit A*R, Inc.",Closed with explanation,116,0.0063,427
+Harley Davidson Financial Services Inc,Closed with explanation,116,0.0063,428
+"CULLEN/FROST BANKERS, INC.",Closed with explanation,115,0.0062,429
+"VANDERBILT MORTGAGE & FINANCE, INC",Closed with explanation,114,0.0062,430
+First Technology Federal Credit Union,Closed with explanation,113,0.0061,431
+InDebted Corporation,Closed with explanation,113,0.0061,432
+"Jim Bottin Enterprises, Inc",Closed with explanation,111,0.006,433
+"F.H. Cann & Associates, Inc.",Closed with explanation,111,0.006,434
+"Sentry Credit, Inc.",Closed with explanation,111,0.006,435
+"Mortgage Research Center, LLC",Closed with explanation,110,0.006,436
+"Mercury Technologies, Inc.",Closed with explanation,109,0.0059,437
+"GLA Collection Company, Inc.",Closed with explanation,108,0.0059,438
+"Monarch Recovery Holdings, Inc.",Closed with explanation,108,0.0059,439
+SN SERVICING CORPORATION,Closed with explanation,108,0.0059,440
+Guild Holdings Company,Closed with explanation,107,0.0058,441
+"Meridian Financial Services, Inc.",Closed with explanation,107,0.0058,442
+"Pressler & Pressler, LLP",Closed with explanation,107,0.0058,443
+MOHELA,In progress,106,0.0058,444
+CapitalJ Inc. dba Juno,Closed with explanation,105,0.0057,445
+Wolf River Development Company,Closed with explanation,105,0.0057,446
+SLM CORPORATION,Closed with non-monetary relief,105,0.0057,447
+"Bridge IT, Inc.",Closed with explanation,104,0.0056,448
+"ONLINE Information Services, Inc.",Closed with non-monetary relief,104,0.0056,449
+"DailyPay, Inc",Closed with explanation,104,0.0056,450
+Experian Information Solutions Inc.,Closed with monetary relief,103,0.0056,451
+FIRST NATIONAL BANK OF PENNSYLVANIA,Closed with explanation,102,0.0055,452
+Linebarger Goggan Blair & Sampson LLP,Closed with explanation,102,0.0055,453
+"Mandarich Law Group, LLP",Closed with explanation,102,0.0055,454
+Southern Management Systems Inc.,Closed with explanation,102,0.0055,455
+"Williams, Rush & Associates, LLC",Closed with explanation,102,0.0055,456
+"ResidentCollect, Inc.",Closed with explanation,102,0.0055,457
+"Synerprise Consulting Services, Inc.",Closed with explanation,101,0.0055,458
+"Servicing Solutions, LLC",Closed with explanation,100,0.0054,459
+LendingPoint Holdings LLC,Closed with explanation,98,0.0053,460
+M&T BANK CORPORATION,Closed with monetary relief,98,0.0053,461
+ASSOCIATED BANC-CORP,Closed with explanation,97,0.0053,462
+Meta Payments Inc.,Closed with explanation,97,0.0053,463
+"Adler Wallach & Associates, Inc.",Closed with explanation,96,0.0052,464
+"The Outsource Group, Inc",Closed with explanation,96,0.0052,465
+Torriere Holdings INC,Closed with explanation,96,0.0052,466
+"Populus Financial Group, Inc. (F/K/A Ace Cash Express)",Closed with explanation,95,0.0052,467
+UMB FINANCIAL CORPORATION,Closed with explanation,95,0.0052,468
+"GVA Holdings, LLC",Closed with explanation,94,0.0051,469
+"Leafy Financial, LLC",Closed with explanation,94,0.0051,470
+World Acceptance Corporation,Closed with non-monetary relief,92,0.005,471
+Frost-Arnett Company,Closed with explanation,92,0.005,472
+"PENNYMAC LOAN SERVICES, LLC.",Closed with non-monetary relief,92,0.005,473
+Driveway Finance Corporation,Closed with explanation,91,0.0049,474
+"Kinum, Inc., Indianapolis, IN Branch",Closed with explanation,91,0.0049,475
+"AR Resources, Inc.",Closed with explanation,90,0.0049,476
+Data Mortgage Inc.,Closed with explanation,90,0.0049,477
+Novo Platform Inc.,Closed with explanation,90,0.0049,478
+Lendbuzz Inc.,Closed with explanation,90,0.0049,479
+2288984 Ontario Inc.,Closed with explanation,89,0.0048,480
+"MRS BPO, LLC",Closed with explanation,89,0.0048,481
+"P&B Capital Group, LLC",Closed with explanation,89,0.0048,482
+"First Federal Credit Control, Inc.",Closed with explanation,89,0.0048,483
+Johnson Mark LLC,Closed with explanation,89,0.0048,484
+"LDF Holdings, LLC",Closed with explanation,88,0.0048,485
+SUN LOAN COMPANY INC.,Closed with explanation,88,0.0048,486
+SinglePoint GI,Closed with explanation,88,0.0048,487
+"Valor Intelligent Processing, LLC",Closed with explanation,88,0.0048,488
+Exto Inc.,Closed with explanation,88,0.0048,489
+MECHANICS BANK,Closed with explanation,87,0.0047,490
+Prince Parker & Associates,Closed with explanation,87,0.0047,491
+Starmark Financial LLC,Closed with explanation,87,0.0047,492
+"EVERBANK, NATIONAL ASSOCIATION",Closed with explanation,87,0.0047,493
+"CreditNinja Lending, LLC",Closed with explanation,86,0.0047,494
+Payfare International Inc.,Closed with explanation,85,0.0046,495
+"American First Finance, Inc.",Closed with explanation,85,0.0046,496
+The Phoenix Recovery Group,Closed with explanation,85,0.0046,497
+"Associated Credit Services, Inc.",Closed with explanation,84,0.0046,498
+MoneyLion Inc.,Closed with non-monetary relief,84,0.0046,499
+"Volvo Car Financial Services U.S., LLC",Closed with explanation,84,0.0046,500

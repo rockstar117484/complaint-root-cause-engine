@@ -1,0 +1,3915 @@
+company,complaints,share_pct,rank
+"EQUIFAX, INC.",449805,24.4124,1
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",430858,23.384,2
+Experian Information Solutions Inc.,406541,22.0643,3
+"Block, Inc.",42732,2.3192,4
+CAPITAL ONE FINANCIAL CORPORATION,26624,1.445,5
+JPMORGAN CHASE & CO.,21055,1.1427,6
+"Early Warning Services, LLC",18619,1.0105,7
+WELLS FARGO & COMPANY,16829,0.9134,8
+"CITIBANK, N.A.",16718,0.9073,9
+"BANK OF AMERICA, NATIONAL ASSOCIATION",16299,0.8846,10
+NAVY FEDERAL CREDIT UNION,14021,0.761,11
+Resurgent Capital Services L.P.,13304,0.7221,12
+SYNCHRONY FINANCIAL,11414,0.6195,13
+ENCORE CAPITAL GROUP INC.,9908,0.5377,14
+Chime Financial Inc,9528,0.5171,15
+CL Holdings LLC,9514,0.5164,16
+"Paypal Holdings, Inc",9000,0.4885,17
+"Portfolio Recovery Associates, LLC",8536,0.4633,18
+AMERICAN EXPRESS COMPANY,8501,0.4614,19
+MOHELA,8379,0.4548,20
+"Bread Financial Holdings, Inc.",6101,0.3311,21
+DISCOVER BANK,5817,0.3157,22
+LEXISNEXIS,5636,0.3059,23
+U.S. BANCORP,5329,0.2892,24
+"CBC Companies, Inc.",4995,0.2711,25
+"Nelnet, Inc.",4892,0.2655,26
+GOLDMAN SACHS BANK USA,4626,0.2511,27
+TD BANK US HOLDING COMPANY,4392,0.2384,28
+TRUIST FINANCIAL CORPORATION,4390,0.2383,29
+"SANTANDER HOLDINGS USA, INC.",4168,0.2262,30
+"Shellpoint Partners, LLC",4126,0.2239,31
+ALLY FINANCIAL INC.,4093,0.2221,32
+"CCS Financial Services, Inc.",4045,0.2195,33
+"National Credit Systems,Inc.",3762,0.2042,34
+"Affirm Holdings, Inc",3563,0.1934,35
+BARCLAYS BANK DELAWARE,3537,0.192,36
+"Kriya Capital, LLC",3215,0.1745,37
+"SOFI TECHNOLOGIES, INC.",3194,0.1733,38
+TRANSWORLD SYSTEMS INC,3188,0.173,39
+"Maximus Federal Services, Inc.",3028,0.1643,40
+"I.C. System, Inc.",2992,0.1624,41
+PNC Bank N.A.,2952,0.1602,42
+CREDIT ACCEPTANCE CORPORATION,2647,0.1437,43
+"Westlake Services, LLC",2635,0.143,44
+UNITED SERVICES AUTOMOBILE ASSOCIATION,2500,0.1357,45
+Mr. Cooper Group Inc.,2391,0.1298,46
+OneMain Finance Corporation,2361,0.1281,47
+"Rowland Avenue Management, Inc. A/KA Columbia Debt Recovery, LLC d/b/a Genesis",2191,0.1189,48
+"CLGF Holdco 1, LLC",2107,0.1144,49
+Self Financial Inc.,2102,0.1141,50
+"Fidelity National Information Services, Inc. (FNIS)",2100,0.114,51
+ROBINHOOD MARKETS INC.,2067,0.1122,52
+"CAINE & WEINER COMPANY, INC.",2048,0.1112,53
+"Spring Oaks Capital, LLC",2024,0.1098,54
+EdFinancial Services,1974,0.1071,55
+"CITIZENS FINANCIAL GROUP, INC.",1825,0.099,56
+T.S. Holdings,1687,0.0916,57
+Servicer under contract with Federal Student Aid,1671,0.0907,58
+"Navient Solutions, LLC.",1629,0.0884,59
+"Exeter Finance, LLC.",1627,0.0883,60
+FIFTH THIRD FINANCIAL CORPORATION,1584,0.086,61
+Bridgecrest Acceptance Corporation,1578,0.0856,62
+"Coinbase, Inc.",1557,0.0845,63
+Freedom Mortgage Company,1542,0.0837,64
+Radius Global Solutions LLC,1497,0.0812,65
+"Rocket Mortgage, LLC",1408,0.0764,66
+Kikoff Inc.,1334,0.0724,67
+"National Credit Adjusters, LLC",1310,0.0711,68
+TOYOTA MOTOR CREDIT CORPORATION,1299,0.0705,69
+"HW Holding, Inc",1282,0.0696,70
+BMO BANK NATIONAL ASSOCIATION,1276,0.0693,71
+"SUNRISE CREDIT SERVICES, INC",1275,0.0692,72
+Ocwen Financial Corporation,1238,0.0672,73
+"HUNTINGTON NATIONAL BANK, THE",1228,0.0666,74
+Atlanticus Services Corporation,1211,0.0657,75
+"Aldous & Associates, PLLC",1148,0.0623,76
+TrueAccord Corp.,1131,0.0614,77
+"General Motors Financial Company, Inc.",1127,0.0612,78
+"FAIR COLLECTIONS & OUTSOURCING, INC.",1124,0.061,79
+HYUNDAI CAPITAL AMERICA,1079,0.0586,80
+"Harris & Harris, Ltd.",1068,0.058,81
+"Credit Karma, LLC",1058,0.0574,82
+NCB Management Services Inc.,1058,0.0574,83
+"ProCollect, Inc.",1034,0.0561,84
+REGIONS FINANCIAL CORPORATION,1018,0.0553,85
+"SELECT PORTFOLIO SERVICING, INC.",1015,0.0551,86
+Comerica,1014,0.055,87
+"ID Analytics, Inc.",995,0.054,88
+M&T BANK CORPORATION,985,0.0535,89
+"UPGRADE, INC.",985,0.0535,90
+"PENNYMAC LOAN SERVICES, LLC.",982,0.0533,91
+Global Lending Services LLC,946,0.0513,92
+"W&A Intermediate Co., LLC",929,0.0504,93
+"ENOVA INTERNATIONAL, INC.",910,0.0494,94
+"Southwest Credit Systems, L.P.",906,0.0492,95
+Netspend Corporation,888,0.0482,96
+"Credit Control, LLC",881,0.0478,97
+"ACIMA CREDIT, LLC",856,0.0465,98
+CCF Intermediate Holdings LLC,851,0.0462,99
+FISERV FINXACT CORE,830,0.045,100
+Incomm Holdings Inc.,822,0.0446,101
+"Amsher Collection Services, Inc.",817,0.0443,102
+Klarna AB,817,0.0443,103
+"John C. Heath, Attorney at Law, PLLC",812,0.0441,104
+Selene Holdings LLC,799,0.0434,105
+SLM CORPORATION,790,0.0429,106
+Synovus Bank,785,0.0426,107
+Source Receivables Management LLC,774,0.042,108
+FinCo Services Inc DBA Current,753,0.0409,109
+"CAVALRY INVESTMENTS, LLC",750,0.0407,110
+"Sequium Asset Solutions, LLC",749,0.0407,111
+"Continental Finance Company, LLC",746,0.0405,112
+"American Credit Acceptance, LLC",728,0.0395,113
+MoneyLion Inc.,709,0.0385,114
+"Eastern Account Systems of Connecticut, Inc.",705,0.0383,115
+"NRA Group, LLC",697,0.0378,116
+"CARRINGTON MORTGAGE SERVICES, LLC",693,0.0376,117
+"Upstart Holdings, Inc.",684,0.0371,118
+NISSAN MOTOR ACCEPTANCE COMPANY LLC,680,0.0369,119
+"Collection Management Holdings, LLC",678,0.0368,120
+"Paramount GR Holdings, LLC",674,0.0366,121
+PENTAGON FEDERAL CREDIT UNION,669,0.0363,122
+Velocity Portfolio Group,659,0.0358,123
+"Avant Holding Company, Inc.",657,0.0357,124
+KEYCORP,650,0.0353,125
+"CarMax, Inc.",641,0.0348,126
+AMERICAN HONDA FINANCE CORP,638,0.0346,127
+V and H Portfolio,616,0.0334,128
+Advanced Resolution Services Inc.,611,0.0332,129
+World Acceptance Corporation,601,0.0326,130
+Central Portfolio Control Inc.,600,0.0326,131
+"LoanCare, LLC",598,0.0325,132
+FC HoldCo LLC,593,0.0322,133
+TekCollect Inc.,587,0.0319,134
+TransferWise Ltd,581,0.0315,135
+Credit Corp Solutions Inc.,578,0.0314,136
+"Security Credit Services, LLC",570,0.0309,137
+"The CBE Group, Inc.",564,0.0306,138
+Absolute Resolutions Corp.,561,0.0304,139
+"Halsted Financial Services, LLC.",553,0.03,140
+"Consumer Portfolio Services, Inc.",520,0.0282,141
+"Fay Servicing, LLC",509,0.0276,142
+CORELOGIC INC,508,0.0276,143
+FIRST NATIONAL BANK OF OMAHA,508,0.0276,144
+"Ability Recovery Services, LLC",507,0.0275,145
+Rent Recovery Solutions,506,0.0275,146
+"Lockhart, Morris & Montgomery Inc.",494,0.0268,147
+Mercedes Benz Financial Services,489,0.0265,148
+"Capio Partners, LLC",475,0.0258,149
+"WESTERN UNION COMPANY, THE",463,0.0251,150
+NEW YORK COMMUNITY BANCORP INC,456,0.0247,151
+"Diversified Adjustment Service, Inc.",450,0.0244,152
+"Opportunity Financial, LLC",440,0.0239,153
+"ONLINE Information Services, Inc.",440,0.0239,154
+"MRS BPO, LLC",438,0.0238,155
+LJ Ross Associates,434,0.0236,156
+FORD MOTOR CREDIT CO.,433,0.0235,157
+"United Shore Financial Services, LLC",432,0.0234,158
+Possible Financial Inc,431,0.0234,159
+"RentDebt Automated Collections, LLC",427,0.0232,160
+Monterey Financial Services LLC,420,0.0228,161
+"Bull City Financial Solutions, Inc",414,0.0225,162
+"Aargon Agency, Inc.",411,0.0223,163
+Winklevoss Exchange LLC,408,0.0221,164
+BTH Management,406,0.022,165
+RoundPoint Mortgage Servicing LLC,400,0.0217,166
+FIRST PORTFOLIO SERVICING INC,390,0.0212,167
+Lendmark Financial Services,389,0.0211,168
+"MARINER FINANCE, LLC",386,0.0209,169
+HSBC NORTH AMERICA HOLDINGS INC.,378,0.0205,170
+"PLANET HOME LENDING, LLC",372,0.0202,171
+"Bounce AI, Inc.",369,0.02,172
+Consumer Adjustment Company Incorporated,366,0.0199,173
+Unifin Inc.,364,0.0198,174
+"LAKEVIEW LOAN SERVICING, LLC",354,0.0192,175
+VW Credit,353,0.0192,176
+Army and Air Force Exchange Service,348,0.0189,177
+CrossCountry Mortgage LLC,347,0.0188,178
+Zions Debt Holdings,343,0.0186,179
+Sezzle Inc.,338,0.0183,180
+Solar Mosaic LLC,337,0.0183,181
+"Colony Brands, Inc.",321,0.0174,182
+United PanAm Financial Corp.,319,0.0173,183
+Central Research Inc,315,0.0171,184
+"Checkr, Inc",314,0.017,185
+"Debt Recovery Solutions, LLC",310,0.0168,186
+"Carvana Group, LLC",308,0.0167,187
+"LD Holdings Group, LLC",305,0.0166,188
+"Credit Systems International, Inc.",303,0.0164,189
+"BMW Financial Services NA, LLC",302,0.0164,190
+Larry H. Miller Group of Companies,302,0.0164,191
+"Dave Operating, LLC",301,0.0163,192
+Conduent Incorporated,294,0.016,193
+Blackhawk Network Holdings Inc.,294,0.016,194
+"Marlette Funding, LLC",294,0.016,195
+AES/PHEAA,292,0.0158,196
+Alorica Inc.,291,0.0158,197
+"Prosper Marketplace, Inc.",288,0.0156,198
+MORGAN STANLEY & CO. LLC,287,0.0156,199
+STATE EMPLOYEES CREDIT UNION,287,0.0156,200
+Climb Credit Inc.,285,0.0155,201
+"Foris DAX, Inc.",283,0.0154,202
+"CHARLES SCHWAB CORPORATION, THE",281,0.0153,203
+"Byrider Franchising, LLC",281,0.0153,204
+OPORTUN FINANCIAL CORPORATION,278,0.0151,205
+"Remitly, Inc.",277,0.015,206
+"Professional Debt Mediation, Inc.",276,0.015,207
+Regional Management Corporation,273,0.0148,208
+"Kimball, Tirey & St. John LLP",273,0.0148,209
+"United Collection Bureau, Inc.",272,0.0148,210
+VYSTAR CREDIT UNION,271,0.0147,211
+"Waypoint Resource Group, LLC",266,0.0144,212
+MIDFIRST BANK,258,0.014,213
+Credit Fresh Holdings Inc,254,0.0138,214
+Penn Credit Corporation,254,0.0138,215
+CONTRACT CALLERS INC,253,0.0137,216
+World Omni Financial Corp.,252,0.0137,217
+"Continental Services Group, Inc. d/b/a ConServe",252,0.0137,218
+MONEYGRAM PAYMENT SYSTEMS WORLDWIDE INC,251,0.0136,219
+Westcreek Financial,244,0.0132,220
+ADP Inc.,240,0.013,221
+The Receivable Management Services LLC,239,0.013,222
+"OPTUM BANK, INC.",239,0.013,223
+CNG FINANCIAL CORPORATION,239,0.013,224
+"FIRST CITIZENS BANCSHARES, INC.",239,0.013,225
+Synergetic Communication Inc,237,0.0129,226
+"Bilt Technologies, Inc.",237,0.0129,227
+"Williams & Fudge, Inc",232,0.0126,228
+SUNCOAST CREDIT UNION,231,0.0125,229
+First Credit Services Inc.,231,0.0125,230
+"The Bureaus, Inc.",229,0.0124,231
+Village Capital & Investment LLC,229,0.0124,232
+SECURITY FINANCE CORP,227,0.0123,233
+"Shepherd Outsourcing, LLC",226,0.0123,234
+Stellantis Financial Services US Corp.,224,0.0122,235
+Google Compare Credit Cards Inc.,222,0.012,236
+"AmeriHome Mortgage Company, LLC",222,0.012,237
+"Cascade CISS Holdings, LLC",220,0.0119,238
+"EGL US, LLC",219,0.0119,239
+"WEBSTER BANK, NATIONAL ASSOCIATION",219,0.0119,240
+"BSI Financial Holdings, Inc.",219,0.0119,241
+Thaxton Investment Corporation,217,0.0118,242
+"AXOS FINANCIAL, INC.",217,0.0118,243
+"Medical Data Systems, Inc.",215,0.0117,244
+"Ava Finance, Inc",211,0.0115,245
+"Skrill USA, Inc.",210,0.0114,246
+LCI Acquisition Inc.,209,0.0113,247
+"January Technologies, Inc",209,0.0113,248
+FirstPoint Collection Resources,207,0.0112,249
+FREEDOM FINANCIAL NETWORK,206,0.0112,250
+Rosebud Economic Development Corporation,206,0.0112,251
+ALLIANT CREDIT UNION,204,0.0111,252
+FIRST TECHNOLOGY FEDERAL CREDIT UNION,203,0.011,253
+"Aqua Finance, Inc.",203,0.011,254
+FIRST ADVANTAGE CORPORATION,202,0.011,255
+"Optio Solutions, LLC",202,0.011,256
+"Sunbit, Inc.",201,0.0109,257
+"Tower Loan of Mississippi, Inc.",200,0.0109,258
+"Tesla, Inc.",199,0.0108,259
+Payward Ventures Inc. dba Kraken,198,0.0107,260
+"GREENSKY OPERATIONS, LLC",196,0.0106,261
+AmeriCollect,195,0.0106,262
+"Oliphant United, Inc.",193,0.0105,263
+"Nationwide Capital Services, LLC",192,0.0104,264
+Kovo,189,0.0103,265
+"Cedars Business Services, LLC",188,0.0102,266
+"FactorTrust, Inc.",186,0.0101,267
+"CMG Financial Services, Inc.",185,0.01,268
+"Firstsource Business Process Services, LLC",183,0.0099,269
+ZWICKER & ASSOCIATES,181,0.0098,270
+Albert Corporation,180,0.0098,271
+Healthcare Finance Direct LLC.,180,0.0098,272
+CHERRY TECHNOLOGIES INC.,179,0.0097,273
+WLCC,178,0.0097,274
+Rausch Sturm LLP,178,0.0097,275
+HEARTLAND PAYMENT SYSTEMS INC,176,0.0096,276
+TomoCredit Inc.,172,0.0093,277
+MicroBilt / PRBC (formerly CL Verify),169,0.0092,278
+"Harpeth Financial Services, LLC",169,0.0092,279
+NATIONAL DEBT RELIEF LLC,168,0.0091,280
+"American First Finance, Inc.",164,0.0089,281
+"Revco Management, LLC",164,0.0089,282
+Revolut Technologies Inc.,162,0.0088,283
+"Goal Structured Solutions, LLC",161,0.0087,284
+"RFNA, LP",160,0.0087,285
+Mercury Financial Intermediate LLC,159,0.0086,286
+"Americas Car-Mart, Inc.",158,0.0086,287
+"Valon Technologies, Inc.",158,0.0086,288
+FIRST HORIZON BANK,157,0.0085,289
+"BROKER SOLUTIONS, INC.",157,0.0085,290
+"Crown Asset Management, LLC, Duluth, GA Branch",154,0.0084,291
+American Coradius International LLC,152,0.0082,292
+"Branch Messenger, Inc.",151,0.0082,293
+ZIONS BANCORPORATION,150,0.0081,294
+"Helvey & Associates, Inc., Warsaw, IN Branch",150,0.0081,295
+"Gurstel Law Firm, P.C.",150,0.0081,296
+"Consumer Financial Services Solutions, Inc.",149,0.0081,297
+AMERISAVE MORTGAGE CORPORATION,148,0.008,298
+Zip Co US Inc.,148,0.008,299
+"Conn's, Inc.",147,0.008,300
+"Relay Financial (US), Corp.",147,0.008,301
+"Receivables Management Partners, LLC",146,0.0079,302
+"Blockchain.com, Inc.",145,0.0079,303
+21ST MORTGAGE CORP.,145,0.0079,304
+"Law Office of Michael J. Scott, PC",145,0.0079,305
+United Revenue Corporation,144,0.0078,306
+"Duvera Billing Services, LLC",143,0.0078,307
+BOEING EMPLOYEES' CREDIT UNION,142,0.0077,308
+"Open Dealer Exchange, LLC",140,0.0076,309
+"Veros Credit, LLC",140,0.0076,310
+CIG FINANCIAL LLC,140,0.0076,311
+"GOLDEN 1 CREDIT UNION, THE",139,0.0075,312
+MOUNTAIN AMERICA FEDERAL CREDIT UNION,139,0.0075,313
+"WHEELS FINANCIAL GROUP, LLC.",138,0.0075,314
+BANCO POPULAR DE PUERTO RICO,138,0.0075,315
+"Reliant Capital Solutions, LLC",138,0.0075,316
+TClub Inc,135,0.0073,317
+Diverse Funding Associates LLC,134,0.0073,318
+"Lloyd & McDaniel, PLC",132,0.0072,319
+"Property Receivables, Corp",132,0.0072,320
+"Blitt and Gaines, P.C.",132,0.0072,321
+"ARVEST BANK GROUP, INC.",130,0.0071,322
+"Williams, Rush & Associates, LLC",130,0.0071,323
+"Carter-Young, Inc.",129,0.007,324
+"Client Services, Inc.",129,0.007,325
+"Uprova Credit, LLC",129,0.007,326
+"Dovenmuehle Mortgage, Inc.",128,0.0069,327
+"Southwest Recovery Services, Inc.",127,0.0069,328
+Concord Servicing Corporation,127,0.0069,329
+"SERVICEMAC, LLC",127,0.0069,330
+Newport Intermediate Inc.,126,0.0068,331
+BlueChip Financial,126,0.0068,332
+LendingPoint Holdings LLC,125,0.0068,333
+CNG HOLDINGS INC,125,0.0068,334
+Professional Recovery Management,125,0.0068,335
+"Weltman, Weinberg & Reis Co., L.P.A.",124,0.0067,336
+AMERICA FIRST FEDERAL CREDIT UNION,124,0.0067,337
+"CULLEN/FROST BANKERS, INC.",124,0.0067,338
+COMMERCE BANK,124,0.0067,339
+"Advance America, Cash Advance Centers, Inc.",122,0.0066,340
+LOBEL FINANCIAL CORPORATION,122,0.0066,341
+RANDOLPH-BROOKS FEDERAL CREDIT UNION,122,0.0066,342
+DriveTime,121,0.0066,343
+"BANK OF NEW YORK MELLON CORPORATION, THE",120,0.0065,344
+"Mercury Technologies, Inc.",120,0.0065,345
+First Technology Federal Credit Union,120,0.0065,346
+"Skopos Financial, LLC",119,0.0065,347
+FourLeaf Federal Credit Union,119,0.0065,348
+FIRST NATIONAL BANK OF PENNSYLVANIA,118,0.0064,349
+Harley Davidson Financial Services Inc,118,0.0064,350
+"Alliance One, Inc.",118,0.0064,351
+"VANDERBILT MORTGAGE & FINANCE, INC",117,0.0063,352
+"National Consumer Telecom & Utilities Exchange, Inc.",117,0.0063,353
+1st Franklin Financial Corporation,116,0.0063,354
+"Summit A*R, Inc.",116,0.0063,355
+Meta Payments Inc.,115,0.0062,356
+InDebted Corporation,113,0.0061,357
+Guild Holdings Company,112,0.0061,358
+"Meridian Financial Services, Inc.",112,0.0061,359
+"Jim Bottin Enterprises, Inc",111,0.006,360
+"F.H. Cann & Associates, Inc.",111,0.006,361
+"Sentry Credit, Inc.",111,0.006,362
+"Mortgage Research Center, LLC",110,0.006,363
+"Pressler & Pressler, LLP",108,0.0059,364
+"GLA Collection Company, Inc.",108,0.0059,365
+"Monarch Recovery Holdings, Inc.",108,0.0059,366
+SN SERVICING CORPORATION,108,0.0059,367
+CapitalJ Inc. dba Juno,105,0.0057,368
+Wolf River Development Company,105,0.0057,369
+"DailyPay, Inc",105,0.0057,370
+"Bridge IT, Inc.",104,0.0056,371
+Linebarger Goggan Blair & Sampson LLP,103,0.0056,372
+"Mandarich Law Group, LLP",102,0.0055,373
+Southern Management Systems Inc.,102,0.0055,374
+"ResidentCollect, Inc.",102,0.0055,375
+"Tilt Finance, Inc.",101,0.0055,376
+"Synerprise Consulting Services, Inc.",101,0.0055,377
+"McCarthy, Burgess & Wolff, Inc.",100,0.0054,378
+UMB FINANCIAL CORPORATION,100,0.0054,379
+"Servicing Solutions, LLC",100,0.0054,380
+ASSOCIATED BANC-CORP,99,0.0054,381
+Atlantic Recovery Solutions LLC,98,0.0053,382
+Torriere Holdings INC,97,0.0053,383
+"PINNACLE FINANCIAL PARTNERS, INC.",97,0.0053,384
+"Adler Wallach & Associates, Inc.",96,0.0052,385
+"The Outsource Group, Inc",96,0.0052,386
+"Populus Financial Group, Inc. (F/K/A Ace Cash Express)",95,0.0052,387
+"GVA Holdings, LLC",94,0.0051,388
+Transform Credit Inc.,94,0.0051,389
+"Leafy Financial, LLC",94,0.0051,390
+Chime Inc.,93,0.005,391
+CADENCE BANK,93,0.005,392
+SOUTHSTATE BANK CORPORATION,92,0.005,393
+Driveway Finance Corporation,92,0.005,394
+Frost-Arnett Company,92,0.005,395
+SUN LOAN COMPANY INC.,91,0.0049,396
+Novo Platform Inc.,91,0.0049,397
+"Kinum, Inc., Indianapolis, IN Branch",91,0.0049,398
+"P&B Capital Group, LLC",90,0.0049,399
+"AR Resources, Inc.",90,0.0049,400
+Data Mortgage Inc.,90,0.0049,401
+Lendbuzz Inc.,90,0.0049,402
+Exto Inc.,90,0.0049,403
+2288984 Ontario Inc.,89,0.0048,404
+Johnson Mark LLC,89,0.0048,405
+"First Federal Credit Control, Inc.",89,0.0048,406
+"Mid-Atlantic Finance Co., Inc.",89,0.0048,407
+"CreditNinja Lending, LLC",89,0.0048,408
+SinglePoint GI,88,0.0048,409
+"LDF Holdings, LLC",88,0.0048,410
+"Valor Intelligent Processing, LLC",88,0.0048,411
+MECHANICS BANK,87,0.0047,412
+Prince Parker & Associates,87,0.0047,413
+Starmark Financial LLC,87,0.0047,414
+"EVERBANK, NATIONAL ASSOCIATION",87,0.0047,415
+Activehours,87,0.0047,416
+Payfare International Inc.,86,0.0047,417
+OLD NATIONAL BANCORP,85,0.0046,418
+SCHOOLSFIRST FEDERAL CREDIT UNION,85,0.0046,419
+The Phoenix Recovery Group,85,0.0046,420
+"Associated Credit Services, Inc.",84,0.0046,421
+"Volvo Car Financial Services U.S., LLC",84,0.0046,422
+"Rozlin Financial Group, Inc.",83,0.0045,423
+"National Enterprise Systems, Inc.",83,0.0045,424
+SoLo Funds Inc.,82,0.0045,425
+BANKERS HEALTHCARE GROUP LLC,82,0.0045,426
+Viking Client Services,82,0.0045,427
+USCB Corporation,81,0.0044,428
+AFNI INC.,81,0.0044,429
+"COLUMBIA BANKING SYSTEM, INC.",81,0.0044,430
+"Applied Data Finance, LLC",80,0.0043,431
+"CashRepublic Holdings, Inc.",80,0.0043,432
+"OLIPHANT FINANCIAL, LLC",79,0.0043,433
+"Mobiloans, LLC",79,0.0043,434
+Collection Bureau of America Ltd.,79,0.0043,435
+"Sparrow Financial, Inc.",79,0.0043,436
+Movement Mortgage LLC,78,0.0042,437
+Creditors Bureau Associates,77,0.0042,438
+GUARANTEED RATE INC.,77,0.0042,439
+"The CMI Group, Inc.",76,0.0041,440
+"Capital Management Services, LP",76,0.0041,441
+AMERIS BANCORP,76,0.0041,442
+"Northstar Location Services, LLC",76,0.0041,443
+"Capital Accounts, LLC",76,0.0041,444
+"Sentry Recovery and Collections, Inc.",76,0.0041,445
+"Paramount Recovery Systems, L.P.",75,0.0041,446
+BOK FINANCIAL CORP,75,0.0041,447
+AVANTE,75,0.0041,448
+Patient Accounting Service Center,74,0.004,449
+"Rubin & Rothman, LLC",74,0.004,450
+DigniFi,74,0.004,451
+"SIMM Associates, Inc.",74,0.004,452
+Southern Auto Finance Co,73,0.004,453
+VALLEY NATIONAL BANCORP,73,0.004,454
+SG and Associates,72,0.0039,455
+"Ria Envia, LLC",72,0.0039,456
+"GFS II, LLC",72,0.0039,457
+"Americor Funding, LLC",72,0.0039,458
+Sunlight Financial LLC,72,0.0039,459
+The J. G. Wentworth Company,72,0.0039,460
+Hunt & Henriques,71,0.0039,461
+Bonneville Billing and Collections,71,0.0039,462
+Fig Tech Inc.,71,0.0039,463
+"RS Clark and Associates, Inc.",71,0.0039,464
+Kingston Data & Credit International Inc.,71,0.0039,465
+"Merchants and Medical Credit Corporation, Inc.",71,0.0039,466
+"Collection Bureau of the Hudson Valley, Inc.",70,0.0038,467
+"Jon Barry and Associates, Inc.",70,0.0038,468
+"Tenaglia & Hunt, PA",70,0.0038,469
+"CARDINAL FINANCIAL COMPANY, LIMITED PARTNERSHIP",70,0.0038,470
+"Figure Technologies, Inc",69,0.0037,471
+"Asset Recovery Solutions, LLC",69,0.0037,472
+"Javitch, Block & Rathbone LLC",69,0.0037,473
+"Perpay, Inc.",69,0.0037,474
+"Imprint Payments, Inc.",69,0.0037,475
+Messerli & Kramer P.A.,68,0.0037,476
+"Ray Klein, Inc.",68,0.0037,477
+"Merchants & Medical Adjustment Bureau, Inc. dba Credit Bureau Associates",68,0.0037,478
+"American Profit Recovery, Inc., Marlborough, MA Branch",68,0.0037,479
+"ECMC GROUP, INC.",68,0.0037,480
+"Trident Asset Management, L.L.C.",67,0.0036,481
+Idaho Housing And Finance Association,67,0.0036,482
+Credit Service International Corp,67,0.0036,483
+Fundo LLC,66,0.0036,484
+"Flexible Finance, Inc.",66,0.0036,485
+"Law Office of Brett M. Borland, P.C.",66,0.0036,486
+"First National Collection Bureau, Inc.",65,0.0035,487
+WSFS FINANCIAL CORPORATION,65,0.0035,488
+FULTON FINANCIAL CORPORATION,65,0.0035,489
+"Credit Central Holdings, LLC",65,0.0035,490
+Earnest Inc.,64,0.0035,491
+"Stenger & Stenger, P.C",64,0.0035,492
+Sunnova Energy Corporation,63,0.0034,493
+"Cascade Capital, LLC",63,0.0034,494
+"Momnt Technologies, Inc.",63,0.0034,495
+"Omega RMS, LLC",63,0.0034,496
+AUTOMOTIVE CREDIT CORPORATION,63,0.0034,497
+"National Collection Systems, Inc.",63,0.0034,498
+FIRSTBANK PUERTO RICO,63,0.0034,499
+"CMRE Financial Services, Inc.",62,0.0034,500
+Ascent Holding Co,62,0.0034,501
+"Deinde Online Services, LLC",62,0.0034,502
+"Franklin Collection Service, Inc.",62,0.0034,503
+"Business Processing Solutions, LLC",62,0.0034,504
+Entrata Inc.,61,0.0033,505
+"Real Time Group, Inc.",61,0.0033,506
+"Harvard Collections, LLC",61,0.0033,507
+"AC AutoPay LLC, Denver, CO Branch",61,0.0033,508
+"Io, Inc.",61,0.0033,509
+Yamaha Motor Finance Corporation USA,60,0.0033,510
+"PatientFi, Inc.",60,0.0033,511
+"Phillips & Cohen Associates, Ltd.",60,0.0033,512
+"Brock & Scott, PLLC",59,0.0032,513
+"Braviant Holdings, LLC",59,0.0032,514
+"Strategic Alliances, Inc.",59,0.0032,515
+CARD Corporation,59,0.0032,516
+MORTGAGE SOLUTIONS OF COLORADO,59,0.0032,517
+Sigue Corp.,58,0.0031,518
+"Lennar Financial Services, LLC",58,0.0031,519
+SAN DIEGO COUNTY CREDIT UNION,58,0.0031,520
+BAM Management US Holdings Inc.,58,0.0031,521
+"PlusFour, Inc",58,0.0031,522
+Western-Shamrock Corporation,57,0.0031,523
+"Arivo Acceptance, LLC",57,0.0031,524
+Denefits LLC,57,0.0031,525
+"Herbert P. Sears Co., Inc.",57,0.0031,526
+TRUSTMARK CORPORATION,57,0.0031,527
+"Happy Money, Inc.",56,0.003,528
+"Peer Advisors, LLC",56,0.003,529
+"Certegy Holdings, LLC",56,0.003,530
+PREFERRED CREDIT INC,56,0.003,531
+Park Hill Holdings,55,0.003,532
+Marauder Corporation,55,0.003,533
+CCM Finance LLC,55,0.003,534
+Benht: Economic Development Corporation,55,0.003,535
+GLOBAL CREDIT UNION,55,0.003,536
+SIMMONS FIRST NATIONAL CORPORATION,54,0.0029,537
+Millco Management,54,0.0029,538
+"FlexShopper, Inc",54,0.0029,539
+"Express Recovery Services, Inc.",54,0.0029,540
+"Wilber and Associates, P.C.",54,0.0029,541
+Minto Financial dba Minto Money,53,0.0029,542
+"FMA Alliance, Ltd.",53,0.0029,543
+Kohn Law Firm S.C.,53,0.0029,544
+Bright Capital Inc,52,0.0028,545
+Medical-Commercial Audit Inc,52,0.0028,546
+"Better Mortgage, Inc.",52,0.0028,547
+"Torres Credit Services, Inc.",52,0.0028,548
+Sterling Infosystems Inc.,52,0.0028,549
+Crow Creek Sioux Tribe,52,0.0028,550
+"Allied Collection Services, Inc. (Nevada)",51,0.0028,551
+"Suttell, Hammer & White, P.S",51,0.0028,552
+"Merchants Adjustment Service, Inc.",51,0.0028,553
+"Glasser and Glasser, PLC",51,0.0028,554
+BANK OZK,51,0.0028,555
+FCI Lender Services Inc.,51,0.0028,556
+Kashable LLC,50,0.0027,557
+Grow Credit Inc,50,0.0027,558
+"M.A.R.S., Inc.",50,0.0027,559
+"Mountain Land Collections, Inc.",50,0.0027,560
+WorldRemit Corp.,50,0.0027,561
+Consumer Collection Management. Inc,50,0.0027,562
+"Roadrunner Account Services, LLC",50,0.0027,563
+"Federal Adjustment Bureau, Inc.",50,0.0027,564
+"Aldridge PIte Haan, LLP",50,0.0027,565
+"FEDChex Recovery, LLC",50,0.0027,566
+"R.A.Rogers, Inc.",50,0.0027,567
+"Eastern Revenue, Inc.",50,0.0027,568
+Essential Lending Inc,50,0.0027,569
+"Elevate Recoveries, LLC",49,0.0027,570
+NVR INC.,49,0.0027,571
+"Key 2 Recovery, Inc.",49,0.0027,572
+HANCOCK WHITNEY BANK,49,0.0027,573
+Commercial Acceptance Company,49,0.0027,574
+"Media Collections, Inc",49,0.0027,575
+Contemporary Information Corp,49,0.0027,576
+Hanwha QCells USA Corp,49,0.0027,577
+"First Help Financial, LLC",49,0.0027,578
+Clark County Collection Service,48,0.0026,579
+"Klima, Peters & Daly, P.A.",48,0.0026,580
+"First Financial Resources, Inc.",48,0.0026,581
+"HireRight Solutions, Inc.",48,0.0026,582
+Credit Card Acquisitions Group,48,0.0026,583
+"RAS LaVrar, LLC",48,0.0026,584
+Giggle Finance Inc.,48,0.0026,585
+"Mercari, Inc.",48,0.0026,586
+"Professional Finance Company, Inc.",47,0.0026,587
+"Stillman, P.C. d.b.a. Stillman Law Office",47,0.0026,588
+The Moore Law Group,47,0.0026,589
+Grant & Weber,47,0.0026,590
+Credit Sage LLC,47,0.0026,591
+"Home Loan Center, Inc.",47,0.0026,592
+Scott Fetzer Financial Group Inc.,47,0.0026,593
+Hillcrest Davidson & Associates,47,0.0026,594
+SECURITY SERVICE FEDERAL CREDIT UNION,47,0.0026,595
+Post Lake Lending Inc.,47,0.0026,596
+"Pollack & Rosen, P.A.",46,0.0025,597
+"Complete Credit Solutions, Inc.",46,0.0025,598
+One Source Technology,46,0.0025,599
+ADIR INTERNATIONAL LLC,46,0.0025,600
+"DRB-40, LLC",46,0.0025,601
+"Seattle Service Bureau, Inc",46,0.0025,602
+UNIVERSAL ACCEPTANCE CORPORATION (NE),46,0.0025,603
+"Levy & Associates, LLC",45,0.0024,604
+"BILL.COM, LLC",45,0.0024,605
+LAKE MICHIGAN CREDIT UNION,45,0.0024,606
+"Credit Bureau Systems, Inc., Paducah, KY Branch",45,0.0024,607
+"Sensible Auto Lending, LLC",45,0.0024,608
+"State Collection Service, Inc.",45,0.0024,609
+"Payactiv, Inc.",45,0.0024,610
+Alliant Capital Management LLC,45,0.0024,611
+"Financial Recovery Services, Inc.",45,0.0024,612
+Phoenix Financial Services LLC,44,0.0024,613
+"Capstone Credit & Collection, LLC.",44,0.0024,614
+"B9, Inc.",44,0.0024,615
+"College Ave Student Loan Servicing, LLC",44,0.0024,616
+IQOR US INC,44,0.0024,617
+"Selip & Stylianou, LLP",44,0.0024,618
+IDAHO CENTRAL CREDIT UNION,44,0.0024,619
+"The Best Service Co.,Inc",43,0.0023,620
+"GULF COAST COLLECTION BUREAU, INC.",43,0.0023,621
+"Absolute Recovery Services, LLC",43,0.0023,622
+"Round Up Ventures, L.P.",43,0.0023,623
+"USCB, Inc.",43,0.0023,624
+"Midwest Fidelity Services, LLC",43,0.0023,625
+"International Computer Systems, Inc.",43,0.0023,626
+"Hatfield, Inc.",43,0.0023,627
+"COLLECTIONS USA, INC.",43,0.0023,628
+GREENSTATE CREDIT UNION,43,0.0023,629
+"Andreu, Palma & Andreu, PL",42,0.0023,630
+"R.M. Galicia, Inc.",42,0.0023,631
+"N.A.R., Inc.",42,0.0023,632
+"Uetsa Tsakits, Inc. d/b/a MaxLend",42,0.0023,633
+"Apelles, LLC",42,0.0023,634
+GLOBAL SOLUTION BIZ LLC.,41,0.0022,635
+TapTap Send Inc.,41,0.0022,636
+"Total Card, Inc.",41,0.0022,637
+"ClearOne Advantage, LLC",41,0.0022,638
+"MUTUAL OF OMAHA MORTGAGE, LLC",41,0.0022,639
+RENASANT CORPORATION,41,0.0022,640
+Texas Guaranteed,41,0.0022,641
+"Tribal Lending Enterprise, Inc.",41,0.0022,642
+"Galaxy Capital Acquisitions, LLC",41,0.0022,643
+Abra,41,0.0022,644
+"The Savings Group, Inc.",41,0.0022,645
+MEI AUTO FINANCE INC,41,0.0022,646
+"Atlantic Union Bankshares, Inc.",40,0.0022,647
+YSA ARM LLC DBA Oxygen XL,40,0.0022,648
+"Lyons, Doughty & Veldhuis, PC",40,0.0022,649
+"Financial Management Solutions, LLC",40,0.0022,650
+FIRSTBANK,40,0.0022,651
+Asset Recovery Bureau LLC,40,0.0022,652
+"PINNACLE RECOVERY, INC.",40,0.0022,653
+"Hayt Hayt & Landau, P.L. (FL)",40,0.0022,654
+KBR INC DBA RASH CURTIS & ASSOCIATES,39,0.0021,655
+Metro Collection Service Inc.,39,0.0021,656
+"J J Marshall & Associates, Inc",39,0.0021,657
+Patenaude & Felix A Professional Corporation,39,0.0021,658
+Global Tel*Link Corporation,39,0.0021,659
+"Steel River Systems, LLC",39,0.0021,660
+"PROSPERITY BANCSHARES, INC.",39,0.0021,661
+"Bepensa Capital, Inc.",39,0.0021,662
+Arcon Credit Solutions LLC,39,0.0021,663
+"Majority USA, LLC",39,0.0021,664
+"Community Loan Servicing, LLC (formerly known as Bayview Loan Servicing, LLC)",39,0.0021,665
+OFG BANCORP,39,0.0021,666
+"KLS Financial Services, Inc",38,0.0021,667
+NORTHWEST BANCSHARES INC,38,0.0021,668
+"Professional Credit Management, Inc",38,0.0021,669
+SOP Pioneer Partners LP,38,0.0021,670
+"FIRST INTERSTATE BANCSYSTEM, INC.",38,0.0021,671
+"Collection Professionals, Inc.",38,0.0021,672
+"TEXAS CAPITAL BANCSHARES, INC.",38,0.0021,673
+"National Commercial Services, Inc",38,0.0021,674
+"ARS National Services, Inc.",38,0.0021,675
+"William D. Meeker Enterprises, Inc.",38,0.0021,676
+Debt Co LLC,38,0.0021,677
+"WESBANCO BANK, INC.",38,0.0021,678
+EAST WEST BANK,38,0.0021,679
+American Financial Network Inc.,38,0.0021,680
+"Universal Account Servicing, LLC",37,0.002,681
+CAC Financial Corp,37,0.002,682
+"AUSSRQ Holdings, LLC",37,0.002,683
+"Click n' Close, Inc.",37,0.002,684
+"Sunset Management, Inc",37,0.002,685
+"Porsche Financial Services, Inc.",37,0.002,686
+Nelson Cruz & Associates LLC,37,0.002,687
+"Convergent Resources, Inc.",36,0.002,688
+Holloway Credit Solutions,36,0.002,689
+"SUN WEST MORTGAGE COMPANY, INC.",36,0.002,690
+"Advantage Credit, Inc.",36,0.002,691
+"COMMUNITY FINANCIAL SYSTEM, INC.",36,0.002,692
+"DSR HOLDINGS GROUP, LLC",36,0.002,693
+NBT BANCORP INC.,36,0.002,694
+U.S. Auto Credit Corporation,35,0.0019,695
+BANK OF HAWAII CORPORATION,35,0.0019,696
+"The Stark Collection Agency, Inc.",35,0.0019,697
+"FIRST HAWAIIAN, INC.",35,0.0019,698
+"Select Management Resources, LLC",35,0.0019,699
+"U.S. Collections West, Inc.",35,0.0019,700
+"D&A Services, LLC",35,0.0019,701
+QC HOLDINGS INC,35,0.0019,702
+WESTERN ALLIANCE BANCORPORATION,34,0.0018,703
+Indie Technology DBA Found,34,0.0018,704
+"FIDELITY CAPITAL HOLDINGS, INC",34,0.0018,705
+"Independence Capital Recovery, LLC",34,0.0018,706
+DOLLAR MUTUAL BANCORP,34,0.0018,707
+CURO Intermediate Holdings,34,0.0018,708
+FIRST UNITED BANK AND TRUST COMPANY,34,0.0018,709
+LAND HOME FINANCIAL SERVICES,34,0.0018,710
+Garrison Investment Group,34,0.0018,711
+"Maury Cobb, Attorney at Law, LLC",34,0.0018,712
+"TriVerity, Inc.",34,0.0018,713
+First Advantage LNS Inc.,34,0.0018,714
+"Net Pay Advance, Inc.",34,0.0018,715
+"Roosen, Varchetti & Olivier, PLLC",34,0.0018,716
+"Fairway Capital Recovery, LLC",34,0.0018,717
+"BC SERVICES, INC.",34,0.0018,718
+"Weber & Olcese, PLC",33,0.0018,719
+"Ideal Collection Services, Inc.",33,0.0018,720
+"Ingo Money, Inc.",33,0.0018,721
+Telerecovery Corporation,33,0.0018,722
+Abrahamsen Gindin LLC,33,0.0018,723
+North American Credit Services,33,0.0018,724
+"Aldridge Pite, LLP",33,0.0018,725
+Hollis Cobb Associates,33,0.0018,726
+"Prog Holdings, Inc.",33,0.0018,727
+Federated Student Loan Services,33,0.0018,728
+Rosenberg & Associates Recovery Services,33,0.0018,729
+Mullooly Jeffrey Rooney & Flynn,32,0.0017,730
+Fairway Independent Mortgage Corporation,32,0.0017,731
+"PayTomorrow, LLC",32,0.0017,732
+Financial Assistance Inc,32,0.0017,733
+"NPG Associates, Inc.",32,0.0017,734
+"Automated Collection Services, Inc.",32,0.0017,735
+"CENTRAL BANCOMPANY, INC",32,0.0017,736
+"Kansas Counselors, Inc.",32,0.0017,737
+"Collection Receivables, Inc.",32,0.0017,738
+"Lanier Law Firm, LLC",32,0.0017,739
+"AppFolio, Inc.",31,0.0017,740
+"COAST PROFESSIONAL, INC.",31,0.0017,741
+"ATG Credit, LLC",31,0.0017,742
+"Bitstamp USA, Inc.",31,0.0017,743
+United Credit and Collections Inc.,31,0.0017,744
+"MERCANTILE ADJUSTMENT BUREAU, LLC",31,0.0017,745
+Sequoia Financial Services,31,0.0017,746
+"Collections Acquisition Company, Inc.",31,0.0017,747
+FIRST COMMONWEALTH FINANCIAL CORPORATION,31,0.0017,748
+"AMCOL Systems, Inc.",31,0.0017,749
+Forest Recovery Services LLC,31,0.0017,750
+"Second Alliance, Inc.",31,0.0017,751
+"Accscient, LLC",30,0.0016,752
+"Big Picture Loans, LLC",30,0.0016,753
+Great American Finance Co,30,0.0016,754
+QUALITY ACCEPTANCE LLC,30,0.0016,755
+"Auto Now Financial Services, Inc., Phoenix, AZ Branch",30,0.0016,756
+FIRST MERCHANTS CORPORATION,30,0.0016,757
+"Michel Law, LLC d/b/a Level One Law",29,0.0016,758
+"Debt Collectors International, Inc.",29,0.0016,759
+Account Resolution Corporation,29,0.0016,760
+ZuntaFi Corp,29,0.0016,761
+Statebridge Company,29,0.0016,762
+"Cordoba Legal Group, PLLC.",29,0.0016,763
+"Designed Receivable Solutions, Inc.",29,0.0016,764
+Financial Credit Network Inc,29,0.0016,765
+GATEWAY FIRST BANK,29,0.0016,766
+"Acrisure Mortgage Partners, LLC",29,0.0016,767
+"Nelson and Kennard, LLP",29,0.0016,768
+Five Lakes Law Group PLLC,29,0.0016,769
+AmeriCash Holding LLC,29,0.0016,770
+CARVANT FINANCIAL LLC,29,0.0016,771
+"MortgagePros, LLC",29,0.0016,772
+"Cornerstone Holdings, Inc.",29,0.0016,773
+DHI Mortgage Company,28,0.0015,774
+Georgia Student Finance Authority,28,0.0015,775
+"Lentegrity Management, LLC",28,0.0015,776
+"Law Offices of Robert J. Colclough, III",28,0.0015,777
+"DApps Platform, Inc.",28,0.0015,778
+Credit Card Receivables Fund Incorporated,28,0.0015,779
+MID FLORIDA FINANCING LLC,28,0.0015,780
+RockLoans Holdings LLC,28,0.0015,781
+"PLS GROUP, INC",28,0.0015,782
+"Fidelity National Financial, Inc",28,0.0015,783
+"Brown and Joseph, Ltd",28,0.0015,784
+"Nav Technologies, Inc.",28,0.0015,785
+"Investment Retrievers, Inc.",28,0.0015,786
+"SCA Collections, Inc.",28,0.0015,787
+"Tromberg, Miller, Morris & Partners, PLLC",28,0.0015,788
+Michael J Adams PC,28,0.0015,789
+"P.S.C., Inc",28,0.0015,790
+"AAA Auto Title Loans, LLC",28,0.0015,791
+"Axela Technologies, Inc",28,0.0015,792
+D2 Management LLC,28,0.0015,793
+WAFD BANK,28,0.0015,794
+Debt Management Incorporated,28,0.0015,795
+"Kelsting Group, Inc.",27,0.0015,796
+"Berlin-Wheeler, Inc. (Kansas)",27,0.0015,797
+Union Home Mortgage Corp,27,0.0015,798
+Accurate Background,27,0.0015,799
+Finance of America Holdings LLC,27,0.0015,800
+Reel Time Capital LLC,27,0.0015,801
+"TRIAD FINANCIAL SERVICES, INC.",27,0.0015,802
+"Clarity Debt Resolution, Inc",27,0.0015,803
+"Orions Management Group, LLC",27,0.0015,804
+Credit Bureau Services Association,27,0.0015,805
+Chrysalis Holdings LLC,27,0.0015,806
+NEW CITY FUNDING CORP.,27,0.0015,807
+INDEPENDENCE HOME LOANS LLC,27,0.0015,808
+BEACON FINANCIAL CORPORATION,27,0.0015,809
+"A.R.M. Solutions, Inc.",27,0.0015,810
+Nationwide Credit Corporation,27,0.0015,811
+Professional Collectors Corp.,27,0.0015,812
+"A & O Recovery Solutions, LLC",27,0.0015,813
+"Oquirrh Mountain Law Group, P.C.",27,0.0015,814
+"Avadyne Health Holdings, Inc",26,0.0014,815
+Triton Recovery Group,26,0.0014,816
+The Aligned Company DBA Extra,26,0.0014,817
+Loqbox US Inc,26,0.0014,818
+Mutual Management Services LLC,26,0.0014,819
+"LendKey Technologies, Inc.",26,0.0014,820
+Future Judgement Solutions,26,0.0014,821
+"Gordon, Aylworth & Tami, P.C.",26,0.0014,822
+Knight Adjustment Bureau,26,0.0014,823
+Informative Research,26,0.0014,824
+"CARCO Group, Inc.",26,0.0014,825
+"Transfinancial Companies, Inc",26,0.0014,826
+"Arbor Professional Solutions, Inc.",26,0.0014,827
+"Receivable Management Group, Inc. (GA)",26,0.0014,828
+"Denali Capital Holdings, LLC",26,0.0014,829
+"M. G. Credit, Inc.",26,0.0014,830
+"Alliance Collection Agencies, Inc.",26,0.0014,831
+PROVIDENT FUNDING ASSOCIATES,26,0.0014,832
+"DLF Law Group, LLC",26,0.0014,833
+Collection Attorneys USA LLC,26,0.0014,834
+Tate and Kirlin Assoc,26,0.0014,835
+"S & S Recovery, Inc.",26,0.0014,836
+"Uplift, Inc",25,0.0014,837
+INDEPENDENT BANK CORP.,25,0.0014,838
+MIDWEST RECEIVABLE SOLUTIONS LLC,25,0.0014,839
+"Love, Beal & Nixon, P.C.",25,0.0014,840
+Eaton Group Attorneys LLC,25,0.0014,841
+"Ratchford Law Group, P.C.",25,0.0014,842
+EASTERN BANKSHARES INC,25,0.0014,843
+"King of Credit Financial, Inc",25,0.0014,844
+VELO LAW OFFICE,25,0.0014,845
+"Reliable Credit Association, Inc.",25,0.0014,846
+"Innovate Managed Holdings, LLC",25,0.0014,847
+"Special Financing Company, LLC",25,0.0014,848
+American Recovery Service Incorporated,25,0.0014,849
+"TIDEWATER FINANCE COMPANY, INC.",25,0.0014,850
+"Law Offices of Hayt, Hayt & Landau, LLC",25,0.0014,851
+Credit Service Company,25,0.0014,852
+Credit Glory LLC,25,0.0014,853
+Viva Finance Inc.,25,0.0014,854
+Supreme Lending,24,0.0013,855
+"HILLTOP HOLDINGS, INC",24,0.0013,856
+C/C Financial,24,0.0013,857
+"RSI Enterprises, Inc.",24,0.0013,858
+"Midwest Loan Services, Inc.",24,0.0013,859
+"Mid-South Adjustment Co., Inc.",24,0.0013,860
+"Coast to Coast Financial Solutions, Inc.",24,0.0013,861
+M1 Holdings Inc.,24,0.0013,862
+Grant Mercantile Agency,24,0.0013,863
+"Aspen National Financial, Inc.",24,0.0013,864
+MoneySpot USA LLC DBA Sunshine Loans,24,0.0013,865
+PARAMOUNT RESIDENTIAL MORTGAGE GROUP,24,0.0013,866
+Schreiber Law LLC,24,0.0013,867
+"Avid Acceptance, LLC",24,0.0013,868
+"Moss Law Firm, P.C.",24,0.0013,869
+"Coinme Holdings, Inc.",24,0.0013,870
+"CHECKredi of Kentucky, LLC",24,0.0013,871
+Ascendium Education Group,24,0.0013,872
+Olympus1 LLC,24,0.0013,873
+eToro USA LLC,24,0.0013,874
+Creditly Corp.,24,0.0013,875
+Apple Financing LLC,24,0.0013,876
+"Manhattan Beach Venture, LLC",23,0.0012,877
+"Duncan Solutions, lnc.",23,0.0012,878
+"GLOBAL CLIENT SOLUTIONS, LLC",23,0.0012,879
+DreamSpring,23,0.0012,880
+"California Business Bureau, Inc.",23,0.0012,881
+"BALANCED HEALTHCARE RECEIVABLES, LLC",23,0.0012,882
+"North State Acceptance, LLC",23,0.0012,883
+National Business Factors,23,0.0012,884
+IOWA STUDENT LOAN LIQUIDITY CORPORATION,23,0.0012,885
+"Recovery Solutions Group, LLC",23,0.0012,886
+Merchants Acceptance Corp,23,0.0012,887
+Omnipoint Capital,23,0.0012,888
+"Central States Recovery, Inc.",23,0.0012,889
+Southwest Business Corporation,23,0.0012,890
+"Nathan & Nathan, P.C.",23,0.0012,891
+"Atlas Credit Company, Inc.",23,0.0012,892
+RELIANCE FIRST CAPITAL LLC,23,0.0012,893
+Fidem Baltimore Holdings LLC,23,0.0012,894
+"CARS Acquisition, LLC",23,0.0012,895
+"Klover Holdings, Inc.",23,0.0012,896
+"ShoulderTap Technologies, Inc. d/b/a Fizz",23,0.0012,897
+Betterment LLC,22,0.0012,898
+COOLEY ENTERPRISES INC,22,0.0012,899
+"Propel, Inc.",22,0.0012,900
+"Data and Contact Management Solutions, LLC",22,0.0012,901
+Merchants' Credit Guide Company,22,0.0012,902
+"NerdWallet, Inc.",22,0.0012,903
+"National Account Systems of Omaha, LLC",22,0.0012,904
+"American Collections Enterprise, Inc.",22,0.0012,905
+Pendrick Capital Partners,22,0.0012,906
+"Global Processing Services, LLC",22,0.0012,907
+"BetterNOI, LLC",22,0.0012,908
+FB FINANCIAL CORPORATION,22,0.0012,909
+"Sa-Vit Enterprises, Inc.",22,0.0012,910
+"Acra Intermediate Holdings, LLC",22,0.0012,911
+LendingUSA,22,0.0012,912
+"Securus J Holdings, LLC",22,0.0012,913
+"Eagle Financial Services, Inc.",22,0.0012,914
+Global Credit & Collection Corporation,22,0.0012,915
+Credit International Corporation,22,0.0012,916
+"Express Collections, Inc.",22,0.0012,917
+"HOVG, LLC",22,0.0012,918
+"NEXA Mortgage, LLC",22,0.0012,919
+"National Recovery Solutions, LLC",22,0.0012,920
+"Palmar, Inc.",22,0.0012,921
+"Auto Trakk, LLC",22,0.0012,922
+"Wallace Management Company, LLC",22,0.0012,923
+"Approve Holdings, Inc",22,0.0012,924
+Meritize Financial Inc.,22,0.0012,925
+FIRST FINANCIAL BANCORP,22,0.0012,926
+"HOME BANCSHARES, INC.",22,0.0012,927
+"Unisa, Inc",22,0.0012,928
+"COLLECTECH DIVERSIFIED, INC.",22,0.0012,929
+Top Line Collectors LLC,22,0.0012,930
+"UNITED BANKSHARES, INC.",21,0.0011,931
+Robinson Economic Development Corporation,21,0.0011,932
+"Consumer Legal Group, P.C.",21,0.0011,933
+"Collection Bureau of Fort Walton Beach, Inc",21,0.0011,934
+"UHG, LLC",21,0.0011,935
+Orion Capital Solutions LLC,21,0.0011,936
+"NCP Holdings, L.P.",21,0.0011,937
+"Greenlight Financial Technology, Inc",21,0.0011,938
+Retail Merchants Associates,21,0.0011,939
+"Porania, LLC",21,0.0011,940
+Servatus Corporation,21,0.0011,941
+"McNeil & Meyers Asset Management Group, LLC",21,0.0011,942
+"GMA Investments, LLC",21,0.0011,943
+Verisk Analytics Inc,21,0.0011,944
+"Longbridge Financial, LLC",21,0.0011,945
+"Data Search NY, Inc.",21,0.0011,946
+"States Recovery Systems, Inc.",21,0.0011,947
+"Capital Mitigation Services, LLC",21,0.0011,948
+"Revenue Enterprises, LLC",21,0.0011,949
+"Nationwide Credit & Collection, Inc.",21,0.0011,950
+"Progrexion Holdings, Inc.",21,0.0011,951
+BANNER CORPORATION,21,0.0011,952
+Global Trust Management LLC,21,0.0011,953
+Alabama Housing Finance Authority,21,0.0011,954
+Everest Receivable Services Inc.,21,0.0011,955
+Citizens Debt relief LLC,21,0.0011,956
+SEACOAST BANKING CORPORATION OF FLORIDA,20,0.0011,957
+"Bliksum, LLC",20,0.0011,958
+Collection Service of Nevada,20,0.0011,959
+"Admin Recovery, LLC",20,0.0011,960
+Access Receivables of NC Inc.,20,0.0011,961
+"Finance System of Richmond, Inc.",20,0.0011,962
+Fidelity Properties Inc.,20,0.0011,963
+UNITED COMMUNITY BANK,20,0.0011,964
+"RMS-Recovery Management Services, Inc.",20,0.0011,965
+"Shermeta Law Group, PLLC",20,0.0011,966
+"Thunderbird Collection Specialists, Inc.",20,0.0011,967
+"All State Credit Bureau, Inc.",20,0.0011,968
+"Debois, Inc.",20,0.0011,969
+eMortgage Funding LLC,20,0.0011,970
+HF Holdings,20,0.0011,971
+"STATE BANKSHARES, INC.",20,0.0011,972
+Lac Courte Oreilles Financial Services II,20,0.0011,973
+"Specialized Collection Systems, Inc.",20,0.0011,974
+Lincoln Financial Services,20,0.0011,975
+"Makes Cents, Inc. dba Advance.Cash",20,0.0011,976
+Marcadis Singer PA,20,0.0011,977
+AmWest Funding Corp.,20,0.0011,978
+FIRST AMERICAN FINANCIAL CORPORATION,19,0.001,979
+Glacier Bancorp Inc.,19,0.001,980
+"Cash Express, LLC",19,0.001,981
+Lien Enforcement Inc,19,0.001,982
+"PulteGroup, Inc.",19,0.001,983
+"Community Health Investment Company, LLC.",19,0.001,984
+SECURITY CREDIT SYSTEMS INC,19,0.001,985
+"ORG GC GP BUYER, LLC",19,0.001,986
+Airtm Inc.,19,0.001,987
+Terrill Outsourcing Group,19,0.001,988
+"Heritage Financial Group, Inc.",19,0.001,989
+"HOPE BANCORP, INC.",19,0.001,990
+ATLANTIC BAY MORTGAGE GROUP LLC,19,0.001,991
+Law Offices of Timothy M. Sullivan,19,0.001,992
+Quest Legal Group,19,0.001,993
+"Advanced Collection Bureau, Inc.",19,0.001,994
+"APEX Asset Management, LLC",19,0.001,995
+Mediation Recovery Center,19,0.001,996
+"A-1 Premium Acceptance, Inc.",19,0.001,997
+Deer Creek Lending,19,0.001,998
+Specialized Loan Servicing Holdings LLC,18,0.001,999
+Kentucky Higher Education Assistance Authority,18,0.001,1000
+Premier Auto Credit,18,0.001,1001
+Consumer Financial Services,18,0.001,1002
+"Malen & Associates, p.c.",18,0.001,1003
+"McCalla Raymer Leibert Pierce, LLC",18,0.001,1004
+R & B Corporation of Virginia,18,0.001,1005
+"SMITH, ROUCHON & ASSOCIATES, INC.",18,0.001,1006
+NCSPLUS INCORPORATED,18,0.001,1007
+"Risecredit, LLC",18,0.001,1008
+"Collection Professionals, Inc. (Macomb, IL)",18,0.001,1009
+Centron Services,18,0.001,1010
+"Line Financial, PBC",18,0.001,1011
+"PROVIDENT FINANCIAL SERVICES, INC.",18,0.001,1012
+Louisiana Recovery Services Inc.,18,0.001,1013
+Carmichael & Frost LLC,18,0.001,1014
+TFS FINANCIAL CORPORATION,18,0.001,1015
+Lincoln Educational Services Corporation,18,0.001,1016
+Credova Holdings Inc,18,0.001,1017
+"LIVE OAK BANCSHARES, INC.",18,0.001,1018
+"The Law Offices of Jennifer McCoy, PC",18,0.001,1019
+"Credit Counsel, Inc.",18,0.001,1020
+"Esusu, Inc.",18,0.001,1021
+Kashia Services,18,0.001,1022
+EA Holdings Corp.,18,0.001,1023
+Recuvery LLC,18,0.001,1024
+Nexus Nova LLC,18,0.001,1025
+ALCAR INC.,18,0.001,1026
+"Webcollex, LLC",17,0.0009,1027
+"R.T.R. Financial Services, Inc.",17,0.0009,1028
+"Simon's Agency, Inc.",17,0.0009,1029
+DataMax Corporation,17,0.0009,1030
+PRIMARY RESIDENTIAL MORTGAGE,17,0.0009,1031
+Nexum Group Inc,17,0.0009,1032
+"E Mortgage Capital, Inc.",17,0.0009,1033
+Lela Mae Portfolio Management Group,17,0.0009,1034
+CATHAY BANK,17,0.0009,1035
+"BLINCLOANS, INC.",17,0.0009,1036
+Sulphur Bank Rancheria Enterprises,17,0.0009,1037
+Green Square Company LLC.,17,0.0009,1038
+"Slovin & Council Co., L.P.A.",17,0.0009,1039
+Robinson & Hoover,17,0.0009,1040
+PRONTO FINANCE INC.,17,0.0009,1041
+Financial Accounts Service Team Inc.,17,0.0009,1042
+RevNow LLC,17,0.0009,1043
+"COLLECTION ASSOCIATES, LTD.",17,0.0009,1044
+"StellarFinance, Inc.",17,0.0009,1045
+"American Accounts & Advisers, Inc.",17,0.0009,1046
+EQUITY LOANS LLC,17,0.0009,1047
+"Kornerstone Credit,  LLC.",17,0.0009,1048
+Huntington Debt Holding LLC,17,0.0009,1049
+"Easier Funding, LLC",17,0.0009,1050
+"Scratch Financial, Inc.",17,0.0009,1051
+"MAS FINANCIAL SERVICES, INC.",17,0.0009,1052
+A&D Mortgage LLC,17,0.0009,1053
+Mnet Financial Inc,17,0.0009,1054
+"RGS Financial, Inc.",17,0.0009,1055
+HCFS Healthcare Financial Services of TeamHealth,17,0.0009,1056
+MCMC Auto LTD,17,0.0009,1057
+ALCHRO INC.,17,0.0009,1058
+Reach Financial LLC,17,0.0009,1059
+"West Capital Lending, Inc.",17,0.0009,1060
+Acorns Grow Incorporated,17,0.0009,1061
+The Law Offices of Mitchell D. Bluhm & Associates,16,0.0009,1062
+"Clasp Group, Inc.",16,0.0009,1063
+"Bay Area Receivables, Inc",16,0.0009,1064
+Chainlink Services LLC,16,0.0009,1065
+"Synter Resource Group, LLC.",16,0.0009,1066
+VIRGINIA HOUSING DEVELOPMENT AUTHORITY,16,0.0009,1067
+"Pavilion Payments US BuyerCo, LLC",16,0.0009,1068
+"NCD Financial, LLC",16,0.0009,1069
+Kora Financial,16,0.0009,1070
+"ULRS, Inc.",16,0.0009,1071
+"Glass Mountain Capital, LLC",16,0.0009,1072
+Armada Corp.,16,0.0009,1073
+"PLAZA HOME MORTGAGE, INC.",16,0.0009,1074
+"Paramount Capital Group, Inc.",16,0.0009,1075
+"Greenberg, Grant & Richards Inc.",16,0.0009,1076
+"Recovery One, LLC",16,0.0009,1077
+CREDICO. INC,16,0.0009,1078
+"CUSTOMERS BANCORP, INC",16,0.0009,1079
+Pacific Credit Exchange Corporation,16,0.0009,1080
+"Keynote Consulting, Inc.",16,0.0009,1081
+Guglielmo and Associates,16,0.0009,1082
+"United Funding Logistics, LLC",16,0.0009,1083
+Receivables Management Corporation,16,0.0009,1084
+"Big City Finance, LLLP",16,0.0009,1085
+"Milliman, Inc.",16,0.0009,1086
+"Tennessee Credit Management, Inc",16,0.0009,1087
+Amscot Corporation,16,0.0009,1088
+"INTERNAL CREDIT SYSTEMS, INC",16,0.0009,1089
+"Point Digital Finance, Inc.",16,0.0009,1090
+State Home Mortgage,16,0.0009,1091
+BANCFIRST CORPORATION,16,0.0009,1092
+Stratus Financial LLC,16,0.0009,1093
+Statewide Credit Services Corp.,16,0.0009,1094
+"CAROLINA FINANCE, LLC",15,0.0008,1095
+"United Check Recovery Bureau, Inc.",15,0.0008,1096
+CIBC BANCORP USA INC.,15,0.0008,1097
+Opportunity Fund,15,0.0008,1098
+"Andrews & Cox, P.C.",15,0.0008,1099
+COLORADO HOUSING AND FINANCE AUTHORITY,15,0.0008,1100
+Action Collection Service,15,0.0008,1101
+"Loan South Finance & Tax Service of Troy, LLC",15,0.0008,1102
+Premium Credit Bureau,15,0.0008,1103
+"The Leviton Law Firm, Ltd.",15,0.0008,1104
+CRED Technologies dba cred.ai,15,0.0008,1105
+"ARC Management Group, LLC",15,0.0008,1106
+TFC Credit Corporation of California,15,0.0008,1107
+"NPAS, Inc.",15,0.0008,1108
+CEX.IO CORP.,15,0.0008,1109
+"FinFit Holding Co, LLC",15,0.0008,1110
+PERDUE BRANDON FIELDER COLLINS & MOTT LLP,15,0.0008,1111
+"eMoneyUSA Holdings, LLC",15,0.0008,1112
+"1803 Capital, LLC",15,0.0008,1113
+XOOM CORPORATION,15,0.0008,1114
+"JDJ Investments, INC.",15,0.0008,1115
+"Go Capital Holdings, LLC",15,0.0008,1116
+"Berman & Rabin, P.A.",15,0.0008,1117
+Red Target LLC,15,0.0008,1118
+RC Willey,15,0.0008,1119
+"DLC, LLC",15,0.0008,1120
+TOWNEBANK,15,0.0008,1121
+"The Thomas Agency, Inc.",15,0.0008,1122
+"Caribou Financial, Inc.",15,0.0008,1123
+Recovery Management Solutions LLC,15,0.0008,1124
+"Alpine Credit, Inc",15,0.0008,1125
+Gatestone & Co. International Inc.,15,0.0008,1126
+BUSEY BANK,14,0.0008,1127
+LANIER COLLECTIONS AGENCY AND SERVICES INC,14,0.0008,1128
+Universal Payment Corporation,14,0.0008,1129
+"JNR Adjustment Company, Inc",14,0.0008,1130
+"MPOWER Financing, Public Benefit Corporation",14,0.0008,1131
+"CASHCALL, INC.",14,0.0008,1132
+TOWNE MORTGAGE COMPANY,14,0.0008,1133
+"Cawley & Bergmann, LLP",14,0.0008,1134
+OKX INC.,14,0.0008,1135
+KeyBridge Medical Revenue Management,14,0.0008,1136
+"Autovest, L.L.C.",14,0.0008,1137
+STANDARD MORTGAGE CORPORATION,14,0.0008,1138
+"Danco Financial Services, LLC",14,0.0008,1139
+FRESNO CREDIT BUREAU,14,0.0008,1140
+"Benuck & Rainey, Inc.",14,0.0008,1141
+"BANKMOBILE TECHNOLOGIES, INC",14,0.0008,1142
+Turnbull Law Group,14,0.0008,1143
+"VIRTUOSO SOURCING GROUP, LLC.",14,0.0008,1144
+FIRST HOME MORTGAGE CORPORATION,14,0.0008,1145
+Business & Professional Collection Service Inc,14,0.0008,1146
+"Superior Holdings, LLC",14,0.0008,1147
+TOLEDO FINANCE CORPORATION,14,0.0008,1148
+"Fein, Such, Kahn & Shepard, P.C.",14,0.0008,1149
+"APPLE FINANCIAL HOLDINGS, INC.",14,0.0008,1150
+"CrossCheck, Inc.",14,0.0008,1151
+Fuel Capital Group,14,0.0008,1152
+Red River Credit Corporation,14,0.0008,1153
+"Above Lending, Inc.",14,0.0008,1154
+MiraMed Revenue Group LLC,14,0.0008,1155
+"Alliance CAS, LLC",14,0.0008,1156
+AAA Collections,14,0.0008,1157
+"Silverman Theologou, LLP",14,0.0008,1158
+"Commercial Trade, Inc.",14,0.0008,1159
+"AutoMoney, Inc.",14,0.0008,1160
+"URS Holding, LLC",14,0.0008,1161
+"Auto Advantage Finance, LLC",14,0.0008,1162
+Unity Asset Management,14,0.0008,1163
+Advanced Recovery Group LLC,14,0.0008,1164
+"Bilateral Credit Corp, LLC",14,0.0008,1165
+"Paxful Holdings, Inc.",14,0.0008,1166
+CHALLENGE FINANCIAL SERVICES,14,0.0008,1167
+"National Debt Holdings, LLC",14,0.0008,1168
+Saint Services LLC,14,0.0008,1169
+"LPI, INC.",14,0.0008,1170
+"BYS, LLC. d/b/a Boost Your Score",13,0.0007,1171
+"HEAD MERCANTILE CO., INC.",13,0.0007,1172
+Zillow Group Inc.,13,0.0007,1173
+"Remex, Inc.",13,0.0007,1174
+Florida Financial Management dba Lend A Dollar,13,0.0007,1175
+UNITED AUTO ACCEPTANCE,13,0.0007,1176
+"MONEY SOURCE, INC., THE",13,0.0007,1177
+"Green & Sons Agency, Inc.",13,0.0007,1178
+Receivable Solutions LLC,13,0.0007,1179
+PRANCER CAPITAL CORP,13,0.0007,1180
+BELMONT FINANCE LLC,13,0.0007,1181
+Gravamen Asset Management Group LLC,13,0.0007,1182
+"The Law Offices of Kenosian & Miele, LLP",13,0.0007,1183
+"Tri-State Adjustments, Inc.",13,0.0007,1184
+"Palm Beach Credit Adjustors, Inc",13,0.0007,1185
+"BCG Equities, LLC",13,0.0007,1186
+AMERICAN NEIGHBORHOOD MORTGAGE,13,0.0007,1187
+"OUT TECH, INC.",13,0.0007,1188
+Credit Bureau Services of Iowa Inc.,13,0.0007,1189
+"DIRECMANAGEMENT, INC.",13,0.0007,1190
+Northwestern Mediation Services,13,0.0007,1191
+"TRUEBILL, INC",13,0.0007,1192
+"Credit Service Company, INC",13,0.0007,1193
+"Wildhorse Financial Services, LLC",13,0.0007,1194
+Continental Credit Control,13,0.0007,1195
+Medical Business Bureau,13,0.0007,1196
+"Oasis Legal Finance Holding Company, LLC",13,0.0007,1197
+"CREDIT WORLD SERVICES, INC.",13,0.0007,1198
+"Farrell Holdings, LLC",13,0.0007,1199
+Time Investment Corporation,13,0.0007,1200
+"EVERGREEN PROFESSIONAL RECOVERIES, INC.",13,0.0007,1201
+"Taproot Financial, LLC",13,0.0007,1202
+"Castle Credit Co Holdings, LLC, Chicago, IL Branch",13,0.0007,1203
+FDR Asset USA LTD,13,0.0007,1204
+"Diaz & Associates, Inc.",13,0.0007,1205
+"Kiavi, Inc.",13,0.0007,1206
+MCT GROUP INC.,13,0.0007,1207
+American Finance LLC,13,0.0007,1208
+Kubota North America Corporation,13,0.0007,1209
+"TAG Intermediate Holding Company, LLC",13,0.0007,1210
+"WestGen Lending, a DBA of Beckam Funding",13,0.0007,1211
+"Lewis, McDonnell & Associates",13,0.0007,1212
+"FirstCash, Inc.",13,0.0007,1213
+LCS FINANCIAL SERVICES CORPORATION,13,0.0007,1214
+"Zendable, Inc.",13,0.0007,1215
+Abbott Osborn Jacobs PLC,13,0.0007,1216
+"AA Recovery Solutions, Inc.",13,0.0007,1217
+United Group Inc.,13,0.0007,1218
+"TAYLOR MORRISON HOME FUNDING, INC.",13,0.0007,1219
+"TRUHOME SOLUTIONS, LLC",13,0.0007,1220
+"Hometap Equity Partners, LLC",13,0.0007,1221
+"Madison Auto, LLC",13,0.0007,1222
+Finmax Smart Capital LLC,12,0.0007,1223
+"Barrett Financial Group, L.L.C.",12,0.0007,1224
+Couch Lambert LLC,12,0.0007,1225
+Team Recovery Inc.,12,0.0007,1226
+HoldCo LLC,12,0.0007,1227
+"RICHLAND HOLDINGS, INC.",12,0.0007,1228
+"4M Collections, LLC",12,0.0007,1229
+"Dakota Financial, LLC",12,0.0007,1230
+Education Principle Foundation,12,0.0007,1231
+Cactus Jacks Auto Sales,12,0.0007,1232
+Revenue Assistance Corporation dba Revenue Group,12,0.0007,1233
+Overland Bond & Investment Corporation,12,0.0007,1234
+Thrift Investment Corp.,12,0.0007,1235
+"PDQ Services, Inc.",12,0.0007,1236
+PLAID INC.,12,0.0007,1237
+"Palisade Legal Group, PLLC",12,0.0007,1238
+"AMA Advisors, LLC.",12,0.0007,1239
+PENNSYLVANIA HOUSING FINANCE AGENCY,12,0.0007,1240
+"PACIFIC PREMIER BANCORP, INC.",12,0.0007,1241
+"MIB Group, Inc.",12,0.0007,1242
+"Southern Oregon Credit Service, Inc.",12,0.0007,1243
+"Account Managers, Inc.",12,0.0007,1244
+"Kehoe Financial Group, LLC",12,0.0007,1245
+Faloni Law Group,12,0.0007,1246
+"Kramer & Frank, P.C.",12,0.0007,1247
+"GFS, Inc.",12,0.0007,1248
+Steel Lending Group LLC,12,0.0007,1249
+Professional Receivables Network,12,0.0007,1250
+"Med-1 Solutions, LLC",12,0.0007,1251
+GREEN ROAD FINANCE INC.,12,0.0007,1252
+"ALEXANDER-ROSE ASSOC, INC.",12,0.0007,1253
+"Voss & Klein, LLC",12,0.0007,1254
+Paysend US LLC,12,0.0007,1255
+OpenRoad Lending,12,0.0007,1256
+Kentucky Housing Corporation,12,0.0007,1257
+Goldcar Lending Inc.,12,0.0007,1258
+"Schrier, Tolin and Wagman, LLC",12,0.0007,1259
+"Hauge Associates, Inc.",12,0.0007,1260
+McKenzie Management LLC,12,0.0007,1261
+Advance Bureau of Collections,12,0.0007,1262
+OCEANFIRST FINANCIAL CORP.,12,0.0007,1263
+Michael Wayne Investment,12,0.0007,1264
+"IDT Telecom, Inc",12,0.0007,1265
+Rhode Island Housing and Mortgage Finance Corporation,12,0.0007,1266
+"Thomas George Associates, Ltd.",12,0.0007,1267
+Ameritan Group Services,12,0.0007,1268
+Texan Credit Corporation,12,0.0007,1269
+Modern Adjustment Bureau,12,0.0007,1270
+"Freeway Funding, Inc.",12,0.0007,1271
+Credee Corporation,12,0.0007,1272
+"Line 5, LLC",12,0.0007,1273
+"AUTO MARKET OF FLORIDA, CORP",12,0.0007,1274
+"ClarityPay, Inc.",12,0.0007,1275
+"Imperium Lending, LLC",11,0.0006,1276
+FLORIDA HOME TRUST MORTGAGE,11,0.0006,1277
+BROADVIEW MORTGAGE CORPORATION,11,0.0006,1278
+DFC Global Corp.,11,0.0006,1279
+"TradeStation Group, Inc.",11,0.0006,1280
+"The LGM Co., Inc.",11,0.0006,1281
+"Butler and Associates, PA",11,0.0006,1282
+"SF VAGO, LLC",11,0.0006,1283
+"BCA Financial Services, Inc.",11,0.0006,1284
+"Collins Asset Group, LLC",11,0.0006,1285
+"Chelseamac, LLC dba Briteside Solutions",11,0.0006,1286
+"Neighborhood Assistance Corporation of America (""NACA"")",11,0.0006,1287
+"AMERINATIONAL COMMUNITY SERVICES, INC.",11,0.0006,1288
+"HarrisLoftus, PLLC",11,0.0006,1289
+"GB Collects, LLC",11,0.0006,1290
+"Snap Recovery, Inc.",11,0.0006,1291
+"Credit Bureau of York, Inc.",11,0.0006,1292
+Allied Consulting Services LLC,11,0.0006,1293
+"Receivables Outsourcing, Inc.",11,0.0006,1294
+"Todd, Bremer & Lawson, Inc.",11,0.0006,1295
+"Jacob Law Group, PLLC",11,0.0006,1296
+"Peter Roberts & Associates, Inc.",11,0.0006,1297
+"BRite Financial Services, Inc.",11,0.0006,1298
+"Cornerstone First Mortgage, Inc.",11,0.0006,1299
+Sarma,11,0.0006,1300
+WEALTHFRONT CORPORATION,11,0.0006,1301
+Professional Collection Service Inc (GA),11,0.0006,1302
+CITY NATIONAL BANK,11,0.0006,1303
+"Lil' Wave Financial, Inc.",11,0.0006,1304
+Range View Management LLC,11,0.0006,1305
+Mathew Aaron Holdings Inc.,11,0.0006,1306
+AUTOMOBILE ACCEPTANCE CORPORATION,11,0.0006,1307
+River Heights Capital LLC,11,0.0006,1308
+"Cash Link USA, LLC",11,0.0006,1309
+"Resurgence Legal Group, PC",11,0.0006,1310
+"Collection at Law, Inc. A.P.C.",11,0.0006,1311
+Evergreen Financial Services Inc.,11,0.0006,1312
+"BCI FINANCIAL GROUP, INC.",11,0.0006,1313
+CHRISTUS HEALTH,11,0.0006,1314
+Bison Bucks Lending,11,0.0006,1315
+Credimatico LLC,11,0.0006,1316
+Lien Receivables LLC,11,0.0006,1317
+NATIONWIDE ACCEPTANCE LLC,11,0.0006,1318
+"Arcadia Holdings, LLC",11,0.0006,1319
+"Medical Recovery Services, LLC",11,0.0006,1320
+Prime Recovery LLC,11,0.0006,1321
+"Midwest Resale Specialist, Inc.",11,0.0006,1322
+"Constar Financial Services, LLC",11,0.0006,1323
+"OM Financial, LLC",11,0.0006,1324
+ADS Resolve LLC,11,0.0006,1325
+2233 Paradise Road LLC,10,0.0005,1326
+AMERICAN INTERNET MORTGAGE,10,0.0005,1327
+"Keith D. Weiner & Associates Co., L.P.A.",10,0.0005,1328
+"Main Line Recovery Solutions, Inc.",10,0.0005,1329
+UBS BANK USA,10,0.0005,1330
+"Biehl & Biehl, Inc",10,0.0005,1331
+Universal Recovery Corporation,10,0.0005,1332
+Southwest Stage Funding,10,0.0005,1333
+"Results Unlimited, Inc.",10,0.0005,1334
+SunTx Capital Partners,10,0.0005,1335
+Washington Trust Bank Financial Corporation,10,0.0005,1336
+"FirstKey Holdings, LLC",10,0.0005,1337
+Lengenuity LLC,10,0.0005,1338
+"New Century Auto Sales, Inc.",10,0.0005,1339
+Kirschenbaum & Phillips P.C,10,0.0005,1340
+"DCI Credit Services, Inc.",10,0.0005,1341
+EDvantage LLC,10,0.0005,1342
+"Zarzaur and Schwartz, PC",10,0.0005,1343
+"AUTO FINANCE USA, LLC",10,0.0005,1344
+"The Lueder Law Firm, LLC",10,0.0005,1345
+"CREDIT CONCEPTS, INC.",10,0.0005,1346
+Quality Asset Recovery LLC,10,0.0005,1347
+PDQ Check Exchange LC,10,0.0005,1348
+Ready Capital Corporation,10,0.0005,1349
+Commonwealth Health Corporation,10,0.0005,1350
+"CB1, Inc.",10,0.0005,1351
+Turning Point Solutions LLC,10,0.0005,1352
+Capital Collection Management LLC,10,0.0005,1353
+"Greeting Team, LLC DBA Customer Care Global",10,0.0005,1354
+Veem  Inc.,10,0.0005,1355
+L.B.Gray LLC A Debt Collection Agency,10,0.0005,1356
+Model Finance Company,10,0.0005,1357
+"CHACON AUTOS, LTD.",10,0.0005,1358
+"Zebit, Inc.",10,0.0005,1359
+"Lefkoff, Rubin, Gleason, Russo & Williams, P.C.",10,0.0005,1360
+"Ridge & Valley Realty, Inc.",10,0.0005,1361
+"FIRST FINANCIAL BANKSHARES, INC.",10,0.0005,1362
+"American Collection Services, Inc. (OK, TX)",10,0.0005,1363
+"Vengroff Williams, Inc",10,0.0005,1364
+"Lending Force, LLC",10,0.0005,1365
+"Second Round Limited Partnership, Austin, TX Branch",10,0.0005,1366
+"HABITAT FOR HUMANITY INTERNATIONAL, INC.",10,0.0005,1367
+"CredHub, Inc",10,0.0005,1368
+Consolidation Capital,10,0.0005,1369
+"Credit Management Services, Inc.",10,0.0005,1370
+"Accounts Management, Inc",10,0.0005,1371
+"Dynamic Collectors, Incorporated",10,0.0005,1372
+South Mississippi Collection Services Inc.,10,0.0005,1373
+"Muskegon Car Credit, Inc.",10,0.0005,1374
+SHABANA MOTORS,10,0.0005,1375
+Elite Legal Practice PC,10,0.0005,1376
+Trusted Mortgage Capital Inc,10,0.0005,1377
+Greenwood and Allen Financial,10,0.0005,1378
+Sports & Imports Auto,10,0.0005,1379
+"Zap Solutions, Inc.",10,0.0005,1380
+"Ascension Point Recovery Services, LLC",10,0.0005,1381
+Funding Metrics LLC,10,0.0005,1382
+RUOFF MORTGAGE,10,0.0005,1383
+GRANDVIEW FINANCIAL SERVICES INC.,10,0.0005,1384
+CALCON MUTUAL MORTGAGE LLC DBA ONETRUST HOME LOANS,10,0.0005,1385
+Audit & Adjustment Co. Inc.,10,0.0005,1386
+Wave Financial USA Inc.,10,0.0005,1387
+"National Finance Company, Inc.",10,0.0005,1388
+Foursight Holding LLC,9,0.0005,1389
+"Lugano Capital, Inc. d/b/a Start Auto Finance",9,0.0005,1390
+"Madison Management Services, LLC",9,0.0005,1391
+AMERICAN FINANCING CORPORATION,9,0.0005,1392
+Pacific Retrieval LLC,9,0.0005,1393
+"Savvy Money, Inc.",9,0.0005,1394
+"O&L LAW GROUP, P.L.",9,0.0005,1395
+"American Financial Resources, Inc.",9,0.0005,1396
+"iQuantified Management Services, LLC",9,0.0005,1397
+Financial Business and Consumer Solutions.,9,0.0005,1398
+Aspen Yo LLC,9,0.0005,1399
+Deutsche Bank,9,0.0005,1400
+"Brightfunders, LLC",9,0.0005,1401
+"SANDY SPRING BANCORP, INC.",9,0.0005,1402
+"Law Offices of Robert S. Gitmeid & Associates, PLLC",9,0.0005,1403
+"Peritus Portfolio Services II, LLC",9,0.0005,1404
+"Edge Home Finance, LLC",9,0.0005,1405
+Smith Debnam Narron Drake Saintsing & Myers LLP,9,0.0005,1406
+"Adelante, Inc",9,0.0005,1407
+"INTERCONTINENTAL EXCHANGE, INC.",9,0.0005,1408
+"The Law Firm of Derek Williams, LLC d/b/a Infinite Law Group",9,0.0005,1409
+"Consuegra & Duffy, P.L.L.C.",9,0.0005,1410
+"National Healthcare Collections, LLC",9,0.0005,1411
+BIYING Inc,9,0.0005,1412
+Carma Enterprises Inc,9,0.0005,1413
+"Business Revenue Systems, Inc.",9,0.0005,1414
+"FCC Finance, LLC",9,0.0005,1415
+"FirstCredit, Inc.",9,0.0005,1416
+Everi Payments Inc.,9,0.0005,1417
+Midwest Acceptance Corp.,9,0.0005,1418
+"Sherloq Group, Inc",9,0.0005,1419
+"BANC OF CALIFORNIA, INC.",9,0.0005,1420
+Renton Collections Inc.,9,0.0005,1421
+"BWW Law Group, LLC",9,0.0005,1422
+"EAGLE BANCORP, INC.",9,0.0005,1423
+"MST Financial Services, L.L.C.",9,0.0005,1424
+"American Cycle Finance, Inc.",9,0.0005,1425
+"Saturn Systems, Inc",9,0.0005,1426
+"Apothaker & Associates, PC",9,0.0005,1427
+"Birchwood Credit Services, Inc.",9,0.0005,1428
+"South River Mortgage, LLC",9,0.0005,1429
+"NEXBANK CAPITAL, INC.",9,0.0005,1430
+SmartCredit LLC,9,0.0005,1431
+"Top Asset Solutions, LLC",9,0.0005,1432
+"Axiom Acquisition Ventures, LLC",9,0.0005,1433
+InvestiNet LLC,9,0.0005,1434
+"CDI Affiliated Services, Inc.",9,0.0005,1435
+"United Accounts, Inc.",9,0.0005,1436
+"Brennan & Clark, Ltd., LLC",9,0.0005,1437
+"Scheer, Green & Burke L.P.A.",9,0.0005,1438
+"Southwood Financial, LLC.",9,0.0005,1439
+Vertical Screen,9,0.0005,1440
+"Columbia Collection Service, Inc.",9,0.0005,1441
+NORTHERN HILLS COLLECTIONS INC.,9,0.0005,1442
+"Full Circle Financial Services, LLC",9,0.0005,1443
+WEBULL PAY HOLDINGS (US) INC,9,0.0005,1444
+"Action Collection Agencies, Inc.",9,0.0005,1445
+"Access Credit Management, Inc.",9,0.0005,1446
+"Receivable Collection Services, LLC",9,0.0005,1447
+STOCKTON MORTGAGE,9,0.0005,1448
+"Kind Holdings, LLC",9,0.0005,1449
+Evergreen Moneysource Mortgage Company,9,0.0005,1450
+"Landmark Strategy Group, LLC",9,0.0005,1451
+SecureNet Loan Services LLC,9,0.0005,1452
+WESTSTAR MORTGAGE CORPORATION,9,0.0005,1453
+"Ragan & Ragan, PC",9,0.0005,1454
+River Financial Inc.,9,0.0005,1455
+Nala Payments LLC,9,0.0005,1456
+eCon Credit LP,9,0.0005,1457
+"POWERPAY, LLC",9,0.0005,1458
+Debt Solutions LLC,8,0.0004,1459
+"Troy Capital, LLC",8,0.0004,1460
+"RSH & Associates, LLC",8,0.0004,1461
+"Caneel Capital, LLC",8,0.0004,1462
+"Valentine and Kebartas, Inc.",8,0.0004,1463
+Groundfloor Finance Inc.,8,0.0004,1464
+Sher & Shabsin PC,8,0.0004,1465
+Enium Capital Group LLC,8,0.0004,1466
+National Financial LLC,8,0.0004,1467
+"Stuart-Lippman and Associates, Inc",8,0.0004,1468
+CRESCO CAPITAL INC.,8,0.0004,1469
+"Portnoy Schneck, L.L.C.",8,0.0004,1470
+Jana Ferrell & Associates LLC,8,0.0004,1471
+"Compass Recovery Group, LLC",8,0.0004,1472
+"Unlock Technologies, Inc.",8,0.0004,1473
+West Central Texas Collection Bureau,8,0.0004,1474
+"Roach & Murtha, P.C.",8,0.0004,1475
+Plastiq Inc.,8,0.0004,1476
+"Nations Direct Mortgage, LLC",8,0.0004,1477
+"Coast 2 Coast Financial Group, LLC",8,0.0004,1478
+Cheadle Law Firm,8,0.0004,1479
+Yes Online Inc,8,0.0004,1480
+"RANLife, Inc.",8,0.0004,1481
+"Persolve, LLC - Legal - Series 2",8,0.0004,1482
+MEGA CAPITAL FUNDING INC.,8,0.0004,1483
+London & London,8,0.0004,1484
+"Crescent City Credit Recovery, Inc.",8,0.0004,1485
+U DRIVE ACCEPTANCE CORPORATION,8,0.0004,1486
+"Credit Consulting Services, Inc.",8,0.0004,1487
+Roc Capital Holdings LLC,8,0.0004,1488
+STELLAR BANCORP INC.,8,0.0004,1489
+"Accredited Collection Service, Inc.",8,0.0004,1490
+Business Financing Corporation,8,0.0004,1491
+"Easy Finance, LLC",8,0.0004,1492
+"Altisource Portfolio Solutions, S.à r.l.",8,0.0004,1493
+"The Nguyen Law Firm, PLC",8,0.0004,1494
+"Kovitz Shifrin Nesbit, A Professional Corporation",8,0.0004,1495
+American Student Assistance,8,0.0004,1496
+CSO Financial,8,0.0004,1497
+"BDF Partners, PC",8,0.0004,1498
+Judgment Acquisitions Unlimited Inc,8,0.0004,1499
+ROYAL UNITED MORTGAGE LLC,8,0.0004,1500
+"Financial Freedom Group, LLC",8,0.0004,1501
+"Tomo Networks, Inc.",8,0.0004,1502
+"Midwest Service Bureau, Inc.",8,0.0004,1503
+"Ragan & Ragan, P.C.",8,0.0004,1504
+Siwell Inc,8,0.0004,1505
+LAKEVIEW LENDING LLC,8,0.0004,1506
+Capital Recovery Corporation,8,0.0004,1507
+Chaparral Inc,8,0.0004,1508
+"Clear Recovery, Inc.",8,0.0004,1509
+"Buckles & Buckles, P.L.C.",8,0.0004,1510
+"DynaGen Lending, LLC",8,0.0004,1511
+"C.Tech Collections, Inc.",8,0.0004,1512
+Trust Financial LLC,8,0.0004,1513
+Accelerated Receivables Solutions,8,0.0004,1514
+"Tsarouhis Law Group, LLC",8,0.0004,1515
+"Pinebrook Holdings, LLC",8,0.0004,1516
+"Trustly, Inc.",8,0.0004,1517
+"U.S. Equity Advantage Holdings, Inc.",8,0.0004,1518
+"Protas, Spivok & Collins. LLC",8,0.0004,1519
+"Tona Mortgage, LLC",8,0.0004,1520
+"Independent Dealers' Advantage, LLC",8,0.0004,1521
+"Ingenuity RM, LLC",8,0.0004,1522
+Tater Inc.,8,0.0004,1523
+"Larsen & Associates, P.L.",8,0.0004,1524
+"Imperial Recovery Consultants, LLC",8,0.0004,1525
+"Law Offices of Robert A. Schuerger Co., LPA",8,0.0004,1526
+"American Credit Bureau, Inc.",8,0.0004,1527
+Old Republic National Title Holding Co.,8,0.0004,1528
+Clearview Resolution Services,8,0.0004,1529
+Next Financial Inc. dba Copper,7,0.0004,1530
+TOTAL MORTGAGE SERVICES LLC,7,0.0004,1531
+"Northern Trust Company, The",7,0.0004,1532
+"MacDowell & Associates, Ltd.",7,0.0004,1533
+"Municipal Collections Services, Inc.",7,0.0004,1534
+"RAB, INC.",7,0.0004,1535
+Bayside Credit,7,0.0004,1536
+"Stein Law, P.C.",7,0.0004,1537
+"Commerce Home Mortgage, Inc",7,0.0004,1538
+All Debt Solutions Inc. dba: 1st Class Agency,7,0.0004,1539
+"Moore Legal Group, LLC",7,0.0004,1540
+Ben Franklin Finance LLC,7,0.0004,1541
+"Forward Funding Group, Inc.",7,0.0004,1542
+Oklahoma Motor Credit Company,7,0.0004,1543
+Home American Mortgage Corp,7,0.0004,1544
+Fair Capital,7,0.0004,1545
+AMERICAN PACIFIC MORTGAGE,7,0.0004,1546
+"Arena Investors, LP",7,0.0004,1547
+"Caliber Home Loans, Inc.",7,0.0004,1548
+BHFC Financial Services INC,7,0.0004,1549
+"PAID IN FULL, INC.",7,0.0004,1550
+"Rauch-Milliken International, Inc.",7,0.0004,1551
+"Merchants Credit Bureau, Inc.",7,0.0004,1552
+HIGHER EDUCATION STUDENT ASSISTANCE AUTHORITY (HESAA),7,0.0004,1553
+"INDEPENDENT BANK GROUP, INC.",7,0.0004,1554
+"E MORTGAGE MANAGEMENT, LLC",7,0.0004,1555
+"Splash Financial, Inc.",7,0.0004,1556
+"Armstrong and Associates, Inc",7,0.0004,1557
+PCR Group,7,0.0004,1558
+"Integrity Funding Ohio, LLC",7,0.0004,1559
+Sombrero Capital LLC,7,0.0004,1560
+"Revenue Cycle Associates, Inc.",7,0.0004,1561
+"Heavner, Beyers & Mihlar LLC",7,0.0004,1562
+"FIRST COMMUNITY MORTGAGE, INC.",7,0.0004,1563
+Auto Credit of Virginia Inc.,7,0.0004,1564
+"Sprechman & Associates, P.A.",7,0.0004,1565
+BUCKEYE FINANCIAL SERVICES OF ALLIANCE INC.,7,0.0004,1566
+CVB FINANCIAL CORP.,7,0.0004,1567
+"Southern Credit Adjusters, Inc.",7,0.0004,1568
+"MSCB, Inc.",7,0.0004,1569
+"Lotane & Associates, P.A.",7,0.0004,1570
+HGREG.com,7,0.0004,1571
+Merchants Credit Corporation,7,0.0004,1572
+South Carolina State Housing Finance and Development Authority,7,0.0004,1573
+"Accelerated Portfolio, Inc.",7,0.0004,1574
+Mar Joe Enterprises,7,0.0004,1575
+"Concorde Auto Management, LLC  DBA  Concorde Auto Acceptance",7,0.0004,1576
+Mortgage One Funding LLC,7,0.0004,1577
+"Local Management, LLC",7,0.0004,1578
+"Personal Cash Loans of SC, Inc.",7,0.0004,1579
+"EMG ACQUISITION GROUP, LLC",7,0.0004,1580
+Rodenburg LLP,7,0.0004,1581
+TENET HEALTHCARE CORPORATION,7,0.0004,1582
+"COMMERCIAL SERVICES GROUP, INC.",7,0.0004,1583
+Credit Wellness LLC,7,0.0004,1584
+IPAC'S Inc.,7,0.0004,1585
+UNIVERSAL ACCOUNTS LLC,7,0.0004,1586
+PRIORITY PLUS FINANCIAL LLC,7,0.0004,1587
+"BREMER BANK, NATIONAL ASSOCIATION",7,0.0004,1588
+Franklin Financial  Corporation,7,0.0004,1589
+Olympic Collection Inc.,7,0.0004,1590
+"RCN Capital, LLC",7,0.0004,1591
+Tulsa Adjustment Bureau,7,0.0004,1592
+"Genesys National Recovery, Inc.",7,0.0004,1593
+WOOD FINANCE INC DBA PREMIER ACCEPTANCE,7,0.0004,1594
+Advantage Financial Service LLC (Idaho),7,0.0004,1595
+"American Heritage Lending, LLC",7,0.0004,1596
+"Dyck-O'Neal, Inc.",7,0.0004,1597
+"AXIA FINANCIAL, LLC",7,0.0004,1598
+Recreational Holdings Corp.,7,0.0004,1599
+Flandreau Santee Sioux Tribe,7,0.0004,1600
+"NFM, INC",7,0.0004,1601
+"AUDIT SYSTEMS,INC",7,0.0004,1602
+"Accord Business Funding, LLC",7,0.0004,1603
+"Double Diamond-Delaware, Inc.",7,0.0004,1604
+"Credit Bureau of the South, Inc.",7,0.0004,1605
+"Meade Recovery Services, LLC",7,0.0004,1606
+MISSION FINANCIAL SERVICES CORPORATION,7,0.0004,1607
+"JHL, LLC",7,0.0004,1608
+"Fold, Inc.",7,0.0004,1609
+Ygrene Energy Fund Inc.,7,0.0004,1610
+"Melar Investments, LLC",7,0.0004,1611
+"UNIVERSAL COLLECTION SYSTEMS, INC",7,0.0004,1612
+"Jonathan Neil & Associates, Inc",7,0.0004,1613
+NATIONS LENDING CORPORATION,7,0.0004,1614
+"PRG Ventures, Inc",7,0.0004,1615
+Capitol Loans,7,0.0004,1616
+"First Service Residential, Nevada, LLC",7,0.0004,1617
+"PMT Solutions, LLC.",7,0.0004,1618
+TRINITY HOPE ASSOCIATES,7,0.0004,1619
+"CFAM Financial Services, LLC",7,0.0004,1620
+PRIMERA FINANCIAL CORP.,7,0.0004,1621
+Camino Financial Inc.,7,0.0004,1622
+"Cash Time Title Loans, Inc.",7,0.0004,1623
+United Mortgage Lending LLC,7,0.0004,1624
+"Live Oak Financial, Inc",7,0.0004,1625
+Grey Inc,7,0.0004,1626
+Lenmo Inc,7,0.0004,1627
+TSC Accounts Receivable Solutions,7,0.0004,1628
+"Credit Collections U.S.A., L.L.C.",7,0.0004,1629
+Bear Claw Lending dba Lucent Cash,7,0.0004,1630
+Paylaterr Inc,7,0.0004,1631
+"OCMBC, Inc",6,0.0003,1632
+"Allied International Credit Corp., (US)",6,0.0003,1633
+"United Consumer Finance, Inc.",6,0.0003,1634
+Windham Equity Company,6,0.0003,1635
+Tally Technologies,6,0.0003,1636
+CONRAD CREDIT CORPORATION,6,0.0003,1637
+Spring Equity LLC,6,0.0003,1638
+700 Credit Experts,6,0.0003,1639
+Turner Acceptance Corp.,6,0.0003,1640
+"Automotive Management Services, Inc.",6,0.0003,1641
+Unified Global Solutions LLC,6,0.0003,1642
+Central Collection Corporation,6,0.0003,1643
+KEYSTONE EQUIPMENT FINANCE CORP.,6,0.0003,1644
+"Ballybunion Enterprises, Inc",6,0.0003,1645
+Marine One Acceptance Corporation,6,0.0003,1646
+"Bright Side Loans, LLC",6,0.0003,1647
+Titan Solutions Group LLC,6,0.0003,1648
+"Reimer, Arnovitz, Chernek &Jeffrey Co., LPA",6,0.0003,1649
+"Cohn, Goldberg & Deutsch,LLC",6,0.0003,1650
+Lawson Hamilton & Associates,6,0.0003,1651
+"Davis & Jones, LLC",6,0.0003,1652
+The Cherrington Firm PLLC,6,0.0003,1653
+90 Day Credit Experts,6,0.0003,1654
+"Vinci Law Office, LLC",6,0.0003,1655
+"Probate Advance Holdco, LLC",6,0.0003,1656
+"Credit Technologies, Inc.",6,0.0003,1657
+Lewis & Clark Capital LLC,6,0.0003,1658
+ALL WESTERN MORTGAGE,6,0.0003,1659
+"MEMBER FIRST MORTGAGE, LLC",6,0.0003,1660
+ASTA FUNDING INC.,6,0.0003,1661
+E Mortgage,6,0.0003,1662
+"MILLENNIUM FINANCIAL GROUP, L.L.C.",6,0.0003,1663
+SCS Credit Corporation,6,0.0003,1664
+"BANKUNITED, NATIONAL ASSOCIATION",6,0.0003,1665
+"TESORO FINANCIAL, LLC",6,0.0003,1666
+"Cohen & Cohen Law, LLC",6,0.0003,1667
+"Certified Credit Reporting, Inc.",6,0.0003,1668
+Total Auto Finance,6,0.0003,1669
+Royal Pacific Funding Corporation,6,0.0003,1670
+"Burke Moore Law Group, LLP",6,0.0003,1671
+"Valley Collection Service, LLC",6,0.0003,1672
+"Servion, Inc.",6,0.0003,1673
+Payment Resolution Services,6,0.0003,1674
+"Student Loan Solutions, LLC",6,0.0003,1675
+"G&P Enterprises, LLC",6,0.0003,1676
+McKenzie Paul & Associates,6,0.0003,1677
+"Augusta Collection Agency, Inc.",6,0.0003,1678
+Collectibles Management Resources,6,0.0003,1679
+"United Resource Systems, Inc",6,0.0003,1680
+"Rossi Law Offices, Ltd",6,0.0003,1681
+Partners Financial Services Inc,6,0.0003,1682
+WATERSTONE MORTGAGE CORPORATION,6,0.0003,1683
+"JMS Associates, Inc.",6,0.0003,1684
+Franklin Credit Management Corporation,6,0.0003,1685
+CONGRESS COLLECTION CORP,6,0.0003,1686
+"Mcburberod Financial, Inc. d/b/a SeedFi",6,0.0003,1687
+"Certified Solutions, Inc",6,0.0003,1688
+"WVH, LLC",6,0.0003,1689
+"Churchill Holdings, Inc.",6,0.0003,1690
+Financial Asset Management Systems Inc,6,0.0003,1691
+"Recovery Partners, LLC",6,0.0003,1692
+CrediautoUSA Financial Company LLC,6,0.0003,1693
+"S&S Physician Services, Inc.",6,0.0003,1694
+Universal Fidelity LP,6,0.0003,1695
+Tenant Data Services Inc,6,0.0003,1696
+"Fairway Collections, LLC",6,0.0003,1697
+"Lakeview Law Group, PLLC",6,0.0003,1698
+"Inflection.com, Inc.",6,0.0003,1699
+"RGL Associates, Inc.",6,0.0003,1700
+"NOVA Financial Holding Company, LLC",6,0.0003,1701
+Granite Edvance Corporation,6,0.0003,1702
+AdvantageFirst Lending Inc.,6,0.0003,1703
+FMS Inc.,6,0.0003,1704
+EXCEL FINANCE COMPANY,6,0.0003,1705
+Worth Finance Corporation,6,0.0003,1706
+"GUARDIAN CAPITAL MANAGEMENT HAWAII, LLC",6,0.0003,1707
+Checkbook Inc,6,0.0003,1708
+"Long & Foster Financial Services, Inc.",6,0.0003,1709
+National Check Resolution Inc.,6,0.0003,1710
+Credible Labs Inc.,6,0.0003,1711
+"Flat Branch Mortgage, Inc.",6,0.0003,1712
+"Brightwater Capital, LLC",6,0.0003,1713
+APG Financial Inc,6,0.0003,1714
+"West Coast Servicing, Inc.",6,0.0003,1715
+"New Hampshire Northeast Credit Services, Inc.",6,0.0003,1716
+BYL Collection Services,6,0.0003,1717
+"DIME COMMUNITY BANCSHARES, INC.",6,0.0003,1718
+"Fleet Financial, Inc.",6,0.0003,1719
+"Allied Capital Management, Inc.",6,0.0003,1720
+United Revenue Collection Service,6,0.0003,1721
+Metacorp LLC,6,0.0003,1722
+"Capital Credit and Collection Service, Inc.",6,0.0003,1723
+ACXIOM CORP.,6,0.0003,1724
+"Chek Cash, Inc.",6,0.0003,1725
+CFS ACCEPTANCE,6,0.0003,1726
+"BCION, A DIVISION OF ION BANK",6,0.0003,1727
+"Aubrey Thrasher, LLC",6,0.0003,1728
+Direct Cash LLC,6,0.0003,1729
+Golden Entropy Marketing Inc,6,0.0003,1730
+"Consolidated Recovery Group, LLC",6,0.0003,1731
+"Advantage Auto Sales, Inc.",6,0.0003,1732
+Ricart Financial Services,6,0.0003,1733
+SFMC L.P.,6,0.0003,1734
+Revenued LLC,6,0.0003,1735
+"Exodus Movement, Inc.",6,0.0003,1736
+Niagara Central Revenue,6,0.0003,1737
+"UNIFOUR FINANCIAL SERVICES, LLC",6,0.0003,1738
+"Affiliated Collection Services, LLC",6,0.0003,1739
+"Healthcare Management, LLC",6,0.0003,1740
+Tiffany & Tiffany PLLC,6,0.0003,1741
+Reliant Financial Corporation,6,0.0003,1742
+Quall Cardot LLP,6,0.0003,1743
+"AAS Debt Recovery, Inc.",6,0.0003,1744
+"Federal Cash Advance, LLC of Oklahoma",6,0.0003,1745
+"Omni AR, LLC",6,0.0003,1746
+"Professional Choice Recovery, Inc.",6,0.0003,1747
+"Equity Sales Finance, Inc.",6,0.0003,1748
+"Reliable Auto Finance, Inc.",6,0.0003,1749
+"Mary Jane M. Elliott, P.C. Attorneys At Law",6,0.0003,1750
+Obligo Inc.,6,0.0003,1751
+"Wxw Investments, LLC",6,0.0003,1752
+"Ark-La-Tex Financial Services, LLC",6,0.0003,1753
+"Smith Carroad Wan & Parikh, P.C.",6,0.0003,1754
+Coconut Funding Corporation,6,0.0003,1755
+"DEBT 0, INC",6,0.0003,1756
+"MMG Law Group, PLLC",6,0.0003,1757
+Sound Collection Services,6,0.0003,1758
+Cliff Lending Inc. d/b/a Advance Loan Solutions,6,0.0003,1759
+"NY Community Financial, LLC",6,0.0003,1760
+Ceannate,6,0.0003,1761
+"Prizm Financial Company, LLC",6,0.0003,1762
+"De Lage Landen Finance, LLC",6,0.0003,1763
+"August Real Estate Investments, LLC",6,0.0003,1764
+Management Location Services Inc.,6,0.0003,1765
+"Bizcorp, LLC",6,0.0003,1766
+Pomelo Technology US Inc,6,0.0003,1767
+Longhorn Asset Management LLC,6,0.0003,1768
+Credit One LLC,6,0.0003,1769
+"Tiffany & Bosco, P.A.",5,0.0003,1770
+Nicholas Financial Inc.,5,0.0003,1771
+Paycheck Solutions llc,5,0.0003,1772
+"Pomelo International, Inc",5,0.0003,1773
+"Robert W. Warner & Associates, P.C.",5,0.0003,1774
+First Bancorp North Carolina,5,0.0003,1775
+Quality Loan Service Corporation,5,0.0003,1776
+Granite Bay Acceptance Inc.,5,0.0003,1777
+"Central Mortgage Funding, LLC",5,0.0003,1778
+SET Financial Corporation,5,0.0003,1779
+"Hodosh, Lyon & Hammer, PC",5,0.0003,1780
+"LTD Financial Services, L.P.",5,0.0003,1781
+T2 Financial LLC,5,0.0003,1782
+"Portnoff Law Associates, Ltd.",5,0.0003,1783
+"Bernhardt and Strawser, P.A.",5,0.0003,1784
+We Collect Inc,5,0.0003,1785
+"Insikt, Inc.",5,0.0003,1786
+The Capital Good Fund,5,0.0003,1787
+Integrity Financial Corp. DBA US Loan Servicing,5,0.0003,1788
+"DMB Financial, LLC",5,0.0003,1789
+Stewart Information Services,5,0.0003,1790
+LCB Rent Reporting Ltd.,5,0.0003,1791
+Global Consulting Agency LLC,5,0.0003,1792
+"Collection Management Services, Inc.",5,0.0003,1793
+MITSUBISHI HC CAPITAL (U.S.A.) INC.,5,0.0003,1794
+Armcon Corp,5,0.0003,1795
+"Innovative Funding Services, L.L.C.",5,0.0003,1796
+S.B.S. Trust Deed Network,5,0.0003,1797
+"Collection Bureau Services, Inc.",5,0.0003,1798
+"American Management Services, Inc.",5,0.0003,1799
+Student Loan Direct,5,0.0003,1800
+NAFCO Finance,5,0.0003,1801
+"SameDay Auto Finance, LLC",5,0.0003,1802
+Mendelson Law Firm,5,0.0003,1803
+GOLD STAR MORTGAGE FINANCIAL,5,0.0003,1804
+Assured Financial Partners,5,0.0003,1805
+Swe Homes LP,5,0.0003,1806
+"Meade & Associates, Inc.",5,0.0003,1807
+"WATERMARK CAPITAL, INC.",5,0.0003,1808
+"NATIONAL ASSET MORTGAGE, LLC",5,0.0003,1809
+Quick Debt Services LLC,5,0.0003,1810
+"Certified Bureau of the South, Inc",5,0.0003,1811
+Dunlap Gardiner LLP,5,0.0003,1812
+"KAHRS LAW OFFICES, PA",5,0.0003,1813
+Sterling Credit Corp.,5,0.0003,1814
+Titanium Funds,5,0.0003,1815
+Bank of China USA,5,0.0003,1816
+"PATRICK A. CAREY, P.A.",5,0.0003,1817
+South East Collection Specialist,5,0.0003,1818
+Illinois Collections Inc,5,0.0003,1819
+"JMC Leasing Specialties, LLC",5,0.0003,1820
+"Lima One Capital, LLC",5,0.0003,1821
+"NCC Holdings, LLC",5,0.0003,1822
+REMAX,5,0.0003,1823
+"Emergent Business Group, Inc.",5,0.0003,1824
+"NEU Money, Inc.",5,0.0003,1825
+"Lendsmart, Inc.",5,0.0003,1826
+Scott Kroner PLC,5,0.0003,1827
+"Center Street Finance, LP dba CSF Servicing",5,0.0003,1828
+Bell Global Services LLC,5,0.0003,1829
+ACS Education Services,5,0.0003,1830
+"Lendgo, Inc.",5,0.0003,1831
+"Higher Education Servicing Corporation, Inc.",5,0.0003,1832
+Embassy Loans,5,0.0003,1833
+Madison Atrina LLC,5,0.0003,1834
+Moneytree Inc,5,0.0003,1835
+"Parkway Financial Group, LLC",5,0.0003,1836
+"Eagle Recovery Associates, Inc.",5,0.0003,1837
+"Time Investment Company, Inc.",5,0.0003,1838
+Toyota Credit De Puerto Rico Corp.,5,0.0003,1839
+Volunteer Mortgage Loan Servicing,5,0.0003,1840
+Waterfall Revenue Group,5,0.0003,1841
+Elite Recovery Group LLC,5,0.0003,1842
+"Nationwide Recovery Systems, Ltd",5,0.0003,1843
+"Cedar Holdings, Inc.",5,0.0003,1844
+LOAN SIMPLE INC.,5,0.0003,1845
+"AMERICAN ADJUSTMENT BUREAU,INC.",5,0.0003,1846
+"Modlin Slinsky, P.A.",5,0.0003,1847
+"American International Finance, Inc.",5,0.0003,1848
+"Credit Center, LLC",5,0.0003,1849
+Cambrian Group,5,0.0003,1850
+Bureau of Accounts Control,5,0.0003,1851
+Amigos Préstamos,5,0.0003,1852
+"Neighborhood Autos, LLC",5,0.0003,1853
+"Money Management International, Inc.",5,0.0003,1854
+"Gold Star Finance, Inc.",5,0.0003,1855
+The Cook Law Office PLLC,5,0.0003,1856
+"Auto Acceptance, LLC",5,0.0003,1857
+"Butler, Butler & Rowse-Oberle, P.L.L.C.",5,0.0003,1858
+"Dennis Dillon Auto Park and Truck Center, Inc.,",5,0.0003,1859
+Nations Info Corp,5,0.0003,1860
+Get Financed LLC,5,0.0003,1861
+"First Equity Mortgage Bankers, Inc.",5,0.0003,1862
+"INTEGRAL RECOVERIES, INC.",5,0.0003,1863
+"Coast2Coast Mortgage, LLC",5,0.0003,1864
+"AMALGAMATED TOKEN SERVICES, INC.",5,0.0003,1865
+"Citizens Savings & Loan Corporation, Chattanooga, TN Branch",5,0.0003,1866
+"Blend Labs, Inc.",5,0.0003,1867
+"Optimum Outcomes, Inc.",5,0.0003,1868
+"Rhodes, Kelly Assoc Inc",5,0.0003,1869
+A-L FINANCIAL CORP,5,0.0003,1870
+"Family Choice Financial, Inc.",5,0.0003,1871
+"NETWORK FUNDING, L.P.",5,0.0003,1872
+American Lending Finance,5,0.0003,1873
+"Arnold Scott Harris, P.C.",5,0.0003,1874
+"Creative Finance, Inc.",5,0.0003,1875
+Celsius US Holding LLC,5,0.0003,1876
+Lending Tower LLC,5,0.0003,1877
+"Dean Morris, L.L.P.",5,0.0003,1878
+"Cypress Creek Financial, LLC",5,0.0003,1879
+Community Cash Management Corp.,5,0.0003,1880
+"EZCORP, INC.",5,0.0003,1881
+Ardmore Finance Corporation,5,0.0003,1882
+Nexera Holding LLC,5,0.0003,1883
+Mezcal Corporation,5,0.0003,1884
+Clayton Holdings LLC,5,0.0003,1885
+Bronstein & Weiss Arbitration,5,0.0003,1886
+"EOS Holdings, Inc.",5,0.0003,1887
+CapitalCredit LLC,5,0.0003,1888
+"French Financial, Inc.",5,0.0003,1889
+"Eastpoint Recovery Group, Inc",5,0.0003,1890
+"K. HOVNANIAN AMERICAN MORTGAGE, LLC",5,0.0003,1891
+CHOICE CAPITAL FUND,5,0.0003,1892
+"Applied Business Services, Inc.",5,0.0003,1893
+WEICHERT FINANCIAL SERVICES,5,0.0003,1894
+"Receivable Recovery Services, LLC",5,0.0003,1895
+Rapid Home Lending Inc.,5,0.0003,1896
+Western Management Consultants,5,0.0003,1897
+"Preferred Collection and Management, Inc.",5,0.0003,1898
+Consumer Real Estate Finance Co.,5,0.0003,1899
+"Chaplin & Papa, P.C.",5,0.0003,1900
+Samuel Whitaker & Associates LLC,5,0.0003,1901
+Leif Technologies Inc.,5,0.0003,1902
+Solvent Plus LLC,5,0.0003,1903
+"Hollins & McVay, P.A.",5,0.0003,1904
+Allegiant Capital Recovery LLC,5,0.0003,1905
+"Prohealth Care, Inc",5,0.0003,1906
+"Pinata Rent, Inc",5,0.0003,1907
+"Camelot Financial Services, Inc.",5,0.0003,1908
+"Buffaloe & Associates, PLC",5,0.0003,1909
+"Elite Portfolio Management, LLC",5,0.0003,1910
+STATEWIDE AUTO SALES,5,0.0003,1911
+"ClearBalance Holdings, LLC",5,0.0003,1912
+Credit Recovery Systems LLC,5,0.0003,1913
+Hidden Meadow Lending,5,0.0003,1914
+Royalty Lending Financial Services Inc.,5,0.0003,1915
+"Consolidated Credit Solutions, Inc.",5,0.0003,1916
+"GF SunStrong Management Holdings, LLC",5,0.0003,1917
+"Valley Credit Service, Inc. (OR)",4,0.0002,1918
+"Dorough & Dorough, LLC",4,0.0002,1919
+"Southern Financial Systems, Inc.",4,0.0002,1920
+KINGS CREDIT SERVICES,4,0.0002,1921
+"National Auto Lenders, Inc.",4,0.0002,1922
+"M. Richard Epps, P.C.",4,0.0002,1923
+FIRST CREDIT FINANCE,4,0.0002,1924
+Greyhound Capital Group LLC,4,0.0002,1925
+"INDUSTRIAL AND COMMERCIAL BANK OF CHINA (USA), NATIONAL ASSOCIATION",4,0.0002,1926
+"The Commercial Collection Corporation of New York, Inc.",4,0.0002,1927
+CountryPlace Acceptance Corporation,4,0.0002,1928
+Backgrounds Online,4,0.0002,1929
+CONTRACT RESOLVE GROUP LLC,4,0.0002,1930
+Tan Oak Financial,4,0.0002,1931
+"Lost Lake Finance, LLC",4,0.0002,1932
+"CCI Financial, Inc",4,0.0002,1933
+"Premier Mortgage Resources, LLC",4,0.0002,1934
+"College Foundation, Inc.",4,0.0002,1935
+"Doxo, Inc.",4,0.0002,1936
+"Century Finance, Inc.",4,0.0002,1937
+TOLL BROTHERS INC,4,0.0002,1938
+"Adonis Auto Group, LLC",4,0.0002,1939
+"Statewide Tax Recovery, LLC",4,0.0002,1940
+"Newman, Hesse & Associates, P. A.",4,0.0002,1941
+NERD SOLUTIONS INC,4,0.0002,1942
+"RNN Group, Inc",4,0.0002,1943
+Security National Financial Corp,4,0.0002,1944
+EMBRACE HOME LOANS,4,0.0002,1945
+Courtesy Finance LLC,4,0.0002,1946
+"Elite Financial Services, Inc.",4,0.0002,1947
+Keystone Law LLC,4,0.0002,1948
+Independent Savings Plan Co.,4,0.0002,1949
+Academy Mortgage Corporation,4,0.0002,1950
+"BQ & Associates, P.C., L.L.O.",4,0.0002,1951
+Auto Buyers Credit LLC,4,0.0002,1952
+FORTIFI FUNDING III LLC,4,0.0002,1953
+"Morgan & Associates, P.C.",4,0.0002,1954
+MS SERVICES LLC,4,0.0002,1955
+"Works & Lentz of Tulsa, Inc.",4,0.0002,1956
+"Capital Alliance Financial, LLC",4,0.0002,1957
+Mortgage Lenders Investment Trading Corp,4,0.0002,1958
+DallasAutos4Less,4,0.0002,1959
+ALPHA MIDCO INC,4,0.0002,1960
+"Walwick, Inc",4,0.0002,1961
+HOMESTEAD FUNDING CORPORATION,4,0.0002,1962
+"Account Management Services, Inc.",4,0.0002,1963
+SC Opportunity Fund LLC,4,0.0002,1964
+Stone Higgs & Drexler,4,0.0002,1965
+AIH Receivables Management Inc.,4,0.0002,1966
+KCB Credit LLC,4,0.0002,1967
+"Merrick, Costello & Walsh, LLC.",4,0.0002,1968
+"Boek, Inc.",4,0.0002,1969
+"PACIFIC SOUTHWEST NOTE FUND, LLC",4,0.0002,1970
+VeriScreen Inc.,4,0.0002,1971
+"Hiday & Ricke, P.A.",4,0.0002,1972
+PAY-O-MATIC,4,0.0002,1973
+National Management Recovery Corp. (NMRC),4,0.0002,1974
+First Credit Corporation,4,0.0002,1975
+COINFLIP LLC,4,0.0002,1976
+"Giact Systems, LLC",4,0.0002,1977
+"Stone Creek Financial, Inc",4,0.0002,1978
+"GRIFFIN FUNDING, INC.",4,0.0002,1979
+Lightning Mortgage Holding Company Inc,4,0.0002,1980
+"Innovative Collections, LLC",4,0.0002,1981
+"Jenkins, Wagnon & Young, P.C.",4,0.0002,1982
+ENTERPRISE FINANCIAL SERVICES CORP,4,0.0002,1983
+Pappas Hayden Westberg & Jackson PC,4,0.0002,1984
+"American Collection Systems, Inc.",4,0.0002,1985
+NTFN INC.,4,0.0002,1986
+"Michigan Mutual, Inc.",4,0.0002,1987
+"MILEND, INC.",4,0.0002,1988
+"Lyon Collection Services, Inc",4,0.0002,1989
+"Geneva Financial, LLC, Chandler, AZ Branch",4,0.0002,1990
+"Advantage Collection Professionals, Inc.",4,0.0002,1991
+"Red White and Blue Autos, Inc.",4,0.0002,1992
+Pharus Funding LLC,4,0.0002,1993
+COMMUNITY REINVESTMENT FUND,4,0.0002,1994
+Allen & Withrow,4,0.0002,1995
+"SACOR FINANCIAL, INC",4,0.0002,1996
+"NATIONAL FUNDING, INC.",4,0.0002,1997
+"Delta Management Group, Inc.",4,0.0002,1998
+"State Cap Auto Finance, Inc",4,0.0002,1999
+"LUKE, JOHNSON & LEWIS LLC",4,0.0002,2000
+US MORTGAGE CORPORATION,4,0.0002,2001
+"Alperstein and Associates, LLC",4,0.0002,2002
+"Frontline Asset Strategies, LLC",4,0.0002,2003
+"Yield Solutions Group, LLC",4,0.0002,2004
+Titan Revenue Solutions,4,0.0002,2005
+"Champions Funding, LLC",4,0.0002,2006
+Hanna Holdings Inc,4,0.0002,2007
+"Suncoast Financial Group, LLC",4,0.0002,2008
+ASAP Credit Repair,4,0.0002,2009
+"Modern Asset Management, Inc.",4,0.0002,2010
+"ALLSTATE LENDING GROUP, INC",4,0.0002,2011
+Hawes Klein LLC,4,0.0002,2012
+VIAMERICAS CORPORATION,4,0.0002,2013
+"Ovation Financial Services, LLC",4,0.0002,2014
+Hirshberg Acceptance Corporation,4,0.0002,2015
+"Car Credit Finance, LLC",4,0.0002,2016
+Northbrook and Associates,4,0.0002,2017
+Southwest Acceptance Finance Co,4,0.0002,2018
+Agency of Credit Control,4,0.0002,2019
+Blackwater Capital Group LLC.,4,0.0002,2020
+White Jacobs & Associates,4,0.0002,2021
+"Trott Law, P.C.",4,0.0002,2022
+"City First Mortgage Services, LLC.",4,0.0002,2023
+TDN Acquisition Corporation,4,0.0002,2024
+Orbita Asset Purchasing,4,0.0002,2025
+Southeast Investment Corp,4,0.0002,2026
+"CRC Holding, LLC",4,0.0002,2027
+"The Levinbook Law Firm, P.C.",4,0.0002,2028
+Atlantic Discount Corporation dba Atlantic Financial Services,4,0.0002,2029
+Strategic Dealer Services,4,0.0002,2030
+RANGE CREDIT BUREAU INC,4,0.0002,2031
+Municipal Collections of America Inc.,4,0.0002,2032
+"Midstate Collection Solutions, Inc.",4,0.0002,2033
+PREMIUM MORTGAGE CORP,4,0.0002,2034
+"Financial Asset Management, Inc.",4,0.0002,2035
+Mankin Law Group,4,0.0002,2036
+"Credit Resolutions, LLC",4,0.0002,2037
+"Credit Bureau of Jamestown, Inc.",4,0.0002,2038
+"Credit & Collection Recovery Services, Inc.",4,0.0002,2039
+"Adela, Inc",4,0.0002,2040
+"TNT Financial, Inc.",4,0.0002,2041
+ATLANTIC PACIFIC MORTGAGE CORP,4,0.0002,2042
+"TexCap Financial, LLC",4,0.0002,2043
+"Action Credit, LLC",4,0.0002,2044
+"Panorama Mortgage Group, LLC",4,0.0002,2045
+Credit Bureau Services Inc.,4,0.0002,2046
+JUSTICE FINANCE COMPANY,4,0.0002,2047
+VANDYK MORTGAGE CORPORATION,4,0.0002,2048
+Supreme Solutions,4,0.0002,2049
+"Rogers, Carter & Payne, LLC",4,0.0002,2050
+"MortgageOne, Inc.",4,0.0002,2051
+"Delta Management Associates, Inc.",4,0.0002,2052
+"Real Estate Equity Exchange, Inc. d/b/a Unison",4,0.0002,2053
+"Goodman Frost, PLLC",4,0.0002,2054
+"CDS Debt Relief, LLC",4,0.0002,2055
+HFS Financial LLC,4,0.0002,2056
+RRD Financial LLC,4,0.0002,2057
+"Cannon Finance, Inc.",4,0.0002,2058
+ZARVAD III S.A.,4,0.0002,2059
+Brown’s New Credit Bureau Inc.,4,0.0002,2060
+Ashwood Financial Inc,4,0.0002,2061
+"Glennon Law Firm, LLC",4,0.0002,2062
+"Van Horn Automotive Group, Inc.",4,0.0002,2063
+"Loan Science, LLC",4,0.0002,2064
+"NCS, Inc",4,0.0002,2065
+"Temple View Capital Funding, LP",4,0.0002,2066
+"BitGo Holdings, Inc.",4,0.0002,2067
+Law Office of Monica Guilarte LLC,4,0.0002,2068
+GREATER SUBURBAN ACCEPTANCE CORPORATION,4,0.0002,2069
+Markoff Law LLC,4,0.0002,2070
+"Galt Financial Solutions, LLC",4,0.0002,2071
+Benworth Capital Partners LLC,4,0.0002,2072
+"Stephen L. Bruce, P.C.",4,0.0002,2073
+"Modern Mortgage Financial, LLC",4,0.0002,2074
+950 Credit Inc,4,0.0002,2075
+"Waddell Serafino Geary Rechner Jenevein, PC",4,0.0002,2076
+Karwaala Inc,4,0.0002,2077
+Nations Mortgage LLC,4,0.0002,2078
+Grimley Financial Corporation,4,0.0002,2079
+"Mirand Response Systems, Inc.",4,0.0002,2080
+"Kabompo Holdings, Ltd.",4,0.0002,2081
+"Soja Management Services, LLC",4,0.0002,2082
+Car World Group,4,0.0002,2083
+Prime Choice Funding Inc.,4,0.0002,2084
+UNITED MORTGAGE CORP,4,0.0002,2085
+Primus Law PC,4,0.0002,2086
+"Law Office of James R. Vaughan, P.C.",4,0.0002,2087
+Reliance Motor Credit LLC,4,0.0002,2088
+"PACE Funding Group, LLC",4,0.0002,2089
+"McCarthy & Holthus, LLP",4,0.0002,2090
+"NEW WORLD COLLECTIONS, INC.",4,0.0002,2091
+"Finkelstein, Kern, Steinberg & Cunningham, PC",4,0.0002,2092
+"The Allen Daniel Associates, Inc.",4,0.0002,2093
+Discovery Auto Sales LLC,4,0.0002,2094
+"Apple Law Group, Inc.",4,0.0002,2095
+"O'Currance, Inc.",4,0.0002,2096
+Crosspoint Financial Inc.,4,0.0002,2097
+"Value Recovery Holding, LLC",4,0.0002,2098
+"Speed1, Inc",4,0.0002,2099
+Colony Ridge Inc.,4,0.0002,2100
+Midwest Municipal Services dba CredStar Revenue Solutions,4,0.0002,2101
+FLAGSHIP FINANCIAL GROUP LLC,4,0.0002,2102
+"Wetlands Holdings, Inc.",4,0.0002,2103
+Hans Capital Group dba H&L Automotive Financial Services,3,0.0002,2104
+Ok Finance Group INC,3,0.0002,2105
+Massachusetts Educational Financing Authority,3,0.0002,2106
+"MCCUE MORTGAGE COMPANY, THE",3,0.0002,2107
+"Komyatte & Casbon, P.C.",3,0.0002,2108
+"3G+1, Inc. dba California Auto Finance",3,0.0002,2109
+Professional Service Bureau,3,0.0002,2110
+"Creditors' Protection Service, Inc.",3,0.0002,2111
+"C&I Financial, Inc.",3,0.0002,2112
+"Rickart Collection Systems, Inc.",3,0.0002,2113
+"NexGen Proceed, LLC",3,0.0002,2114
+"Borenstein & Associates, LLC",3,0.0002,2115
+INSPERITY INC,3,0.0002,2116
+"Accounts Receivable Management, Inc",3,0.0002,2117
+"NQM Funding, LLC",3,0.0002,2118
+"Presto Loan Center, LLC",3,0.0002,2119
+"Pro Com Services of Illinois, Inc.",3,0.0002,2120
+"Nationwide Loan Consultants and Advisors, LLC",3,0.0002,2121
+"Credits, Incorporated",3,0.0002,2122
+Account Information Management Corporation,3,0.0002,2123
+Island Finance Puerto Rico,3,0.0002,2124
+SOUTHWEST COLLECTION SERVICES INC.,3,0.0002,2125
+Foreman Financial Inc.,3,0.0002,2126
+Northstar Legal Group LLC,3,0.0002,2127
+"Specified Credit Association, Inc.",3,0.0002,2128
+D.B.F. COLLECTION CORP.,3,0.0002,2129
+"Lamont, Hanley & Associates, Inc.",3,0.0002,2130
+Atlas Collections Inc. (of New Castle),3,0.0002,2131
+"HFG Holdings, Inc.",3,0.0002,2132
+"LPH, Inc.",3,0.0002,2133
+"Financial Filing & Reporting, Inc.",3,0.0002,2134
+"ROAD Auto Finance, LLC",3,0.0002,2135
+Liberty Debt Relief LLC,3,0.0002,2136
+"NOTE SERVICING CENTER, INC.",3,0.0002,2137
+"Fresh Start Funding, LLC",3,0.0002,2138
+VIN Title LLC d/b/a Discount Title Loan,3,0.0002,2139
+"JTM Capital Management, LLC",3,0.0002,2140
+Law Offices of Michael Lupolover,3,0.0002,2141
+Circle Internet Financial,3,0.0002,2142
+C2 Financial Corporation,3,0.0002,2143
+Astra Business Services,3,0.0002,2144
+NORTHERN OHIO INVESTMENT COMPANY,3,0.0002,2145
+"James E. Albertelli, P.A., a Florida professional association",3,0.0002,2146
+"Orion Portfolio Services, LLC",3,0.0002,2147
+"RSVP Lending, LLC dba RSVP Loans",3,0.0002,2148
+"North Shore Equities, Inc.",3,0.0002,2149
+USForex Inc.,3,0.0002,2150
+Modoc Tribe Financial Services Authority,3,0.0002,2151
+ABSOLUTE CREDIT  LLC,3,0.0002,2152
+"Computer Credit, Inc.",3,0.0002,2153
+"Certified Services, Inc.",3,0.0002,2154
+Rock Holdings Inc.,3,0.0002,2155
+AUTO CREDIT USA,3,0.0002,2156
+"Nair & Levin, P.C.",3,0.0002,2157
+"Professional Credit Analysts of MN, Inc.",3,0.0002,2158
+ReliaMax Holding Company,3,0.0002,2159
+"Parnell Law Group, LLC",3,0.0002,2160
+Massachusetts Housing Finance Agency (MassHousing),3,0.0002,2161
+Rithm Capital Corp.,3,0.0002,2162
+"Cloud Willis & Ellis, LLC",3,0.0002,2163
+SOUTHEAST MORTGAGE OF GA INC,3,0.0002,2164
+"CoinZoom, Inc.",3,0.0002,2165
+"The Law Offices of Gregory Alexandrides, LLC",3,0.0002,2166
+TheTenn Inc.,3,0.0002,2167
+"CICA Collection Agency, Inc.",3,0.0002,2168
+"Credit Collection Partners, Inc.",3,0.0002,2169
+California Accounts Service,3,0.0002,2170
+Better Debt Solutions LLC,3,0.0002,2171
+"Money Stash, L.L.C.",3,0.0002,2172
+Turbo Debt LLC,3,0.0002,2173
+Informative LLC,3,0.0002,2174
+MEGASTAR FINANCIAL CORP,3,0.0002,2175
+Capital Asset Recovery INC DBA Jacobson and Wright,3,0.0002,2176
+Credit Repair Anywhere,3,0.0002,2177
+ECredable,3,0.0002,2178
+LYON SERVICES CORPORATION,3,0.0002,2179
+"Western Mercantile Agency, Inc",3,0.0002,2180
+STATE BANK OF INDIA - NEW YORK BRANCH,3,0.0002,2181
+Tesani Management Inc,3,0.0002,2182
+"Moody, Jones & Ingino, P.A",3,0.0002,2183
+Financial Recovery Group,3,0.0002,2184
+NowackHoward LLC,3,0.0002,2185
+"Convergence Acquisitions, LLC",3,0.0002,2186
+"Thaddeus Bechtle Attorney at Law, LPC",3,0.0002,2187
+"Mitsubishi Motors North America, Inc.",3,0.0002,2188
+CashMax LLC,3,0.0002,2189
+Alliant Cooperative Data Solutions,3,0.0002,2190
+Athena Bitcoin Inc,3,0.0002,2191
+"Eagle Accounts Group, Inc.",3,0.0002,2192
+"New Southern Loans, Inc",3,0.0002,2193
+"Barnhall Financial Services, Inc.",3,0.0002,2194
+"HEARTLAND FINANCIAL USA, INC.",3,0.0002,2195
+"TaxServ, LLC",3,0.0002,2196
+"A+ Loans, Inc.",3,0.0002,2197
+"Verified First, LLC",3,0.0002,2198
+"Szuba & Associates, PLLC",3,0.0002,2199
+"Lend Smart Mortgage, LLC",3,0.0002,2200
+"Automated Accounts, Inc.",3,0.0002,2201
+"ThunderRoad Financial, LLC",3,0.0002,2202
+"Apoyo Financiero, Inc.",3,0.0002,2203
+Sir Finance Corp,3,0.0002,2204
+VETERIS CAPITAL LLC,3,0.0002,2205
+"SERVISFIRST BANCSHARES, INC.",3,0.0002,2206
+"Complete Care, Inc.",3,0.0002,2207
+Credit Bureau of Havre,3,0.0002,2208
+Asset Collections Inc,3,0.0002,2209
+"SettlementOne Valuation, LLC",3,0.0002,2210
+"Bursey & Associates, P.C.",3,0.0002,2211
+"Halliday, Watkins & Mann, P.C.",3,0.0002,2212
+Williston Financial Group,3,0.0002,2213
+SilverLake Financial LLC,3,0.0002,2214
+"Southern Credit Recovery, Inc.",3,0.0002,2215
+STATE STREET BANK AND TRUST COMPANY,3,0.0002,2216
+"West Law Group, PLLC",3,0.0002,2217
+ICUL Service Corporation,3,0.0002,2218
+General Mortgage Capital Corporation,3,0.0002,2219
+Advance Loan Service,3,0.0002,2220
+Redfin Corporation,3,0.0002,2221
+"Overton, Russell, Doerr and Donovan, LLP",3,0.0002,2222
+Home Credit Corp. Inc.,3,0.0002,2223
+Secure One Financial Inc.,3,0.0002,2224
+Allied Financial Services Inc,3,0.0002,2225
+No Limits Access,3,0.0002,2226
+"City Enterprises, LLC",3,0.0002,2227
+"AMERICAN BANCSHARES MORTGAGE, LLC",3,0.0002,2228
+"Diaz Anselmo Lindberg, P.A.",3,0.0002,2229
+Expert Credit Sweeps,3,0.0002,2230
+"BAY COUNTRYCONSUMER FINANCE,INC.",3,0.0002,2231
+MORTGAGE 1 INCORPORATION,3,0.0002,2232
+"Tpls, Inc dba Auto Master",3,0.0002,2233
+"CREDIT BUREAU OF NAPA COUNTY, INC.",3,0.0002,2234
+"Quantum3 Group, LLC",3,0.0002,2235
+"True Link Financial, Inc.",3,0.0002,2236
+"Salander Enterprises, LLC",3,0.0002,2237
+"Credit Solutions, LLC (KY)",3,0.0002,2238
+Payday America Inc.,3,0.0002,2239
+"Vanguard Financial Services, Inc.",3,0.0002,2240
+DebtEaze,3,0.0002,2241
+"Global Asset Agency, Inc.",3,0.0002,2242
+"Plastyc, Inc.",3,0.0002,2243
+Kiwi Financial Inc.,3,0.0002,2244
+"Aequitas Capital Opportunities Fund, LP",3,0.0002,2245
+"Chambless, Math, Carr, P.C.",3,0.0002,2246
+KOP Collection Services LLC,3,0.0002,2247
+Great Lakes Entities,3,0.0002,2248
+Ray Skillman GMC Truck Inc,3,0.0002,2249
+"CERTIFIED COLLECTORS, INC.",3,0.0002,2250
+Bankers Auto Acceptance,3,0.0002,2251
+Richard Stone & Associates,3,0.0002,2252
+EF CORPORATE HOLDINGS LLC,3,0.0002,2253
+Houston Finance Co.,3,0.0002,2254
+Texan Financial Services Inc,3,0.0002,2255
+Guidiville Indian Rancheria,3,0.0002,2256
+"Intermex Wire Transfer, LLC",3,0.0002,2257
+"ACCELERATED COLLECTION SERVICE, INC",3,0.0002,2258
+Leaders Financial Company,3,0.0002,2259
+"The Law Office of Alan Pritchard, PLLC",3,0.0002,2260
+Palisades Funding Corporation,3,0.0002,2261
+Northwest Collectors Inc.,3,0.0002,2262
+Landmark Collection Services Inc.,3,0.0002,2263
+"PASCO, Inc",3,0.0002,2264
+"PROFICIO FINANCIAL SERVICES, LLC",3,0.0002,2265
+"GreenPath, Inc.",3,0.0002,2266
+"Neiman, Stone & McCormick , P.C.",3,0.0002,2267
+Deatrick & Spies PSC,3,0.0002,2268
+"WILSON & ASSOCIATES, PLLC",3,0.0002,2269
+"Flatonia Investments, LLC",3,0.0002,2270
+"LENCO FINANCE OF CARENCRO, INC",3,0.0002,2271
+"The McHughes Law Firm, LLC",3,0.0002,2272
+"Advantage One Credit, LLC",3,0.0002,2273
+Snow and Sauerteig LLP,3,0.0002,2274
+"ACI Worldwide, Corp.",3,0.0002,2275
+"Dirick, Inc.",3,0.0002,2276
+HIGHLANDS RESIDENTIAL MORTGAGE,3,0.0002,2277
+"SMS Financial, LLC",3,0.0002,2278
+ADESA CORPORATION,3,0.0002,2279
+AmOne Corp.,3,0.0002,2280
+"Apex Funding Group, Inc.",3,0.0002,2281
+"First Financial Credit, Inc",3,0.0002,2282
+Richland Bureau of Credits Medical Service Bureau Inc.,3,0.0002,2283
+"Allied Collection Service, Inc. (Indiana)",3,0.0002,2284
+"CLAYTON AUTOS, INC",3,0.0002,2285
+"1 Auto Finance, Inc.",3,0.0002,2286
+Hamiltonian Inc.,3,0.0002,2287
+"Durrett Motor Company, Inc.",3,0.0002,2288
+"Array US, Inc",3,0.0002,2289
+DAIMLER TRUCK FINANCIAL SERVICES USA LLC,3,0.0002,2290
+Auto Finance Center,3,0.0002,2291
+"OSG Group Holdings, Inc.",3,0.0002,2292
+"Finular Group, Inc.",3,0.0002,2293
+"United First, LLC",3,0.0002,2294
+"Credit Associates, Inc. (MO)",3,0.0002,2295
+Southern Credit LLC,3,0.0002,2296
+The Cadle Company,3,0.0002,2297
+"FinanceCo of Kansas, Inc",3,0.0002,2298
+Kason Credit Corporation,3,0.0002,2299
+Next Level Finance Partners  LLC,3,0.0002,2300
+Shield Home Loans Inc.,3,0.0002,2301
+"Miguel A. Maza & Associates, PSC",3,0.0002,2302
+"CJA Auto Sales, Inc.",3,0.0002,2303
+Integras Capital Recovery LLC,3,0.0002,2304
+David Fogel P.C.,3,0.0002,2305
+NAM National Arbitration and Mediation,3,0.0002,2306
+Accelerated Servicing Group LLC,3,0.0002,2307
+Kitch Acceptance Corp.,3,0.0002,2308
+"Ace Customer Services, LLC",3,0.0002,2309
+"Spero Solutions, Inc.",3,0.0002,2310
+"Summit Collection Services, Inc.",3,0.0002,2311
+"Rock Creek Capital, LLC",3,0.0002,2312
+Courtesy Loans of Oklahoma LLC.,3,0.0002,2313
+"Globe Acceptance, Inc.",3,0.0002,2314
+Mortgage Origination Holdings LLC,3,0.0002,2315
+"Onset Financial, Inc.",3,0.0002,2316
+Midwest Finance Corporation,3,0.0002,2317
+Hughes Finance,3,0.0002,2318
+Riverwalk Financial Corporation,3,0.0002,2319
+CAPITAL CENTER LLC,3,0.0002,2320
+"Triton Management Group, Inc",3,0.0002,2321
+"Credit Bureau Data, Inc.",3,0.0002,2322
+Fusion Auto Finance,3,0.0002,2323
+"OLD REPUBLIC TITLE HOLDING COMPANY, INC",3,0.0002,2324
+"Costello Sury & Rooney, P.C.",3,0.0002,2325
+"Caramel Dealer Services, LLC",3,0.0002,2326
+Two Dots Inc.,3,0.0002,2327
+"Wasserstein, P.A.",3,0.0002,2328
+"General Recovery Services of WV, Inc.",3,0.0002,2329
+Asset Complaint Solutions,3,0.0002,2330
+Anytime Cash Solutions LLC,3,0.0002,2331
+Miller Davis & Peoples,3,0.0002,2332
+Debt Freedom Attorneys,3,0.0002,2333
+"Horizon Digital Finance Holdings, Inc",3,0.0002,2334
+Law Offices of Les Zieve,3,0.0002,2335
+"Advanced Recovery Systems, Inc.",3,0.0002,2336
+"WAMM Sales, LLC d/b/a Auto Simple",3,0.0002,2337
+"Healthcare Collections-I, LLC",3,0.0002,2338
+The Collection Analyst Incorporated,3,0.0002,2339
+"Phoenix Health Care Management Services, Inc.",3,0.0002,2340
+"Wheel City Motors East, Inc.",3,0.0002,2341
+"PayZen, Inc.",3,0.0002,2342
+"Kahn, Dees, Donovan & Kahn, LLP",3,0.0002,2343
+"Glick Management, LLC",3,0.0002,2344
+Ray Skillman Ford Inc,3,0.0002,2345
+JLO Ventures LLC dba Car By U,3,0.0002,2346
+"Celentano, Stadtmauer & Walentowicz, LLP",3,0.0002,2347
+North Capital Recovery Services,3,0.0002,2348
+"Neighborhood Capital Funding, Inc.",3,0.0002,2349
+CRE Credit Services,3,0.0002,2350
+"Tebo Financial Services, Inc.",3,0.0002,2351
+Universal Technical Institute,3,0.0002,2352
+B&B Hold Corp.,3,0.0002,2353
+"Global Equity Finance, Inc.",3,0.0002,2354
+AMERICAN PORTIFOLIO MORTGAGE,3,0.0002,2355
+"CMM Finance, Inc.",3,0.0002,2356
+"Credit Sesame, Inc.",3,0.0002,2357
+"Local Data Recovery, LLC",3,0.0002,2358
+Rocky Mountain Capital Management,3,0.0002,2359
+Peerless Credit Services Inc,3,0.0002,2360
+Stern & Stern. P.C.,3,0.0002,2361
+"Life Line Billing Systems, LLC",3,0.0002,2362
+Class AMC Intermediate,3,0.0002,2363
+"Location Services Holdings, LLC",3,0.0002,2364
+"Rubin & Debski, P.A.",3,0.0002,2365
+TM Communication LLC,3,0.0002,2366
+Headwaters Financial Corp.,3,0.0002,2367
+MEPCO FINANCE CORPORATION,3,0.0002,2368
+ARP & Associates LLC,3,0.0002,2369
+LAW OFFICE OF HALL AND ASSOCIATES,3,0.0002,2370
+Mechoopda Indian Tribe of Chico Rancheria,3,0.0002,2371
+SIMPLE CAR TITLE LOANS INC,3,0.0002,2372
+DRIVE NOW ACCEPTANCE LLC,3,0.0002,2373
+"Sapphire Marketing Group, Inc.",3,0.0002,2374
+"Perry Law Office, P.C.",3,0.0002,2375
+"Forsythe Finance, LLC",3,0.0002,2376
+"Kingston Financial, LLC",3,0.0002,2377
+CreditSmart Holdings Inc,3,0.0002,2378
+Allied Enrollment Centers LLC,3,0.0002,2379
+Upward Financial Inc.,3,0.0002,2380
+DCN Holdings Inc.,3,0.0002,2381
+Rain Technologies Inc.,3,0.0002,2382
+FOOTHILL CAPITAL SOLUTIONS LLC,3,0.0002,2383
+"Island Portfolios Services, LLC",3,0.0002,2384
+"International Debt Buying Consultants, LLC",3,0.0002,2385
+"Martell & Ozim, PA",2,0.0001,2386
+"Paradigm Assets, LLC",2,0.0001,2387
+Peoples Financial Corp.,2,0.0001,2388
+"MarkOne Holdings, LLC",2,0.0001,2389
+"BH Financial Group, LLC",2,0.0001,2390
+"A.C.S. Companies, Inc. I",2,0.0001,2391
+DRIVE NOW AUTO CREDIT COMPANY INC,2,0.0001,2392
+Financial Network Recovery Inc,2,0.0001,2393
+COLLECTIONS UNLIMITED OF TEXAS INC,2,0.0001,2394
+Manley Deas & Kochalski LLC,2,0.0001,2395
+Instarem PTE Limited,2,0.0001,2396
+BID SOLUTIONS LLC,2,0.0001,2397
+EZ Financing Inc,2,0.0001,2398
+State Finance Company,2,0.0001,2399
+Zachter PLLC,2,0.0001,2400
+"Rapid Investments Holdings, Inc",2,0.0001,2401
+"Reference Services, Inc.",2,0.0001,2402
+South Carolina Student Loan Corp,2,0.0001,2403
+"MCS CLAIMS SERVICES, INC",2,0.0001,2404
+Lexington Capital Holdings LTD,2,0.0001,2405
+"Rodriguez Fernandez Law Offices, LLC",2,0.0001,2406
+"Rubin Lublin, LLC",2,0.0001,2407
+TH Professional & Medical Collections LTD,2,0.0001,2408
+Roycroft Management,2,0.0001,2409
+"Financial Triangle, Inc.",2,0.0001,2410
+"Finance System of Green Bay, Inc.",2,0.0001,2411
+"Credit Clearing House of America, Inc.",2,0.0001,2412
+"AGS Financial, Inc",2,0.0001,2413
+Procollect Services LLC,2,0.0001,2414
+"Old Dominion Mortgage Co., Inc",2,0.0001,2415
+Go Rascal Inc.,2,0.0001,2416
+"Rock Solid Funding, LLC",2,0.0001,2417
+Credit Bureau Central Inc (MS),2,0.0001,2418
+"Alco Capital Group, LLC",2,0.0001,2419
+PLACID NK CORPORATION,2,0.0001,2420
+"CREDIT BUREAU OF LEWISTON-CLARKSTON, INC",2,0.0001,2421
+South West Recovery Inc (CA),2,0.0001,2422
+Falls Collection Service Inc.,2,0.0001,2423
+Creditor Advocates Inc,2,0.0001,2424
+Cottonwood Financial Ltd.,2,0.0001,2425
+"Advantage Plus Credit Reporting, Inc.",2,0.0001,2426
+TEXAS HIGHER EDUCATION COORDINATING BOARD,2,0.0001,2427
+"Motolease, LLC",2,0.0001,2428
+Arative Technologies LLC  (Bancoli),2,0.0001,2429
+B&F Finance Corp.,2,0.0001,2430
+Moiharwin Diverisfied Corporation,2,0.0001,2431
+CREDIT MANAGEMENT CORPORATION,2,0.0001,2432
+"Cronheim & Larsson, LLC",2,0.0001,2433
+"Credit Union Mortgage Association, Inc.",2,0.0001,2434
+Southwest Mediation Service,2,0.0001,2435
+"DSW Carolina, LLC d/b/a Resource Services",2,0.0001,2436
+Digital Currency Group Inc,2,0.0001,2437
+Prisma Capital LLC,2,0.0001,2438
+Merchants Automotive Group LLC,2,0.0001,2439
+KP ASSET CONSULTING LLC,2,0.0001,2440
+HOME ACCEPTANCE CORPORATION,2,0.0001,2441
+Unlimited Progress Corp,2,0.0001,2442
+"Estate Information Services, LLC",2,0.0001,2443
+Upstate Remedial Management Inc,2,0.0001,2444
+TOC Financial DBA Mi Gente,2,0.0001,2445
+"Groves Capital, Inc.",2,0.0001,2446
+Data Check of America LLC,2,0.0001,2447
+"BMANSOL Intermediate Holdings, Inc.",2,0.0001,2448
+Jupiter PreOwned Sales LLC,2,0.0001,2449
+"Accounts Receivables, Inc. (FL)",2,0.0001,2450
+AmNet ESOP Corporation,2,0.0001,2451
+Integra Auto Capital,2,0.0001,2452
+"TRANSCARD, LLC",2,0.0001,2453
+Lendtable Inc.,2,0.0001,2454
+Coast Acceptance Corporation,2,0.0001,2455
+"VeriCore, LLC",2,0.0001,2456
+"JH Portfolio Debt Equities, LLC",2,0.0001,2457
+AutoSmart  Acceptance Corporation,2,0.0001,2458
+"Dunn Law, P.A.",2,0.0001,2459
+"BUDGET CONTROL SERVICES, INC.",2,0.0001,2460
+"Arthur B. Adler & Associates, Ltd",2,0.0001,2461
+"Caliver Beach Mortgage, LLC",2,0.0001,2462
+Watercress Financial Group LLC,2,0.0001,2463
+"Kass Shuler, P.A.",2,0.0001,2464
+"Protocol Recovery Service, Inc.",2,0.0001,2465
+"CU Alliance, LLC",2,0.0001,2466
+Sky Venture Holdings LLC,2,0.0001,2467
+"ITALBANK INTERNATIONAL, INC.",2,0.0001,2468
+"Pennsylvania Auto Credit, Inc.",2,0.0001,2469
+"The Law Offices of Frederic I. Weinberg & Associates, P.C.",2,0.0001,2470
+Accounts Receivable Inc.,2,0.0001,2471
+Consumer Receivables Management LLC,2,0.0001,2472
+"C & M Associates Group, Inc.",2,0.0001,2473
+"Creditors Financial Services, LLC",2,0.0001,2474
+"Optimum First, Inc.",2,0.0001,2475
+"ADVISORS MORTGAGE GROUP, LLC",2,0.0001,2476
+"Skagit Bonded Collectors, LLC",2,0.0001,2477
+Ghidotti | Berger LLP,2,0.0001,2478
+Biorn Corporation,2,0.0001,2479
+"EML Payments USA, LLC",2,0.0001,2480
+"SUCCESS MORTGAGE PARTNERS, INC",2,0.0001,2481
+Cooling & Winter LLC,2,0.0001,2482
+"Mountain Run Solutions, LLC",2,0.0001,2483
+"Automania, Inc",2,0.0001,2484
+"Lipsey, Morrison, Waller & Lipsey, P.C.",2,0.0001,2485
+"Quick Bridge Funding, LLC",2,0.0001,2486
+NETWORK CAPITAL FUNDING CORP,2,0.0001,2487
+Heights Finance LLC,2,0.0001,2488
+The Judgment Group,2,0.0001,2489
+"Smart Money Capital, LLC",2,0.0001,2490
+"Kenneth, Eisen & Associates, LTD.",2,0.0001,2491
+Alliance Acceptance Corp.,2,0.0001,2492
+Concerto Card Company,2,0.0001,2493
+Friendly Finance Corporation,2,0.0001,2494
+Common Wealth Mortgage Services,2,0.0001,2495
+"Gusdorf Law Firm, LLC",2,0.0001,2496
+"Mesa Auto Finance, LLC",2,0.0001,2497
+"Frontline Financial, LLC",2,0.0001,2498
+"Zimmerman & Zimmerman, P.A.",2,0.0001,2499
+"Equity Wave Lending, Inc.",2,0.0001,2500
+Revenue Recovery Solutions  Inc.,2,0.0001,2501
+Collections Inc,2,0.0001,2502
+Lacy Katzen LLP,2,0.0001,2503
+Strand Finance Inc.,2,0.0001,2504
+Allied Union Group Inc,2,0.0001,2505
+"Delphi Law Group, LLP",2,0.0001,2506
+"RAM America, Inc",2,0.0001,2507
+"The Orange Coast Company, LLC",2,0.0001,2508
+"Gitsit Solutions, LLC.",2,0.0001,2509
+New Start Financial,2,0.0001,2510
+Altitude Community Law P.C.,2,0.0001,2511
+"Legacy Customer Management Group, LLC",2,0.0001,2512
+HALLMARK HOME MORTGAGE LLC,2,0.0001,2513
+"Blue Front Financial, LLC d/b/a Ladder Loans",2,0.0001,2514
+Barton Benson Jones PLLC,2,0.0001,2515
+Bella Sloan Enterprises,2,0.0001,2516
+"Blake Enterprises, LLC",2,0.0001,2517
+"Collection Service Center, Inc.",2,0.0001,2518
+Peoples Credit Inc.,2,0.0001,2519
+"The Law Offices of Bradley Kim Thomas ii, LLC",2,0.0001,2520
+"JRCM, LLC",2,0.0001,2521
+"Puerto Rico Consumer Debt Management Co., Inc.",2,0.0001,2522
+Mortgage Connect LP,2,0.0001,2523
+Bay Equity LLC,2,0.0001,2524
+Meadowbrook Financial Mortgage Bankers Corp.,2,0.0001,2525
+Angel Oak Mortgage Solutions LLC,2,0.0001,2526
+"Coastal Capital Processing, LLC",2,0.0001,2527
+Tarpon Financial Corporation,2,0.0001,2528
+"Paragon Subrogation Services, Inc",2,0.0001,2529
+"Mammoth Tech, Inc.",2,0.0001,2530
+"SW Linear Investment Group, LLC",2,0.0001,2531
+"OVM FINANCIAL, INC",2,0.0001,2532
+Allied Consumer Assistance,2,0.0001,2533
+"WALLICK AND VOLK, INC",2,0.0001,2534
+RenoFi Inc.,2,0.0001,2535
+Texas Mortgage Lending LLC,2,0.0001,2536
+Monevo Inc,2,0.0001,2537
+"Hood & Stacy, P.A.",2,0.0001,2538
+ATM OPS INC,2,0.0001,2539
+"USA Cash Services Management, Inc.",2,0.0001,2540
+"ASSURANCE FINANCIAL GROUP, LLC",2,0.0001,2541
+SOFI LOCAL CORP,2,0.0001,2542
+"Wheels of Chicago, Inc.",2,0.0001,2543
+"Mezu, Inc",2,0.0001,2544
+ACOPIA CAPITAL GROUP,2,0.0001,2545
+Speed Investments LLC,2,0.0001,2546
+"CREDIT BUREAU OF BISMARCK, INC.",2,0.0001,2547
+"Peoples Home Equity, Inc.",2,0.0001,2548
+Khoury Alternative Claims Management,2,0.0001,2549
+"First Texas Auto Credit, Inc.",2,0.0001,2550
+"Nelson, Cooper & Ortiz, LLC",2,0.0001,2551
+Highline Automotive Inc.,2,0.0001,2552
+Glassen Rhead Mclean Campbell & Schumaker P.L.C.,2,0.0001,2553
+"M/I Homes, Inc.",2,0.0001,2554
+"Hall & Ludlam, PLLC",2,0.0001,2555
+Ocean Lending Home Loans,2,0.0001,2556
+"Kenneth E. Davidson, Attorney",2,0.0001,2557
+"Capital Recovery Systems, Inc.",2,0.0001,2558
+"Validify, LLC",2,0.0001,2559
+"Duke Capital, LLC",2,0.0001,2560
+"Credit Bureau Services, LLC",2,0.0001,2561
+RAYMOND JAMES BANK,2,0.0001,2562
+Strauss Factor Laing & Lyons,2,0.0001,2563
+"Francy Law Firm, P.C.",2,0.0001,2564
+"RICHLAND LOAN PROCESSING CENTER, LLC",2,0.0001,2565
+"Bessine Walterbach, LLP",2,0.0001,2566
+Hawk Inc,2,0.0001,2567
+"SOFTGATE SYSTEMS, INC.",2,0.0001,2568
+"FlexPath Capital, Inc",2,0.0001,2569
+"Small & Small, Attorneys PLLC",2,0.0001,2570
+"Veristone Mortgage, LLC",2,0.0001,2571
+Miranda Holdings LLC DBA Total Credit Relief,2,0.0001,2572
+LATIN AMERICAN FINANCIAL,2,0.0001,2573
+ASG Solutions LLC,2,0.0001,2574
+LEADER ONE FINANCIAL CORPORATION,2,0.0001,2575
+Maury's Motors Inc DBA Midpoint Auto Group,2,0.0001,2576
+"The Zellman Group, LLC",2,0.0001,2577
+"K STREET FINANCE, INC.",2,0.0001,2578
+"Rainier Financial Group, LLC",2,0.0001,2579
+RK Chevrolet Subaru,2,0.0001,2580
+Weimark,2,0.0001,2581
+Philip Sellers P.C.,2,0.0001,2582
+Retention Consulting Services Inc.,2,0.0001,2583
+Thrifty Motors Inc.,2,0.0001,2584
+"Wilco Finance, Inc",2,0.0001,2585
+"RevMD Partners, LLC.",2,0.0001,2586
+Controlled Credit Corporation,2,0.0001,2587
+Oklahoma Student Loan Authority,2,0.0001,2588
+"GCFS, INC.",2,0.0001,2589
+CW Financial,2,0.0001,2590
+"Pittenger Law Group, LLC.",2,0.0001,2591
+College Guidance Resources  LLC,2,0.0001,2592
+"USA Credit Solutions, Inc",2,0.0001,2593
+CUILA LLC,2,0.0001,2594
+Capital Core Advisors LLC,2,0.0001,2595
+"AutoStar Finance, Inc - D/B/A Atlanta AutoStar",2,0.0001,2596
+"Burns Auto Credit, LLC",2,0.0001,2597
+"The Sayer Law Group, P.C.",2,0.0001,2598
+Cass & Associates,2,0.0001,2599
+"Credit Service of Logan, Inc.",2,0.0001,2600
+"Automotive Funding Group, Inc",2,0.0001,2601
+"Metallicus, Inc.",2,0.0001,2602
+"American Consumer Credit Counseling, Inc.",2,0.0001,2603
+Collection Bureau of Walla Walla,2,0.0001,2604
+Stream Innovations Inc.,2,0.0001,2605
+InstaMortgage Inc.,2,0.0001,2606
+ALAMEDA MORTGAGE CORPORATION,2,0.0001,2607
+Volunteer Mortgage Inc,2,0.0001,2608
+Charleston Area Medical Center,2,0.0001,2609
+"MORTGAGE CENTER, LC",2,0.0001,2610
+BOC Capital Corp.,2,0.0001,2611
+"International Recovery Associates, Inc.",2,0.0001,2612
+"AutoCred, Inc.",2,0.0001,2613
+"MAGGUILLI LAW FIRM, PLLC",2,0.0001,2614
+"Regional Acquisition Group, Inc.",2,0.0001,2615
+Scherr & McClure,2,0.0001,2616
+I.A.C. INC,2,0.0001,2617
+Dependable Debt Recovery,2,0.0001,2618
+"SOUTHPOINT FINANCIAL SERVICES, INC.",2,0.0001,2619
+Accountable Finance Inc,2,0.0001,2620
+"CBK, Inc.",2,0.0001,2621
+"DOUGLAS, KNIGHT & ASSOCIATES, INC.",2,0.0001,2622
+"Creditech, Inc.",2,0.0001,2623
+"Kaman & Cusimano, LLC",2,0.0001,2624
+Sierra Collections and Consulting LLC,2,0.0001,2625
+"Peterson Young P.C., d/b/a  Miller Cohen Peterson Young P.C.",2,0.0001,2626
+Law Office of Linda Strumpf,2,0.0001,2627
+"Qualey Law Group, Inc.",2,0.0001,2628
+The CFM Group,2,0.0001,2629
+"CreditGUARD of America, Inc.",2,0.0001,2630
+Physicians & Dentists Credit Bureau,2,0.0001,2631
+"Asset Recovery Group, Inc.",2,0.0001,2632
+"Sykes,Bourdon,Ahern & Levy, P.C.",2,0.0001,2633
+Foxstar Energy Resources LLC DBA Federal Student Loans Council,2,0.0001,2634
+"Lake Area Collections, LLC",2,0.0001,2635
+Williams Kastner & Gibbs PLLC,2,0.0001,2636
+Usset Weingarden & Liebo PLLP,2,0.0001,2637
+Sklar Law LLC,2,0.0001,2638
+"Ogden Holdings, LLC",2,0.0001,2639
+"POM Recoveries, Inc.",2,0.0001,2640
+"Darnel Quick Recovery, Inc.",2,0.0001,2641
+BAY VALLEY MORTGAGE GROUP,2,0.0001,2642
+"Premier Recovery Services, LLC",2,0.0001,2643
+Vermont Student Assistance Corporation,2,0.0001,2644
+"Bonial & Associates, P.C",2,0.0001,2645
+INTERCONTINENTAL CAPITAL GROUP,2,0.0001,2646
+"FAST AND FAIR COLLECTION SOLUTIONS, LLC",2,0.0001,2647
+"Escrow and Title Services, Inc.",2,0.0001,2648
+"Payday Motors, Inc.",2,0.0001,2649
+Pendleton & Sutton LLC,2,0.0001,2650
+"Riverview Law Office, PLLC",2,0.0001,2651
+"Friedman, Framme & Thrush, P.A.",2,0.0001,2652
+Receivables Management Associates,2,0.0001,2653
+"Money Services, Inc., d/b/a Texoma Finance",2,0.0001,2654
+FundFlare LLC,2,0.0001,2655
+Arco Collection Services LLC,2,0.0001,2656
+Next Door Lending LLC,2,0.0001,2657
+"Priority 1 Lending, LLC",2,0.0001,2658
+"E-Backgroundchecks.com, Inc.",2,0.0001,2659
+"Sokaogon Finance, Inc.",2,0.0001,2660
+Broadway Advance LLC,2,0.0001,2661
+"New Century Financial Services, Inc.",2,0.0001,2662
+"CMCS, Inc. DBA Central Mercantile Collection Services",2,0.0001,2663
+"Debt Direct Portfolio Management, LLC",2,0.0001,2664
+"Capital Collections, LLC",2,0.0001,2665
+Roberts Markel Weinberg Butler Hailey PC,2,0.0001,2666
+Mortgage Choice LLC dba: Motto Mortgage Choice,2,0.0001,2667
+"Sum Investments, Inc.",2,0.0001,2668
+CFW Holdings LLC,2,0.0001,2669
+Kompato AI Inc,2,0.0001,2670
+Skyline Financial Corp.,2,0.0001,2671
+"One Technologies, LP",2,0.0001,2672
+"Spina & Lavelle, P.C.",2,0.0001,2673
+SSRM,2,0.0001,2674
+"Welcome Finance Company, Inc",2,0.0001,2675
+"LLOYD'S PLAN, INC.",2,0.0001,2676
+"FirstCollect, Inc.",2,0.0001,2677
+"Garner & Conner, PLLC",2,0.0001,2678
+"American Elite Recovery, LLC",2,0.0001,2679
+MIRACLE FINANCE LTD,2,0.0001,2680
+"SUMMIT FUNDING, INC.",2,0.0001,2681
+"DAS ACQUISITION COMPANY, LLC",2,0.0001,2682
+"Creditmax Collection Agency, Inc. d/b/a Creditmax, Inc.",2,0.0001,2683
+AE Tradings Inc,2,0.0001,2684
+Lazega & Johanson LLC,2,0.0001,2685
+"United Lending Team, INC",2,0.0001,2686
+"Stream Platforms, Inc.",2,0.0001,2687
+Champlin & Associates PLLC,2,0.0001,2688
+"PRIMAVERA FINANCIAL, INC.",2,0.0001,2689
+Cambridge Credit Counseling Corp.,2,0.0001,2690
+Escrow Inc,2,0.0001,2691
+Moon Inc.,2,0.0001,2692
+Homespire Mortgage Corp,2,0.0001,2693
+"3rd Generation, Inc.",2,0.0001,2694
+National Home Buyer’s Alliance,2,0.0001,2695
+"Key Debt Recovery, Inc.",2,0.0001,2696
+"Quantum Financial, Inc.",2,0.0001,2697
+Mintex Inc.,2,0.0001,2698
+"Managed Recovery Systems, Inc.",2,0.0001,2699
+FIRST FOUNDATION INC.,2,0.0001,2700
+"Dana & Pariser Co.,L.P.A.",2,0.0001,2701
+"Crabtree Law, PA",2,0.0001,2702
+Patrick K Willis Company Inc,2,0.0001,2703
+"Leib Solutions, LLC",2,0.0001,2704
+"Lippman Recupero, LLC",2,0.0001,2705
+Rhode Island Student Loan Authority,2,0.0001,2706
+"(Former)Shapiro, Swertfeger & Hasty, LLP",2,0.0001,2707
+TGA,2,0.0001,2708
+"Atlantic Collection Agency, Inc.",2,0.0001,2709
+"Sky Blue Financial Services, Inc.",2,0.0001,2710
+HomeServices of Iowa,2,0.0001,2711
+Smart Finance Inc dba Fishtail Financial,2,0.0001,2712
+"Equity Auto Finance, Inc.",2,0.0001,2713
+"Pintor Partners, LP",2,0.0001,2714
+"Breit & Boomsma, P.C.",2,0.0001,2715
+"GMS Holdings, Inc.",2,0.0001,2716
+Consumer Shield,2,0.0001,2717
+Hanson Capital LLC,2,0.0001,2718
+Commercial Credit Counseling Services Inc.,2,0.0001,2719
+GERSHMAN INVESTMENT CORPORATION,2,0.0001,2720
+"Virtual Assets, LLC",2,0.0001,2721
+Diamond Advances LLC,2,0.0001,2722
+EZ FUNDINGS Inc.,2,0.0001,2723
+Nationwide Arbitration Services LLC,2,0.0001,2724
+"CBM Services, Inc.",2,0.0001,2725
+PRA LAW FIRM,2,0.0001,2726
+"Continental Currency Services, Inc.",2,0.0001,2727
+Gross Polowy LLC,2,0.0001,2728
+Niederman Stanzel & Lindsey,2,0.0001,2729
+"New Direction, Inc",2,0.0001,2730
+"RN Financial, LLC",2,0.0001,2731
+"BLACK HILLS CHILDREN'S RANCH, INC.",2,0.0001,2732
+PIKE CREEK MORTGAGE SERVICES,2,0.0001,2733
+"Prodigy Finance Servicing, LLC",2,0.0001,2734
+Eastern Asset Services LLC,2,0.0001,2735
+CONTOUR MORTGAGE CORPORATION,2,0.0001,2736
+"CENTENNIAL LENDING, LLC",2,0.0001,2737
+UNITED CREDIT CORP. OF SOUTHAVEN,2,0.0001,2738
+"AmerAssist A/R Solutions, Inc.",2,0.0001,2739
+STIFEL FINANCIAL CORP.,2,0.0001,2740
+Becker and Poliakoff,2,0.0001,2741
+"Liberty Career Finance, LLC",2,0.0001,2742
+Fradkin & Weber PA,2,0.0001,2743
+ARM Professional Services LLC,2,0.0001,2744
+Albuquerque Auto Outlet,2,0.0001,2745
+"Account Recovery Specialists, Inc.",2,0.0001,2746
+"Star Loans of Texas, Inc.",2,0.0001,2747
+"Check City Partnership, LLC",2,0.0001,2748
+Rutherford Credit,2,0.0001,2749
+Car Credit Inc,2,0.0001,2750
+"JOHN GIBSON AUTO SALES, INC.",2,0.0001,2751
+"Quad Corporation, Inc.",2,0.0001,2752
+MAINSTREET LOAN COMPANY IN,2,0.0001,2753
+"Bonded Business Services, Ltd.",2,0.0001,2754
+Daramad LLC,2,0.0001,2755
+"Nationwide Mortgage Bankers, Inc.",2,0.0001,2756
+Double D Finance dba Idaho Finance,2,0.0001,2757
+"Insta-Credit Auto Mart, Inc. dba InstaCredit Automart",2,0.0001,2758
+HomeXpress Mortgage Corp.,2,0.0001,2759
+"Commercial Industries Services Company, Inc.",2,0.0001,2760
+Bayview Solutions LLC,2,0.0001,2761
+"Rolfe & Lobello, P.A.",2,0.0001,2762
+"NORTHPOINT MORTGAGE, INC.",2,0.0001,2763
+"VERITAS FUNDING, LLC",2,0.0001,2764
+"MMRR Finance, d/b/a Cash Loans Direct",2,0.0001,2765
+Burke Costanza & Carberry LLP,2,0.0001,2766
+"F & S Financial Marketing, Inc.",2,0.0001,2767
+"NRG STX Properties, LLC",2,0.0001,2768
+"Debt Recovery Solutions of Ohio, Inc.",2,0.0001,2769
+Recovery Exchange LLC,2,0.0001,2770
+Accenture LLP,2,0.0001,2771
+"Pluese, Becker & Saltzman, LLC",2,0.0001,2772
+"EMI Equity Mortgage, Inc.",2,0.0001,2773
+"KILOWATT FINANCIAL, LLC, A SPRUCE FINANCE COMPANY",2,0.0001,2774
+"Kopp Collection Service, Inc.",2,0.0001,2775
+Lockhart Mediation Services,2,0.0001,2776
+Dodge Enterprises Inc.,2,0.0001,2777
+"The Grogan Law Group, LLC",2,0.0001,2778
+National Capital Solutions,2,0.0001,2779
+"Sovereign Lending Group, Incorporated",2,0.0001,2780
+GENWORTH FINANCIAL INC.,2,0.0001,2781
+"Moxley & Associates, LLC",2,0.0001,2782
+"Cohen, Roberts & Associates, LLC",2,0.0001,2783
+OAKTREE FUNDING CORPORATION,2,0.0001,2784
+Eastside Funding LLC,2,0.0001,2785
+"Snap Credit, Inc.",2,0.0001,2786
+Equitable Acceptance Corp,2,0.0001,2787
+"Evans & Mullinix, PA",2,0.0001,2788
+Westley Auto Inc,2,0.0001,2789
+"Affirmative Law, PC",2,0.0001,2790
+"WILKINSON LAW FIRM, P.C.",2,0.0001,2791
+Columbia Collectors Inc,2,0.0001,2792
+Check N Title Loans,2,0.0001,2793
+"Atlas Services, Inc.",2,0.0001,2794
+"Asset Management Holdings, LLC",2,0.0001,2795
+"Aero Payments, Inc.",2,0.0001,2796
+"Capital Eleven Auto, LLC dba Capital Auto Loan",2,0.0001,2797
+UTAHCASHLOANS LLC,2,0.0001,2798
+"AAA CAPITAL INVESTMENT, INC.",2,0.0001,2799
+Greenway Mortgage Funding Corp.,2,0.0001,2800
+"HighPoint Law Offices, LLC",2,0.0001,2801
+NOVAE LLC,2,0.0001,2802
+Express Paycheck LLC,2,0.0001,2803
+"Norwich Commercial Group, Inc.",2,0.0001,2804
+"Synergy One Lending, Inc.",2,0.0001,2805
+"Horsepower Financial, LLC",2,0.0001,2806
+Breit Investment,2,0.0001,2807
+"Ignite Revenue, Inc.",2,0.0001,2808
+National Default Servicing Corporation,2,0.0001,2809
+"DCS2 Asset Recovery, LLC",2,0.0001,2810
+"Solomon and Solomon, P.C.",2,0.0001,2811
+"Oak Harbor Capital, LLC",2,0.0001,2812
+True Finance,2,0.0001,2813
+"Feldman & Stern, LLC",2,0.0001,2814
+Lit Financial Corporation,2,0.0001,2815
+"The Law Office of Michael A. Priddle, LLC",2,0.0001,2816
+Swift Debt Relief Inc.,2,0.0001,2817
+FloatMe Corp.,2,0.0001,2818
+"Klutch Technologies, Inc.",2,0.0001,2819
+Preferred Finanical Services Corporation,2,0.0001,2820
+"MNE Services, Inc",2,0.0001,2821
+"Morning Law Group, P.C.",2,0.0001,2822
+PARAMOUNT BOND & MORTGAGE CO.,2,0.0001,2823
+"St John Rossin & Burr, PLLC",2,0.0001,2824
+Quick Money Solutions LLC,2,0.0001,2825
+Cashera LLC,2,0.0001,2826
+"AMERICAN FINANCIAL MANAGEMENT, INC.",2,0.0001,2827
+RTO National,2,0.0001,2828
+Hometown Select Mortgage LLC,2,0.0001,2829
+CFS of Aurora IL LLC,2,0.0001,2830
+"Pinnacle Lending Group, Inc.",2,0.0001,2831
+"Capstone Capital USA, LLC",2,0.0001,2832
+"WRJ Holdings, LLC",2,0.0001,2833
+"Neighborhoods United, LLC",1,0.0001,2834
+Greco Financial Services Corp.,1,0.0001,2835
+Oliver Adjustment Co.,1,0.0001,2836
+"Affordable Auto Finance, Inc",1,0.0001,2837
+"Smith Law Firm, P.C.",1,0.0001,2838
+"Clunk Hoose Co., LPA",1,0.0001,2839
+"Amcap Investments, LLC",1,0.0001,2840
+"Amerifinance, Inc.",1,0.0001,2841
+"Murphy Law Office, LLC",1,0.0001,2842
+R&M Marketing Associates LLC,1,0.0001,2843
+Total Finance AC LLC,1,0.0001,2844
+Accudata Credit Systems LLC,1,0.0001,2845
+Pier Special Opportunities Fund LP,1,0.0001,2846
+"Egon Singerman, Attorney at Law",1,0.0001,2847
+SBG Financial,1,0.0001,2848
+EdAid Limited,1,0.0001,2849
+Nelson Automotive Finance,1,0.0001,2850
+Accessity,1,0.0001,2851
+Zingo Cash Illinois LLC,1,0.0001,2852
+BIRK CORPORATION,1,0.0001,2853
+NorthStar Technologies,1,0.0001,2854
+American Location Specialists,1,0.0001,2855
+We Finance Inc.,1,0.0001,2856
+OfferMarket,1,0.0001,2857
+Paradigm Capital Group,1,0.0001,2858
+Paula G Kaplan Esq,1,0.0001,2859
+"The Accounts Retrievable System, Inc.",1,0.0001,2860
+"IMPAC MORTGAGE HOLDINGS, INC.",1,0.0001,2861
+Nevada Professional Collections Texas,1,0.0001,2862
+Royalty Management Corporation,1,0.0001,2863
+"COLLECTION SERVICES OF ATHENS, INC.",1,0.0001,2864
+Solidus Group LLC.,1,0.0001,2865
+"Hawk, Haynie, Kammeyer & Smith, LLP",1,0.0001,2866
+M Squared Financial LLC,1,0.0001,2867
+"KCC Services, LLC",1,0.0001,2868
+ALMA Financial Assistance Corp.,1,0.0001,2869
+Dario Auto Sales,1,0.0001,2870
+OPEN MORTGAGE LLC,1,0.0001,2871
+College Loan Corporation,1,0.0001,2872
+"SF-ALP, LLC",1,0.0001,2873
+Student Assist Plus LLC,1,0.0001,2874
+ACG FUNDING INC,1,0.0001,2875
+Schaefer Legal LLC,1,0.0001,2876
+"Summit Mortgage Bankers, Inc",1,0.0001,2877
+BR & CA Finance Corp,1,0.0001,2878
+"Consolidated Auto Sales, Inc.",1,0.0001,2879
+Interstate Credit Control,1,0.0001,2880
+"VERITEX HOLDINGS, INC.",1,0.0001,2881
+Saul Jablon Attorney at Law,1,0.0001,2882
+"First National Auto Sales, Inc",1,0.0001,2883
+"MBM Collections, LLC",1,0.0001,2884
+"Kirkwood Law, LLC",1,0.0001,2885
+"Delivery Financial Services, LLC",1,0.0001,2886
+"Harrington Law Firm, P.C.",1,0.0001,2887
+"Action Professionals, Inc.",1,0.0001,2888
+Pacific Rim Alliance Corporation,1,0.0001,2889
+Currencies Direct Inc.,1,0.0001,2890
+North Main Motors Inc.,1,0.0001,2891
+"Hameroff Law Group, P.C.",1,0.0001,2892
+ACCOUNTS ADVOCATE AGENCY,1,0.0001,2893
+"Interstate Recovery Service, Inc.",1,0.0001,2894
+"Kuber Financial, LLC",1,0.0001,2895
+"North Georgia Loans, Inc.",1,0.0001,2896
+SECURITY HOME MORTGAGE,1,0.0001,2897
+Penrith Home Loans LLC,1,0.0001,2898
+FIRST CONTINENTAL MORTGAGE LTD,1,0.0001,2899
+Customer Service Mortgage Corporation,1,0.0001,2900
+"Scratch Services, Inc.",1,0.0001,2901
+Maxitransfers LLC,1,0.0001,2902
+Ray Skillman Westside Imports Inc,1,0.0001,2903
+Evident Capital LLC,1,0.0001,2904
+"The Barton Law Group, LLC",1,0.0001,2905
+"Commercial Credit, Inc.",1,0.0001,2906
+"Nevada Credico, Inc.",1,0.0001,2907
+"Anchor Financial Mortgage, Inc.",1,0.0001,2908
+"Trident Home Loans, LLC",1,0.0001,2909
+Law Office Of Steven D. Silverstein,1,0.0001,2910
+"Hillcrest Capital, LLC",1,0.0001,2911
+Blue Bay Capital,1,0.0001,2912
+CITY CREEK MORTGAGE CORP.,1,0.0001,2913
+"Dowler Law Firm, PLLC",1,0.0001,2914
+Best Ride Inc,1,0.0001,2915
+"Dolliemac, LLC dba Elite Document Management Solutions",1,0.0001,2916
+"American Credit Exchange, Inc",1,0.0001,2917
+"American Capital Enterprises, Inc.",1,0.0001,2918
+"RUI Credit Services, Inc.",1,0.0001,2919
+"Oz Gram Investment, Inc.",1,0.0001,2920
+"AR Audit Services, Inc",1,0.0001,2921
+"Enhanced Recovery Services 2, Inc.",1,0.0001,2922
+"Mountain West Financial, LLC",1,0.0001,2923
+"The Winn Brown Law Firm, LLC",1,0.0001,2924
+PARK NATIONAL CORPORATION,1,0.0001,2925
+"Fair Resolutions, Inc.",1,0.0001,2926
+"Rescue 1 Financial, LLC",1,0.0001,2927
+Hatfield Portfolio Group LLC.,1,0.0001,2928
+Money Tree Lending,1,0.0001,2929
+LAGO Funding Corp.,1,0.0001,2930
+The Hallstrom Law Firm PLLC,1,0.0001,2931
+DMA Financial Corp.,1,0.0001,2932
+"E. Margriet Langenberg, P.C.",1,0.0001,2933
+"Pankey & Horlock, LLC",1,0.0001,2934
+"Charlottesville Bureau of Credits, Inc",1,0.0001,2935
+"Tri-Emerald Financial Group, Inc.",1,0.0001,2936
+"Jeffrey G. Lerman, P.C.",1,0.0001,2937
+AltCap,1,0.0001,2938
+"Total Recovery Services, Inc",1,0.0001,2939
+OpenRoad Financial Services Inc,1,0.0001,2940
+TRI POINTE HOMES INC,1,0.0001,2941
+"Peterson Enterprises, Inc.",1,0.0001,2942
+"Millsap & Singer, LLC",1,0.0001,2943
+"Powerhouse Solutions, Inc.",1,0.0001,2944
+NEIGHBORHOOD ECONOMIC DEVELOPMENT CORPORATION (NEDCO),1,0.0001,2945
+Diamond Funding Corporation,1,0.0001,2946
+"Advanced Recovery Systems, Inc. (PA)",1,0.0001,2947
+AMERICAN FEDERAL MORTGAGE CORPORATION,1,0.0001,2948
+"Cascade Collections, Inc.",1,0.0001,2949
+Law Firm of Karl Frankovitch,1,0.0001,2950
+"Loan Pronto, Inc.",1,0.0001,2951
+Smart Auto Leasing,1,0.0001,2952
+"HENRY SCHEIN, INC.",1,0.0001,2953
+Pending Company Match,1,0.0001,2954
+"Continental Credit, LLC",1,0.0001,2955
+"Credit Bureau of Council Bluffs, Inc DBA Credit Information Systems",1,0.0001,2956
+MODERN FINANCE COMPANY,1,0.0001,2957
+Assure Home Mortgage LLC,1,0.0001,2958
+"URS Solutions, LLC",1,0.0001,2959
+Great Northern Mortgage Corp.,1,0.0001,2960
+"Gillman Interests, Inc.",1,0.0001,2961
+The Wirbicki Law Group LLC,1,0.0001,2962
+First Pacific Funding Inc.,1,0.0001,2963
+Atchison Account Management,1,0.0001,2964
+DEBT CREDIT SERVICES,1,0.0001,2965
+"Emerald AR Systems, LLC",1,0.0001,2966
+"Yakima County Credit Service, INC",1,0.0001,2967
+"Zakheim Law Group, P.A.",1,0.0001,2968
+"Loom Capital, LLC",1,0.0001,2969
+"Anchor Home Mortgage, Inc.",1,0.0001,2970
+"The Rickel Law Firm, P.C.",1,0.0001,2971
+"First Title & Escrow, Inc",1,0.0001,2972
+City Select Auto Sales,1,0.0001,2973
+Northrim Capital Investments Co.,1,0.0001,2974
+"Resolve Partners, LLC",1,0.0001,2975
+"Rapid Collection Systems, Inc.",1,0.0001,2976
+"Collection Services, Inc.",1,0.0001,2977
+"Consumer Credit Counseling Foundation, Inc.",1,0.0001,2978
+Recovery Legal Group,1,0.0001,2979
+Castle Mortgage Corporation dba Excelerate Capital,1,0.0001,2980
+States Resources Corp.,1,0.0001,2981
+TOPA EQUITIES,1,0.0001,2982
+"Advantage Financial Services of Covington, LLC",1,0.0001,2983
+Neuhauser Law PLLC,1,0.0001,2984
+"Best in Funding, Inc.",1,0.0001,2985
+AGN Auto Gallery Inc,1,0.0001,2986
+ALCOVA MORTGAGE LLC,1,0.0001,2987
+Scoutlogic Inc.,1,0.0001,2988
+"Loandrone, Inc.",1,0.0001,2989
+Michael G. Niles,1,0.0001,2990
+BRIDGELOCK CAPITAL,1,0.0001,2991
+MDG USA Inc.,1,0.0001,2992
+ACCESS GROUP INC.,1,0.0001,2993
+"Freisem, Macon Swann & Malone LLP",1,0.0001,2994
+Alliance Group & Associates LLC,1,0.0001,2995
+Polk Auto Finance Inc,1,0.0001,2996
+Spec Hoffman Auto Sales Inc.,1,0.0001,2997
+"SHARP COLLECTIONS, INC",1,0.0001,2998
+"Leap Credit, LLC",1,0.0001,2999
+"MFG Financial, Inc.",1,0.0001,3000
+"1st Capital Finance of South Carolina, Inc.",1,0.0001,3001
+SOUTHERN TRUST MORTGAGE LLC,1,0.0001,3002
+"Dimand Law Offices, P.C.",1,0.0001,3003
+"Freedom Rides, Inc.",1,0.0001,3004
+"MarineMax East, Inc.",1,0.0001,3005
+AURORA FINANCIAL GROUP INC,1,0.0001,3006
+Law Office of Stephen Buckley PLLC,1,0.0001,3007
+"RecFi,LLC",1,0.0001,3008
+"March Motors, Inc.",1,0.0001,3009
+"ROC Asset Solutions, LLC",1,0.0001,3010
+AML Funding LLC,1,0.0001,3011
+"Magnus Title Agency, LLC",1,0.0001,3012
+Local Finance LLC,1,0.0001,3013
+F&L Marketing Enterprises LLC,1,0.0001,3014
+"Columbus Capital Lending, LLC, Miami, FL Branch",1,0.0001,3015
+"Hunt & Kahn, P.A.",1,0.0001,3016
+Unlimited Credit Repair,1,0.0001,3017
+"ONE WAY RECOVERY SOLUTIONS, LLC",1,0.0001,3018
+Cardinal Branch,1,0.0001,3019
+Milby Law Offices P.A.,1,0.0001,3020
+"J & B Endeavors, LLC",1,0.0001,3021
+NEW YORK STATE HIGHER EDUCATION SERVICES CORPORATION (HESC)—,1,0.0001,3022
+AAA  LENDERS INC.,1,0.0001,3023
+"BRAZOS HIGHER EDUCATION AUTHORITY, INC.",1,0.0001,3024
+Benjamin Chaise Recovery Services LLC.,1,0.0001,3025
+MNS & Associates LLC,1,0.0001,3026
+"WMC MORTGAGE, LLC",1,0.0001,3027
+AmRes Corporation,1,0.0001,3028
+Panamerican Consulting,1,0.0001,3029
+ABC Loan of Martinez/ Georgia Finco Holding Corp,1,0.0001,3030
+"West Michigan Mortgage, LLC",1,0.0001,3031
+Union Credit Corporation,1,0.0001,3032
+Stone Haven Capital,1,0.0001,3033
+"Newman & Marquez, P.A.",1,0.0001,3034
+"Commonwealth Financial Systems, Inc.",1,0.0001,3035
+Amos Financial LLC,1,0.0001,3036
+North Prime Lending Inc,1,0.0001,3037
+Secure One Capital Corporation,1,0.0001,3038
+Thinkwallet Loans,1,0.0001,3039
+Auction Credit Enterprise,1,0.0001,3040
+"Unified Mortgage Service, Inc.",1,0.0001,3041
+Assured Financial LLC,1,0.0001,3042
+"Rushmore Service Center, LLC",1,0.0001,3043
+McMichael Taylor Gray LLC,1,0.0001,3044
+General Credit Services,1,0.0001,3045
+"MSK Group, Inc.",1,0.0001,3046
+FIRST GUARANTY MORTGAGE CORP,1,0.0001,3047
+"1ST RESULTS BILLINGS & COLLECTIONS, INC.",1,0.0001,3048
+Legal Logix Inc.,1,0.0001,3049
+National Investigative Services,1,0.0001,3050
+Watanabe Ing LLP,1,0.0001,3051
+"Lyons Law Office, LLC",1,0.0001,3052
+Allies for Community Business,1,0.0001,3053
+Airport Finance,1,0.0001,3054
+"AMERIPRISE BANK, FSB",1,0.0001,3055
+"PRIORITY HOME MORTGAGE, L.P.",1,0.0001,3056
+Top Flight Assistance (Top Flight Credit Assistance),1,0.0001,3057
+Extreme Loans LLC,1,0.0001,3058
+"Thomas & Thomas Attorneys and Counselors at Law, LLC",1,0.0001,3059
+House Of Finance Corp.,1,0.0001,3060
+"JMD,LLC",1,0.0001,3061
+Intelligent Mortgage and Consulting Services LLC,1,0.0001,3062
+"Mr. Mortgage, LLC",1,0.0001,3063
+BEAL FINANCIAL CORPORATION,1,0.0001,3064
+"Winthrop Financial Resources, LLC",1,0.0001,3065
+"Law Office of Gregory Javardian, LLC",1,0.0001,3066
+Castle and Cookie Mortgage LLC,1,0.0001,3067
+Marquee Funding Group Inc.,1,0.0001,3068
+Richard A. Weidel Corporation,1,0.0001,3069
+"Automotive Leasing Specialists, L.L.C.",1,0.0001,3070
+"Northern Alliance Management, LLC",1,0.0001,3071
+"Michigan Legal Specialists, P.C.",1,0.0001,3072
+Instant Cash Point,1,0.0001,3073
+"Plutos Sama, LLC",1,0.0001,3074
+Minnesota Office of Higher Education,1,0.0001,3075
+Fintology Technologies,1,0.0001,3076
+Speedee Cash Management,1,0.0001,3077
+Maple Finance Company,1,0.0001,3078
+Precision Capital Mediation,1,0.0001,3079
+Divergent Consumer Services,1,0.0001,3080
+Gotmortgage.com,1,0.0001,3081
+"Button Finance, Inc.",1,0.0001,3082
+"BOGMAN, INC",1,0.0001,3083
+Chrebet Associates  LLC,1,0.0001,3084
+TIDEWATER MORTGAGE SERVICES,1,0.0001,3085
+"Codilis & Stawarski, P.C.",1,0.0001,3086
+First Class Autos Inc,1,0.0001,3087
+First Reliance Holdings LLC,1,0.0001,3088
+CRCO,1,0.0001,3089
+"National Bond And Collection Associates, Inc.",1,0.0001,3090
+Lexington Mortgage Corporation,1,0.0001,3091
+Quantum Servicing Corporation,1,0.0001,3092
+Accounts Receivable Services,1,0.0001,3093
+Family Credit Management,1,0.0001,3094
+Lighthouse Finance Solutions LLC,1,0.0001,3095
+"Cars Financial, Inc",1,0.0001,3096
+"Walentine O’Toole, LLP",1,0.0001,3097
+Stream Auto Outlet,1,0.0001,3098
+Delay Group DBA The Debt Management Group,1,0.0001,3099
+"Thrivepoint Financial Holdings, Inc.",1,0.0001,3100
+"Bartley & Spears, P.C.",1,0.0001,3101
+J. Scott Watson,1,0.0001,3102
+ACRANET INC,1,0.0001,3103
+Retl Mnanagement LLC,1,0.0001,3104
+"Law Offices of Timothy E. Baxter & Associates, P.C.",1,0.0001,3105
+"Cayetano Development, LLC",1,0.0001,3106
+Checkpoint Screening,1,0.0001,3107
+"First American Solutions, LLC",1,0.0001,3108
+DEEP SOUTH FINANCIAL SERVICES INC.,1,0.0001,3109
+"Main Street Holdings, Inc.",1,0.0001,3110
+"Kirschbaum, Nanney, Keenan & Griffin, P.A.",1,0.0001,3111
+Springboard CDFI,1,0.0001,3112
+Novation Inheritance LLC,1,0.0001,3113
+"Great Marten Holdings, Inc.",1,0.0001,3114
+PINNACLE CAPITAL MORTGAGE CORP,1,0.0001,3115
+General Collection Co.,1,0.0001,3116
+Lending Base Inc.,1,0.0001,3117
+"Miller Investment Group, Inc DBA AutoNow",1,0.0001,3118
+Revol Collections Ltd,1,0.0001,3119
+"M & S FUNDING, INC.",1,0.0001,3120
+"Weber & Associates, Inc.",1,0.0001,3121
+"TSG Collections, LLC",1,0.0001,3122
+"Western Credit & Collection Service, Inc.",1,0.0001,3123
+Rockdale Capital Management,1,0.0001,3124
+"Eisenburg,Whitman and Associates",1,0.0001,3125
+"Sunset Solutions Group, LLC",1,0.0001,3126
+"Insight Financial, LLC",1,0.0001,3127
+NATIONS RELIABLE LENDING LLC,1,0.0001,3128
+"Preferred Capital Funding of Illinois, LLC",1,0.0001,3129
+"Leachman Law, P.C.",1,0.0001,3130
+"Health Services Asset Management, LLC.",1,0.0001,3131
+"Carter Business Service, Inc.",1,0.0001,3132
+"Greenback Recovery Group, LLC",1,0.0001,3133
+GuardHill Financial LLC,1,0.0001,3134
+"NJ Automotive Accounts Management Co, Inc.",1,0.0001,3135
+Unisource Joint Ventures LLC,1,0.0001,3136
+"Gordon, Feldbaum & Cantora",1,0.0001,3137
+"Norwest Auto Sales, Inc",1,0.0001,3138
+"Stevens Business Service, Inc.",1,0.0001,3139
+Ray Skillman Chevrolet Inc,1,0.0001,3140
+"CREDIT ASSOCIATES, INC. (OR)",1,0.0001,3141
+AD Capital LLC,1,0.0001,3142
+"Fendelman & Associates, LLC",1,0.0001,3143
+"Financial Aid Network, LLC",1,0.0001,3144
+Win-Win LLC,1,0.0001,3145
+CAPITAL INTERNATIONAL FINANCIAL INC.,1,0.0001,3146
+Recovery Remedies Corporation,1,0.0001,3147
+"North Georgia Regional Collection Agency, Inc.",1,0.0001,3148
+"Quality Recovery Services, Inc.",1,0.0001,3149
+Brentwood Pacific Financial,1,0.0001,3150
+First Consumers Financial LLC,1,0.0001,3151
+"Apex Recovery Services, LLC",1,0.0001,3152
+HKM and Associates,1,0.0001,3153
+"Omnex Group, Inc.",1,0.0001,3154
+MORTGAGE CLEARING CORPORATION,1,0.0001,3155
+Genpact Limited,1,0.0001,3156
+"CoreTitle, LLC",1,0.0001,3157
+"Professional Datasolutions, Inc.",1,0.0001,3158
+"Medical Debt Resolution, Inc. dba RIP Medical Debt",1,0.0001,3159
+Apex Resolution Group LLC,1,0.0001,3160
+"First Mile Group, Inc.",1,0.0001,3161
+Genessee Financial,1,0.0001,3162
+"MCU Holdings, LLC",1,0.0001,3163
+"Market Mortgage Company, LTD",1,0.0001,3164
+Miller Harrison LLC,1,0.0001,3165
+"Retrieval-Masters Creditors Bureau, Inc., Elmsford, NY Branch",1,0.0001,3166
+"Consumer Attorneys of America, P.A.",1,0.0001,3167
+Accounts Interchange Group LLC,1,0.0001,3168
+"ARL Credit Services, Inc.",1,0.0001,3169
+"NDS, LLC.",1,0.0001,3170
+"HUNTINGTON NATIONAL BANK, THE - FIRSTMERIT BANK, N.A. BRANCH",1,0.0001,3171
+"Moria Development, Inc.",1,0.0001,3172
+WINCHESTER SELLERS FOSTER & STEELE PC,1,0.0001,3173
+ALPHA COLLECTION SERVICES,1,0.0001,3174
+"The Green Law Firm, PC",1,0.0001,3175
+Helm Associates,1,0.0001,3176
+Gingo Palumbo Law Group LLC,1,0.0001,3177
+The Shindler Law Firm,1,0.0001,3178
+Inclusive Action for the City,1,0.0001,3179
+Boostify Financial Solutions,1,0.0001,3180
+"ANSELL GRIMM & AARON, P.C.",1,0.0001,3181
+"ProVisor, Inc.",1,0.0001,3182
+Buffalo Auto Acceptance Corp.,1,0.0001,3183
+"Executive Title & Closing, Inc.",1,0.0001,3184
+Nae-Mo Corp dba Matthews & Michaels,1,0.0001,3185
+"McManamy, McLeod, Heller, LLC",1,0.0001,3186
+"Goldman, Imani & Goldberg, Inc",1,0.0001,3187
+"Professional Mitigation Services, Inc",1,0.0001,3188
+TRG Auto Finance LLC,1,0.0001,3189
+"BYTE FEDERAL, INC.",1,0.0001,3190
+AJM Consultants LLC,1,0.0001,3191
+United Financial Service,1,0.0001,3192
+"Clarkson Law Firm, LLC",1,0.0001,3193
+"SHAZAM, INC./IOWA TRANSFER SYSTEM, INC. (ITS)",1,0.0001,3194
+Xperia Credit Solutions,1,0.0001,3195
+"JAN (LendUSA) Holdings, Inc.",1,0.0001,3196
+Sandalwood Solutions,1,0.0001,3197
+"Management Core Solutions, Inc.",1,0.0001,3198
+WALTON FUNDING LLC,1,0.0001,3199
+Michael Andrews & Associates LLC,1,0.0001,3200
+"Cuzco Capital Investment Management, LLC",1,0.0001,3201
+Doctor Billa LLC,1,0.0001,3202
+"Fairfax Consolidated, LLC",1,0.0001,3203
+The Claims Center LLC,1,0.0001,3204
+Developers Mortgage Co.,1,0.0001,3205
+Olson Associates PC,1,0.0001,3206
+"TORO COMPANY, THE",1,0.0001,3207
+"Atlas Medical Collection, Inc.",1,0.0001,3208
+"Caddis Funding, LLC",1,0.0001,3209
+"Thunderbird Finance Management, LC",1,0.0001,3210
+"Foothills Mortgage Group, LLC",1,0.0001,3211
+Core Capital Lending LLC,1,0.0001,3212
+Novea Portfolio Management LLC,1,0.0001,3213
+TRINITY CAPITAL ADVISORS LLC,1,0.0001,3214
+Consumer Asset Management (Texas),1,0.0001,3215
+Premier Auto Finance of South Florida,1,0.0001,3216
+"SEMPER HOME LOANS, INC",1,0.0001,3217
+"VICTORIAN FINANCE, LLC",1,0.0001,3218
+SQUARETWO FINANCIAL CORPORATION,1,0.0001,3219
+"Eagle Rentals, Inc",1,0.0001,3220
+"Windy City Capital Management, LLC",1,0.0001,3221
+Malik J Hall Inc,1,0.0001,3222
+JAYANDBEE INC /dba/ HOOSIER ACCOUNTS SERVICE,1,0.0001,3223
+Auto Credit of Southern Ilinois,1,0.0001,3224
+Town Financial Corporation,1,0.0001,3225
+Bell Financial Services,1,0.0001,3226
+East McComb Check Cash,1,0.0001,3227
+Rockwallet LLC,1,0.0001,3228
+N26 Inc.,1,0.0001,3229
+American Reporting Company,1,0.0001,3230
+Action Finance Inc.,1,0.0001,3231
+Columbus Finance Inc.,1,0.0001,3232
+APLUS INSTACASH LLC dba A+ FINANCE,1,0.0001,3233
+Magnum Association Services,1,0.0001,3234
+Sierra Credit Corp,1,0.0001,3235
+Veripro Solutions Inc.,1,0.0001,3236
+"Cure Payment Recovery Solutions, LLC",1,0.0001,3237
+Apex Advising LLC DBA Apex Credit Fix,1,0.0001,3238
+"Wallick & Associates, Ltd",1,0.0001,3239
+"A.L. Babbs and Associates, LLC",1,0.0001,3240
+"Zeus Mortgage, Ltd.",1,0.0001,3241
+RELIABLE HOLDINGS MANAGER LLC,1,0.0001,3242
+"Cam Credits, Inc.",1,0.0001,3243
+Evans & Green LLP,1,0.0001,3244
+HLT CHECK EXCHANGE LLP,1,0.0001,3245
+FAITH FINANCIAL LLC,1,0.0001,3246
+"Jensen & Sullivan, LLC",1,0.0001,3247
+"Bristlecone, Inc.",1,0.0001,3248
+"Miller and Steeno, P.C.",1,0.0001,3249
+"ALE Solutions, Inc.",1,0.0001,3250
+PINGPONG GLOBAL SOLUTIONS INC,1,0.0001,3251
+"Andrews Law Firm, PLLC",1,0.0001,3252
+Roseth Mortgage LLC,1,0.0001,3253
+Woodlands Financial Services Inc,1,0.0001,3254
+"LEE S. DENNISON, P.C.",1,0.0001,3255
+"AutoBank Financial, LLC",1,0.0001,3256
+"Clear Mortgage Capital, Inc.",1,0.0001,3257
+BFS Capital Inc.,1,0.0001,3258
+Flat Six Holdings Inc.,1,0.0001,3259
+F5 Mortgage LLC,1,0.0001,3260
+American Lending LLC,1,0.0001,3261
+"First Recovery Solutions, Inc.",1,0.0001,3262
+"GLENN ASSOCIATES MID-ATLANTIC, INC",1,0.0001,3263
+Orange Tree Holdings LLC,1,0.0001,3264
+COOPERATIVA DE AHORRO Y CREDITO BARRANQUITAS,1,0.0001,3265
+CBC Holdings LLC,1,0.0001,3266
+Montgomery County Credit Bureau,1,0.0001,3267
+Collection Solutions Inc.,1,0.0001,3268
+"CAPITAL RESOURCE MANAGEMENT, INC.",1,0.0001,3269
+The Dunning Law Firm APC,1,0.0001,3270
+Integrated Mediation Solutions LLC,1,0.0001,3271
+"Lowther Johnson Attorneys at Law, LLC",1,0.0001,3272
+GEM Financial,1,0.0001,3273
+Blackhawk Finance,1,0.0001,3274
+"Ashton & Weinberg, Inc.",1,0.0001,3275
+"Richard Sokoloff, Attorney At Law",1,0.0001,3276
+"Cascade Creditors Service, llc",1,0.0001,3277
+"Assets Recovered, LLC",1,0.0001,3278
+Debt Management Partners LLC,1,0.0001,3279
+"Ambassador Mortgage, LLC",1,0.0001,3280
+Spark Mortgage Advisors LLC,1,0.0001,3281
+"G&L Wise Financial, Inc.",1,0.0001,3282
+"Nationwide Title Clearing, Inc.",1,0.0001,3283
+"RIGHT SIDE UP LENDING, LLC",1,0.0001,3284
+"Hawthorn Recovery Services, Inc.",1,0.0001,3285
+"Central Professional Services, Inc.",1,0.0001,3286
+"Livingston Financial, LLC",1,0.0001,3287
+FIRST ALLIANCE HOME MORTGAGE,1,0.0001,3288
+"LegumFitzpatrick, PLC",1,0.0001,3289
+Broadway Account Services,1,0.0001,3290
+"AlpacaDB, Inc.",1,0.0001,3291
+Rent One,1,0.0001,3292
+Roseberry Inc.,1,0.0001,3293
+"Bastion Consumer Funding I, LLC",1,0.0001,3294
+Brother Loan & Finance Co.,1,0.0001,3295
+"THRIVE MORTGAGE, LLC",1,0.0001,3296
+Brookhaven Law Group PLLC,1,0.0001,3297
+"PALOMAR ENTERPRISES, LLC",1,0.0001,3298
+"Titan Home Lending,LLC",1,0.0001,3299
+Winton Law,1,0.0001,3300
+INDIANAPOLIS NEIGHBORHOOD HOUSING PARTNERSHIP,1,0.0001,3301
+AG AH LLC,1,0.0001,3302
+"Cars-N-Credit Finance, Inc.",1,0.0001,3303
+"Relin, Goldstein & Crane, LLP",1,0.0001,3304
+"Zo Financial, Inc.",1,0.0001,3305
+SATORI FINANCIALMORTGAGE GROUP LLC,1,0.0001,3306
+SIERRA PACIFIC MORTGAGE,1,0.0001,3307
+"Evergreen Acquistions, LLC",1,0.0001,3308
+"Higlobe, Inc.",1,0.0001,3309
+Associates International Holdings Corporation,1,0.0001,3310
+"Wyatt Johnson Automotive Group Holdings, LLC",1,0.0001,3311
+1 Stop Payday Loan Services LLC,1,0.0001,3312
+"Strategic Automotive Servicing, LLC",1,0.0001,3313
+"Padfield & Stout, LLP",1,0.0001,3314
+ALLOCATED BUSINESS MANAGEMENT LLC,1,0.0001,3315
+CREDIGY USA CORP.,1,0.0001,3316
+River City Mortgage LLC,1,0.0001,3317
+"Consolidated Management Group, LLC",1,0.0001,3318
+Southern Fidelity Mortgage Group of Huntsville,1,0.0001,3319
+"American Mortgage Services,  Inc",1,0.0001,3320
+Broward Adjustment Services,1,0.0001,3321
+FYM Capital LLC,1,0.0001,3322
+Michelle A. Arace dbaThe Law Firm of Michelle A. Arace,1,0.0001,3323
+SGCP Holdco LLC,1,0.0001,3324
+B-LO LLC,1,0.0001,3325
+"Keowee Auto Sales, Inc.",1,0.0001,3326
+"EQUITY RESOURCES, INCORPORATED",1,0.0001,3327
+"WD Global Group, LLC",1,0.0001,3328
+24/7 MORTGAGE CORPORATION,1,0.0001,3329
+"Prober & Raphael, A Law Corporation",1,0.0001,3330
+"Automotive Financial of America, Inc.",1,0.0001,3331
+Ascension Recovery Management,1,0.0001,3332
+The Car Network llc,1,0.0001,3333
+CFM Group LLC,1,0.0001,3334
+CBC Mortgage Agency,1,0.0001,3335
+Oak Tree Financial Inc.,1,0.0001,3336
+"Campus Student Funding, LLC",1,0.0001,3337
+PrimeCore Group,1,0.0001,3338
+"Equity Settlement Services, Inc.",1,0.0001,3339
+Smith & Smith Investors LTD,1,0.0001,3340
+"Global Check Recovery, INC",1,0.0001,3341
+Capstone Private Mortgage Holdings Limited,1,0.0001,3342
+NCMI Corporation,1,0.0001,3343
+American Capital Recovery LLC,1,0.0001,3344
+PROVINCE MORTGAGE ASSOCIATES,1,0.0001,3345
+Darnieder & Sosnay,1,0.0001,3346
+"Standard Financial of Louisiana, LLC",1,0.0001,3347
+"B Walters CO., LLC",1,0.0001,3348
+The Peak Service Corp.,1,0.0001,3349
+Collection Consultants of California,1,0.0001,3350
+Complete Professional Recovery LLC,1,0.0001,3351
+"Century Credit & Collections, LLC",1,0.0001,3352
+"SHM Holdings, LLC",1,0.0001,3353
+Van Ru Credit Corporation,1,0.0001,3354
+"FM Home Loans, LLC",1,0.0001,3355
+LOAN TO LEARN,1,0.0001,3356
+"MLB Residential Lending, LLC",1,0.0001,3357
+College Assist,1,0.0001,3358
+"PreFi, LLC",1,0.0001,3359
+Beacon Funding Corporation,1,0.0001,3360
+Changed Inc.,1,0.0001,3361
+"Collection Bureau of Little Falls, Inc.",1,0.0001,3362
+"PayFiniti, LLC",1,0.0001,3363
+"Brio Management Group, LLC",1,0.0001,3364
+"TSALTA FINANCIAL COMPANY, LLC",1,0.0001,3365
+ABC Credit & Recovery Services Inc.,1,0.0001,3366
+"Steven R. Hrdlicka, Attorney at Law",1,0.0001,3367
+"CAPITAL AUTO FINANCIAL, INC.",1,0.0001,3368
+Home Point Financial Corporation,1,0.0001,3369
+National Credit Managers Association,1,0.0001,3370
+"PMGI, LLC",1,0.0001,3371
+77 Elite,1,0.0001,3372
+TOP FLITE FINANCIAL INC,1,0.0001,3373
+"Merchants and Professional Bureau, Inc.",1,0.0001,3374
+Automotive Partners Funding,1,0.0001,3375
+Coast to Coast Commercial Collection,1,0.0001,3376
+Mother Lode Holding Company,1,0.0001,3377
+CHN Housing Partners,1,0.0001,3378
+"Acquired Assets, Ltd.",1,0.0001,3379
+DEVLIN INC,1,0.0001,3380
+"LeasePoint Funding Group, LLC",1,0.0001,3381
+Pinnacle Finance LLC,1,0.0001,3382
+On Q Financial,1,0.0001,3383
+"Laelia, LLC",1,0.0001,3384
+AMERICAN SECURITY MORTGAGE CORPORATION,1,0.0001,3385
+Normandy Corporation,1,0.0001,3386
+ML Mortgage Corp.,1,0.0001,3387
+"Advanced Call Center Technologies, LLC",1,0.0001,3388
+"PayNearMe MT, Inc.",1,0.0001,3389
+ROCKY MOUNTAIN MORTGAGE COMPANY,1,0.0001,3390
+"Vis Law, LLC",1,0.0001,3391
+"Trinity Enterprises Partners, LLC",1,0.0001,3392
+Thunder Auto Finance LLC,1,0.0001,3393
+COMPUTER SCIENCES CORPORATION,1,0.0001,3394
+"Cardinal Accounts, Inc.",1,0.0001,3395
+"Financial Recoveries, Inc.",1,0.0001,3396
+"HARBORONE MORTGAGE, LLC",1,0.0001,3397
+Ascend One Corporation,1,0.0001,3398
+"Marvel & Maloney, P.C.",1,0.0001,3399
+Lovitts Auto Sales Inc,1,0.0001,3400
+"Filo Mortgage, L.L.C.",1,0.0001,3401
+"CBG Financial, LLC",1,0.0001,3402
+"OHara Holdings, LLP",1,0.0001,3403
+ROSS MORTGAGE CORPORATION,1,0.0001,3404
+"Cornerstone Residential Lending Solutions, Inc",1,0.0001,3405
+High Mountain Funding Inc.,1,0.0001,3406
+"SouthLaw, P.C.",1,0.0001,3407
+"Illinois Collection Service, Inc.",1,0.0001,3408
+"Executive Financial Consultants, Inc",1,0.0001,3409
+Southwest Law Offices PC,1,0.0001,3410
+"Winona Holdings, Inc.",1,0.0001,3411
+Century Debt Solutions Inc.,1,0.0001,3412
+"Echelon Financial, Inc.",1,0.0001,3413
+"Solidifi US, Inc.",1,0.0001,3414
+"Tavelli Co., Inc. dba Tavco Credit Services",1,0.0001,3415
+Saba Commercial Services Corp dba Saba & Associates,1,0.0001,3416
+EVERCOMMERCE SOLUTIONS INC.,1,0.0001,3417
+"C & S Associates, Inc. dba NCS Credit",1,0.0001,3418
+Assent Inc.,1,0.0001,3419
+"DebtHelp, Inc",1,0.0001,3420
+"Westside Recovery Services, LLC",1,0.0001,3421
+"Your Favorite Lenders, Inc",1,0.0001,3422
+FS Card Inc.,1,0.0001,3423
+"Lafayette, Ayers & Whitlock, PLC",1,0.0001,3424
+SUMMIT MORTGAGE CORPORATION,1,0.0001,3425
+Higher Level Processing,1,0.0001,3426
+Monogram LLC,1,0.0001,3427
+"AMERIFIRST FINANCIAL, INC.",1,0.0001,3428
+"MEDCAH, Inc.",1,0.0001,3429
+"CREDIT BUREAU OF FARMINGTON, INC",1,0.0001,3430
+"Total Customer Service, Inc.",1,0.0001,3431
+"Critical Ideas, Inc.",1,0.0001,3432
+"Pinnacle Legal, P.C.",1,0.0001,3433
+Rivertown Credit LLC,1,0.0001,3434
+Prodebtco LLC,1,0.0001,3435
+1st Fidelity Loan Servicing,1,0.0001,3436
+PROFESSIONAL SOLUTIONS GROUP,1,0.0001,3437
+MCCARTHY LAW PLC,1,0.0001,3438
+Levon Gukasyan DBA Garman Financial,1,0.0001,3439
+"Linden Research, Inc.",1,0.0001,3440
+Avenify Corporation,1,0.0001,3441
+NCR Financial Services Inc,1,0.0001,3442
+Accounts Receivable Consultants Inc.,1,0.0001,3443
+"Rental Kharma, Inc",1,0.0001,3444
+Aspire Mortgage Advisors LLC,1,0.0001,3445
+Woodward Capital LLC,1,0.0001,3446
+Global Credit Solutions LLC,1,0.0001,3447
+"Account Recovery Services, Inc.",1,0.0001,3448
+"JSZ Financial Co., Inc.",1,0.0001,3449
+"River City Finance Co., Inc.",1,0.0001,3450
+ZOOM HOME LENDING LLC,1,0.0001,3451
+Pauls Auto Sales & Service Inc,1,0.0001,3452
+"Alexander, Winton & Associates, Inc.",1,0.0001,3453
+"Phoenix Management Solutions, L.L.C.",1,0.0001,3454
+CZFC Incorporated,1,0.0001,3455
+"Michael & Associates, PC",1,0.0001,3456
+Financial Warranty LLC,1,0.0001,3457
+Westhill Financial,1,0.0001,3458
+National Asset processing LLC,1,0.0001,3459
+"Jon D. Curtis, Attorney at Law",1,0.0001,3460
+FINANTA FEDERAL CREDIT UNION,1,0.0001,3461
+TAMMAC HOLDINGS CORP,1,0.0001,3462
+TriMark Financial Solutions DBA Distressed Mortgage Solutions,1,0.0001,3463
+Central Valley Receivables,1,0.0001,3464
+"Patch Homes, Inc. dba Noah",1,0.0001,3465
+Luckmore Finance,1,0.0001,3466
+"Keystone Lending Alliance, LLC",1,0.0001,3467
+"Segan, Mason & Mason, P.C.",1,0.0001,3468
+"JBS Finance, Inc.",1,0.0001,3469
+"Kolter Financial Services, LLC",1,0.0001,3470
+Logan Finance Corporation,1,0.0001,3471
+Advise Solutions Services LLC,1,0.0001,3472
+Right Step Mortgage LLC,1,0.0001,3473
+Empire West Mortgage Lending PLLC,1,0.0001,3474
+AMERITRUST MORTGAGE CORPORATION,1,0.0001,3475
+"Healthcare Collection Specialists, Inc.",1,0.0001,3476
+CapitalHut Finance,1,0.0001,3477
+"BesTitle Agency, Inc.",1,0.0001,3478
+Iconic Mortgage Corp.,1,0.0001,3479
+Vericheck,1,0.0001,3480
+"Alisa Katz Campbell, P.C.",1,0.0001,3481
+Credit Diva of Dallas Inc.,1,0.0001,3482
+"PingYo, Inc.",1,0.0001,3483
+"Grisham Cummins, LLC",1,0.0001,3484
+SKYRIDGE LENDING LLC,1,0.0001,3485
+"MCCABE, TROTTER & BEVERLY, PC",1,0.0001,3486
+"Michael Harrison, Attorney at Law",1,0.0001,3487
+REDEMPTION FINANCIAL SERVICES LLC dba NATIONAL AUTO ACCEPTANCE,1,0.0001,3488
+People Trust,1,0.0001,3489
+"Nationwide TFS, LLC",1,0.0001,3490
+Cal-Tenn Financial LLC,1,0.0001,3491
+"DMEC Capital Services LLC, DBA Settle Our Debt",1,0.0001,3492
+Nickel City Group LLC,1,0.0001,3493
+"PASSAGE HEALTH INTERNATIONAL HOLDINGS, INC.",1,0.0001,3494
+Weinman Acquisition Group,1,0.0001,3495
+Great Florida Lending Inc.,1,0.0001,3496
+Chesapeakes Services,1,0.0001,3497
+"Union Credit, Inc.",1,0.0001,3498
+"TJC Mortgage, Inc.",1,0.0001,3499
+"RESCO, INC.",1,0.0001,3500
+"Stewart, Zlimen & Jungers, Attorneys, Ltd.",1,0.0001,3501
+"LD Settlement Services, LLC",1,0.0001,3502
+Meridian Buyer’s Group,1,0.0001,3503
+Link Chain World Inc,1,0.0001,3504
+ONLINE MORTGAGE GROUP,1,0.0001,3505
+"Carchoice of Memphis, Inc.",1,0.0001,3506
+STEWARD FINANCIAL SERVICES LLC,1,0.0001,3507
+Brian Kvarfordt,1,0.0001,3508
+Cannon & Cannon Firm PC,1,0.0001,3509
+GABA LAW CORPORATION,1,0.0001,3510
+"Texas National Holding, LLC",1,0.0001,3511
+LAW OFFICE OF JOHN E. LINDNER P.A.,1,0.0001,3512
+"COMPASS FINANCIAL HOLDING GROUP, LLC",1,0.0001,3513
+"Crown Holdings, LLC",1,0.0001,3514
+"Prominence Capital Partners, LLC",1,0.0001,3515
+Lighthouse Acceptance Corporation,1,0.0001,3516
+Northern Lakes Mortgage LLC,1,0.0001,3517
+Cycleone Financial Group,1,0.0001,3518
+DIXIE FINANCE COMPANY,1,0.0001,3519
+Dankos Gordon & Tucker PC,1,0.0001,3520
+"Weinstein, Karp & Associates, Inc.",1,0.0001,3521
+ALLIED MORTGAGE GROUP,1,0.0001,3522
+"Surf Consultants, Inc.",1,0.0001,3523
+"Partnerships & Investments, LLC",1,0.0001,3524
+Utah Billing & Recovery Services,1,0.0001,3525
+SCHAEFER MORTGAGE CORPORATION,1,0.0001,3526
+"Legal Recovery Law Offices, Inc",1,0.0001,3527
+Arapahoe Motors,1,0.0001,3528
+"PrimeLine Capital, Inc.",1,0.0001,3529
+"American Financial Credit Services, Inc.",1,0.0001,3530
+208 Capital Holdings LLC,1,0.0001,3531
+"Trebar Financial Services, Inc.",1,0.0001,3532
+"STL HOLDING COMPANY, LLC",1,0.0001,3533
+Law Offices of Bradley G Nykamp PC,1,0.0001,3534
+"Girvin & Ferlazzo, P.C.",1,0.0001,3535
+Makower Abbate Guerra Wegner Vollmer PLLC,1,0.0001,3536
+Quantum Leap Mortgage Corporation,1,0.0001,3537
+SE Capital Corp dba Credito Familiar,1,0.0001,3538
+"Financial Service Center of Ohio, LLC",1,0.0001,3539
+"E Z CASH OF DELAWARE, INC.",1,0.0001,3540
+"Council Law Group, PLLC",1,0.0001,3541
+Jet Lending Inc.,1,0.0001,3542
+"Launch Financial Group, LLC",1,0.0001,3543
+HomePlus Corporation,1,0.0001,3544
+Mortgage Corp. of the East - III,1,0.0001,3545
+Home Mortgage Alliance Corp. (HMAC),1,0.0001,3546
+Credit Recovery Consultants,1,0.0001,3547
+United Credit Education Services,1,0.0001,3548
+EUSTIS MORTGAGE CORPORATION,1,0.0001,3549
+"Nudge Funding, LLC",1,0.0001,3550
+Blue Printing Success Inc,1,0.0001,3551
+Porter Law Firm,1,0.0001,3552
+"Driver Holdings, LLC",1,0.0001,3553
+"TreeMac Funding Group, LLC",1,0.0001,3554
+Affiliated Acceptance Corporation,1,0.0001,3555
+Cross Country Financial Corporation,1,0.0001,3556
+"Upstate Premier Mortgage, Inc.",1,0.0001,3557
+"Weinstein & Riley, P.S.",1,0.0001,3558
+Homestead Designation Services,1,0.0001,3559
+"WINN LAW GROUP, APC",1,0.0001,3560
+"Helping Hand Financial, Inc",1,0.0001,3561
+"Patient Account Services, LLC",1,0.0001,3562
+Advantage Credit Bureau Inc.,1,0.0001,3563
+"Oakdale Group of Companies, LLC",1,0.0001,3564
+"D.S. Erickson & Associates, PLLC",1,0.0001,3565
+"Skylight Lending, LLC",1,0.0001,3566
+"Cashbak, LLC",1,0.0001,3567
+Covington Capital Corporation,1,0.0001,3568
+Copeland Mortgage Company,1,0.0001,3569
+"H & S Financial, Inc.",1,0.0001,3570
+Park View Credit,1,0.0001,3571
+"Ladera Lending, Inc",1,0.0001,3572
+"Henley, Lotterhos & Henley, PLLC",1,0.0001,3573
+Credit Done Right Inc,1,0.0001,3574
+Diamond Finance LLC,1,0.0001,3575
+"Simpson Law Firm, P.A.",1,0.0001,3576
+Master Finance Company,1,0.0001,3577
+"Richard D. London & Associates, P.C.",1,0.0001,3578
+Brandywine Professional Services,1,0.0001,3579
+"Credit Bureau of Canyon, Inc",1,0.0001,3580
+American Coast Mortgage Corporation,1,0.0001,3581
+Premier Account Management,1,0.0001,3582
+"bitFlyer USA, Inc.",1,0.0001,3583
+"D'Aquila, Contreras and Vega, A Professional Law Corporation",1,0.0001,3584
+"American Collection Systems, Inc. (OH)",1,0.0001,3585
+"JFQ Lending, LLC",1,0.0001,3586
+Laurens Financial Services Inc,1,0.0001,3587
+THE MORTGAGE EXPERTS LLC,1,0.0001,3588
+"Kratochvil Law, P.C.",1,0.0001,3589
+Home Headquarters Inc,1,0.0001,3590
+Freede Solutions Inc.,1,0.0001,3591
+Medical-Dental-Hospital Bureau of San Antonio,1,0.0001,3592
+"ADVANCED DEBT COLLECTION, INC.",1,0.0001,3593
+Ray Skillman Northeast Imports Inc,1,0.0001,3594
+"Automotive Services Finance, Inc.",1,0.0001,3595
+FUTURE FINANCE COMPANY,1,0.0001,3596
+"Millennium Mortgage Group, LLC",1,0.0001,3597
+"Innovative Mortgage Services, Inc.",1,0.0001,3598
+GOLDEN EMPIRE MORTGAGE INCORPORATED,1,0.0001,3599
+"Utah Loan Servicing, LLC",1,0.0001,3600
+Kiva Microfunds,1,0.0001,3601
+"Fountainhead Commercial Capital, LLC",1,0.0001,3602
+Farm Bureau Finance Company,1,0.0001,3603
+MERCHANTS BANCORP,1,0.0001,3604
+TCN Inc,1,0.0001,3605
+"EQUITY HOME LENDERS, INC",1,0.0001,3606
+Tex-Mex Primo Auto Sales,1,0.0001,3607
+First Choice MH LLC,1,0.0001,3608
+TCF NATIONAL BANK,1,0.0001,3609
+TITLE MIDWEST INC,1,0.0001,3610
+"McPhail Sanchez, LLC",1,0.0001,3611
+"INTEGRA SERVICING, LLC",1,0.0001,3612
+Premier Portfolio Group,1,0.0001,3613
+"GVG Financial Services, Inc",1,0.0001,3614
+"American Trst Company, Inc.",1,0.0001,3615
+"RELIABLE FINANCIAL SERVICES, INC.",1,0.0001,3616
+"Phil Watson, P.C.",1,0.0001,3617
+"Katie Stylianou, P.C.",1,0.0001,3618
+M.L. Zager P.C.,1,0.0001,3619
+Credit Service Repair,1,0.0001,3620
+Fortress University Inc.,1,0.0001,3621
+"YREFY SLP5, LLC",1,0.0001,3622
+Cumulus Funding LLC,1,0.0001,3623
+"RUSH COLLECTIONS AGENCY, CORP.",1,0.0001,3624
+Imperial Finance Corp,1,0.0001,3625
+Splash Cash Holdings LLC,1,0.0001,3626
+CREDIGY SOLUTIONS INC.,1,0.0001,3627
+"TexStar Escrow, LLC",1,0.0001,3628
+Capital Lending Corp.,1,0.0001,3629
+Layer2 Financial Inc.,1,0.0001,3630
+"First Southwestern Financial Services, LLC",1,0.0001,3631
+Premlo Inc.,1,0.0001,3632
+"Welts, White & Fontaine, P.C.",1,0.0001,3633
+SOLERA LLC,1,0.0001,3634
+HOMEOWNERS FINANCIAL GROUP USA,1,0.0001,3635
+"Graystone Funding Company, LLC",1,0.0001,3636
+"Aurora Enterprises, Inc.",1,0.0001,3637
+EnTrust Funding,1,0.0001,3638
+Tri-Cities Finance Company,1,0.0001,3639
+JRG FUNDING LLC,1,0.0001,3640
+HOME FINANCING CENTER,1,0.0001,3641
+BLUE WHALE LENDING L.L.C.,1,0.0001,3642
+DK Auto LLC,1,0.0001,3643
+"Harrison Financial, LLC",1,0.0001,3644
+"General Information Services, Inc",1,0.0001,3645
+Henschel & Beinhaker P.A.,1,0.0001,3646
+Levelset Collection LLC,1,0.0001,3647
+"30 Day Credit Pros, LLC",1,0.0001,3648
+"MSW Capital, LLC",1,0.0001,3649
+Ark Auto Solutions,1,0.0001,3650
+GREATAMERICA FINANCIAL SERVICES CORP.,1,0.0001,3651
+A & E Futures LLC,1,0.0001,3652
+"Mid-America Accounts Control Bureau, Inc.",1,0.0001,3653
+"Andover Auto Sales, Inc. D.B.A. Broadway Auto Mall",1,0.0001,3654
+"Consumer Financial Services of Tampa, FL LLC",1,0.0001,3655
+"Harvest Credit Management VII, LLC",1,0.0001,3656
+F&M Financial Group LLC,1,0.0001,3657
+"Gordon & Wong Law Group, P.C.",1,0.0001,3658
+"Creditors Adjustment Bureau, Inc.",1,0.0001,3659
+"Crystal Motorsports, LLC",1,0.0001,3660
+Stone Guard Lending Inc.,1,0.0001,3661
+Allure Retention Solutions,1,0.0001,3662
+"CUSO Development Company, LLC",1,0.0001,3663
+Helbing Law Group,1,0.0001,3664
+"Copper Lake Financial, LLC",1,0.0001,3665
+SENTE MORTGAGE,1,0.0001,3666
+TITLE FINANCIAL CORPORATION,1,0.0001,3667
+"Central Kentucky Management Services, Inc",1,0.0001,3668
+"ZINC Financial, Inc.,",1,0.0001,3669
+Primary Financial Services L.L.C.,1,0.0001,3670
+"National Account Systems of Madison, Inc",1,0.0001,3671
+"Bakkt Opco Holdings, LLC",1,0.0001,3672
+"Partners Title Agency, LLC",1,0.0001,3673
+ABC Finance Co.,1,0.0001,3674
+CFS Investments,1,0.0001,3675
+William Raveis Real Estate,1,0.0001,3676
+RecoverX Corp,1,0.0001,3677
+"HONOLULU HOMELOANS, INC.",1,0.0001,3678
+"Harvest Strategy Group, Inc.",1,0.0001,3679
+"CORNERSTONE RESOLUTION GROUP, INC.",1,0.0001,3680
+"Hosto & Buchan, PLLC",1,0.0001,3681
+"RD Fuller Company, LLC",1,0.0001,3682
+"AZ LENDING EXPERTS, LLC",1,0.0001,3683
+"Grand Canyon Title, Agency, Inc.",1,0.0001,3684
+Loan Cabin Inc.,1,0.0001,3685
+High Performance Capital,1,0.0001,3686
+"Genius Technologies, Inc",1,0.0001,3687
+"Asset Management Professionals, LLC",1,0.0001,3688
+Ahn Management LLC,1,0.0001,3689
+Focus Point INC,1,0.0001,3690
+"Creditors Specialty Northwest, Inc.",1,0.0001,3691
+"Good News Group, LLC d/b/a Savvy Loans",1,0.0001,3692
+Access Loan Services Inc.,1,0.0001,3693
+Earm LLC,1,0.0001,3694
+ENRAMEX INC,1,0.0001,3695
+"Independent Settlement Group, LLC dba EKKO Title",1,0.0001,3696
+"Operating Partners Co., LLC",1,0.0001,3697
+Golden Title Loans LLC,1,0.0001,3698
+"Wiicar U.S., LLC",1,0.0001,3699
+Portage Financial Services Company Inc.,1,0.0001,3700
+Renew Financial Holdings Inc,1,0.0001,3701
+Shea Mortgage Inc.,1,0.0001,3702
+ALASKA HOUSING FINANCE CORPORATION,1,0.0001,3703
+"Casa Finance, LLC",1,0.0001,3704
+US WIDE FINANCIAL,1,0.0001,3705
+American Debt Consolidation,1,0.0001,3706
+"Elderlife Financial Services, LLC",1,0.0001,3707
+"iSolved HCM Services, LLC",1,0.0001,3708
+"North Colony Law Group, PC",1,0.0001,3709
+"Trustpoint Mortgage Company, Inc",1,0.0001,3710
+Owl Bridge Credit LLC,1,0.0001,3711
+"SOUTH COUNTRY CAPITAL MANAGEMENT, LLC",1,0.0001,3712
+Reese Law Group,1,0.0001,3713
+"East Alabama Title & Escrow Services, LLC",1,0.0001,3714
+LENDER LIVE,1,0.0001,3715
+"XtraCash, LLC",1,0.0001,3716
+"Premier Auto Sales, Inc.",1,0.0001,3717
+"OLD VIRGINIA MORTGAGE, INC",1,0.0001,3718
+Geraci LLP dba Fortra Law,1,0.0001,3719
+Draper and Kramer Mortgage Corp.,1,0.0001,3720
+"Capital Auto Credit, LLC",1,0.0001,3721
+"Christian Credit Counselors, Inc.",1,0.0001,3722
+"New Horizons Finance Company, Inc",1,0.0001,3723
+Thornton Mortgage Inc.,1,0.0001,3724
+Olympus Lending LLC,1,0.0001,3725
+PROPEL FINANCIAL SERVICES LLC,1,0.0001,3726
+"Investigative Concepts, Inc.",1,0.0001,3727
+EliteCashWire.com Inc,1,0.0001,3728
+"Meridian North America, Inc.",1,0.0001,3729
+Regional Recovery Services,1,0.0001,3730
+GREEN BRICK PARTNERS INC,1,0.0001,3731
+Elite Mortgage Funding inc,1,0.0001,3732
+"Robert L. Tankel, P.A.",1,0.0001,3733
+"Atlantis Financial Group, Inc",1,0.0001,3734
+"AMERICA'S LOAN COMPANY, LLC",1,0.0001,3735
+"Sungage Financial, LLC",1,0.0001,3736
+Credit Lending Services Inc.,1,0.0001,3737
+"Paratus Partners, LLC.",1,0.0001,3738
+DAS Inc,1,0.0001,3739
+"Cleva Technologies, Inc",1,0.0001,3740
+Lakeside Receivables LLC,1,0.0001,3741
+Richard H. Kream,1,0.0001,3742
+Bell Leasing dba Corporate Capital,1,0.0001,3743
+TruNorth Resolution Group LLC,1,0.0001,3744
+Garrison Law Office L.L.C.,1,0.0001,3745
+"Devon Financial Services, Inc.",1,0.0001,3746
+Riehlman Shafer and Shaw LLC,1,0.0001,3747
+"GUIDANCE RESIDENTIAL, LLC",1,0.0001,3748
+"Bayside Recovery Services, Inc.",1,0.0001,3749
+EZ Loans Co LLC,1,0.0001,3750
+Schukei Chevrolet Volkswagen,1,0.0001,3751
+Personalized Collection Services,1,0.0001,3752
+The Law Office of Nicole Hillman,1,0.0001,3753
+King Newton Financial Services LLC,1,0.0001,3754
+"NEW IMAGITAS, INC",1,0.0001,3755
+"CAPITALPlus Mortgage & Underwriting Services, Inc",1,0.0001,3756
+Ken Litman Attorney at Law,1,0.0001,3757
+CFS2 Inc.,1,0.0001,3758
+Eagle Phillips LLC,1,0.0001,3759
+"Envision Payment Solutions, Inc.",1,0.0001,3760
+Xpert Home Lending Inc.,1,0.0001,3761
+"United We Collect, Inc.",1,0.0001,3762
+"Premier Consumer Credit Counseling, Inc.",1,0.0001,3763
+PPPLF ECONOMIC AND COMMUNITY DEVELOPMENT INSTITUTE,1,0.0001,3764
+Elective Group USA Inc.,1,0.0001,3765
+"AFJ Systems, Inc.",1,0.0001,3766
+"Student Debt USA, LLC",1,0.0001,3767
+"Health Management Services, Inc. d/b/a Corporate Legal Services LLC",1,0.0001,3768
+Meridian Title  Corporation,1,0.0001,3769
+"Association Capital Resources, LLC",1,0.0001,3770
+"Mark A. Kirkorsky, PC",1,0.0001,3771
+"Child Support Recovery Services, Inc.",1,0.0001,3772
+Liberty 1 Lending Inc.,1,0.0001,3773
+"Emerald Score, LLC",1,0.0001,3774
+ECN Platinum LLC,1,0.0001,3775
+"Saxton Mortgage, LLC",1,0.0001,3776
+"Emmett L. Goodman, Jr., LLC",1,0.0001,3777
+First Atlantic Auto Credit LLC,1,0.0001,3778
+"Summit Account & Computer Service, Inc.",1,0.0001,3779
+MLD MORTGAGE INC,1,0.0001,3780
+Convergys,1,0.0001,3781
+Credit Connection LLC,1,0.0001,3782
+PacificLife Servicing,1,0.0001,3783
+Certified Recovery Inc,1,0.0001,3784
+"Chowder, Inc.",1,0.0001,3785
+"Deal Depot, Inc.",1,0.0001,3786
+Ershowsky Verstandig PLLC,1,0.0001,3787
+"Park Place Finance, LLC",1,0.0001,3788
+The HELOC Company LLC,1,0.0001,3789
+"Go Companies, LLC",1,0.0001,3790
+Ripple Labs Inc.,1,0.0001,3791
+"Hogan Capital II, LLC",1,0.0001,3792
+"Cliff's Finance Co., Inc.",1,0.0001,3793
+"Vista Financial Services of NC, LLC",1,0.0001,3794
+"Own Up Holdings, Inc.",1,0.0001,3795
+The B & F Corporation d/b/a OK Loan Service,1,0.0001,3796
+Loancutters Inc.,1,0.0001,3797
+"Fenix Holdings, LLC",1,0.0001,3798
+"RAB PERFORMANCE RECOVERIES, LLC",1,0.0001,3799
+PACIFIC CAPITAL EXCHANGE,1,0.0001,3800
+"HomePace, Inc.",1,0.0001,3801
+"Johnstown Credit Bureau, Inc.",1,0.0001,3802
+"Revenue Systems, Inc.",1,0.0001,3803
+"Kwikcash, Inc.",1,0.0001,3804
+Accounts Recovery Agency Inc.,1,0.0001,3805
+"CV3 Financial Services, LLC",1,0.0001,3806
+Cash In Minutes,1,0.0001,3807
+Freedom Trucks LLC,1,0.0001,3808
+"V.I.P. MORTGAGE, INC.",1,0.0001,3809
+NRS Billing Services LLC,1,0.0001,3810
+"Prime Home Lending, LLC",1,0.0001,3811
+BHA Services,1,0.0001,3812
+"Spritz Finance, Inc.",1,0.0001,3813
+"Loan Ridge USA, LLC",1,0.0001,3814
+"Brian A. Blitz, P.A.",1,0.0001,3815
+Gallatin Valley Financial,1,0.0001,3816
+"Direct, Inc",1,0.0001,3817
+"American 1st Rate Mortgage, LLC",1,0.0001,3818
+Packers HC LLC,1,0.0001,3819
+MWS Financial Services LLC,1,0.0001,3820
+Chaos Capital Holdings LLC,1,0.0001,3821
+BULBUL INVESTMENTS LLC,1,0.0001,3822
+"LoanUnited.com, LLC",1,0.0001,3823
+"Carlson & Associates, Ltd.",1,0.0001,3824
+Legacy Funding Corporation,1,0.0001,3825
+NORTH AMERICAN FINANCIAL CORP,1,0.0001,3826
+"Treasure Title Insurance Agency, Inc.",1,0.0001,3827
+"Berkshire Financial Services, LLC",1,0.0001,3828
+Nationwide Recovery Group LLC,1,0.0001,3829
+"Scolopax, LLC",1,0.0001,3830
+"Gate US, Inc.",1,0.0001,3831
+"ZENCO COLLECTION, LLC",1,0.0001,3832
+"DebtWave Credit Counseling, Inc.",1,0.0001,3833
+"Harrington, anderson & deblasio",1,0.0001,3834
+"Consumer Credit Services, LLC",1,0.0001,3835
+"T & I Enterprises, LLC",1,0.0001,3836
+SCV Inc.,1,0.0001,3837
+Independent Finance Company LLC,1,0.0001,3838
+RMA Credit Association,1,0.0001,3839
+Blackburne & Sons Realty Capital Corporation,1,0.0001,3840
+"CREDIT BUREAU OF NEW ULM, INC.",1,0.0001,3841
+"MORTGAGE LINK, INC., THE",1,0.0001,3842
+Smyrna Finance LLC,1,0.0001,3843
+Choice Mtg INC.,1,0.0001,3844
+ARBOR MORTGAGE,1,0.0001,3845
+Breeze Labs Inc.,1,0.0001,3846
+METRO ISLAND MORTGAGE INC.,1,0.0001,3847
+BetterMe Financial,1,0.0001,3848
+"Gulf States Financial, L.L.C.",1,0.0001,3849
+"Financial Solutions Group, LLC",1,0.0001,3850
+"Resolution Processing, LLC",1,0.0001,3851
+Credit Advisors Foundation,1,0.0001,3852
+"FIRST PRIORITY MORTGAGE, INC.",1,0.0001,3853
+"Grupo Estrella, LLC",1,0.0001,3854
+Glow Financial Services Inc.,1,0.0001,3855
+"RUPP AND ASSOCIATES, INC.",1,0.0001,3856
+AMERICAN FAMILY FUNDING GROUP Inc.,1,0.0001,3857
+"Lending Hand Mortgage, LLC",1,0.0001,3858
+RLB Texas Auto Center LLC,1,0.0001,3859
+"SPP, Inc.",1,0.0001,3860
+ACE Midland Holdings,1,0.0001,3861
+"Cianfrone, Nikoloff, Grant, & Greenberg, P.A.",1,0.0001,3862
+"Professional Bureau of Collections of Maryland, Inc., GREENWOOD VILLAGE, CO Branch",1,0.0001,3863
+Shnayder Law Firm LLC,1,0.0001,3864
+"Lightspeed Mortgage, Inc.",1,0.0001,3865
+Professional Receivable Solutions,1,0.0001,3866
+"Bass & Associates, P.C., Attorneys at Law",1,0.0001,3867
+Roger Van Wert,1,0.0001,3868
+"Cullimore & Coleman, PLC",1,0.0001,3869
+"The Law Office of Charles Mifsud, LLC",1,0.0001,3870
+"Debt Settlement Group, Inc. dba Debt Rx",1,0.0001,3871
+United American Mortgage Corporation,1,0.0001,3872
+"JACKSON & McPHERSON, LLC",1,0.0001,3873
+"Rosen Harwood, P.A.",1,0.0001,3874
+AR Solutions Inc,1,0.0001,3875
+Eburch Consulting INC,1,0.0001,3876
+Credit Bureau of Northern California Collections Services Inc,1,0.0001,3877
+"Collection Service, Inc.",1,0.0001,3878
+"Cornerstone Mortgage Group, LLC",1,0.0001,3879
+The Law Firm of Krisor & Associates,1,0.0001,3880
+Nation One Mortgage Corporation,1,0.0001,3881
+"Heritage Finance Company, Inc.",1,0.0001,3882
+"Genesis Recovery Services, Inc.",1,0.0001,3883
+Chesmar Homes,1,0.0001,3884
+"CARTER-JONES COLLECTION SERVICE, INC",1,0.0001,3885
+"Intercap Services, LLC",1,0.0001,3886
+"Resolution Law Group, LLC",1,0.0001,3887
+A CREDIT SOLUTIONS INC.,1,0.0001,3888
+"Data Search Collection, Inc",1,0.0001,3889
+TTM GLOBAL ENTERPRISES LLC,1,0.0001,3890
+"ZIP CAPITAL GROUP, LLC",1,0.0001,3891
+Priority Mortgage Corporation,1,0.0001,3892
+Russell P Goldman PC,1,0.0001,3893
+HOA Collections LLC,1,0.0001,3894
+"ATLANTIC COAST MORTGAGE, LLC",1,0.0001,3895
+"US Claims Litigation Funding, LLC",1,0.0001,3896
+"Newport Bayshore properties, Inc.",1,0.0001,3897
+"Hometown Mortgage Services, Inc.",1,0.0001,3898
+Robert Homfeld Credit Trust,1,0.0001,3899
+SUN AMERICAN MORTGAGE,1,0.0001,3900
+First World Mortgage Corporation,1,0.0001,3901
+"GenWay Home Mortgage, Inc.",1,0.0001,3902
+North Seattle Community College Foundation,1,0.0001,3903
+Thrive National Corporation,1,0.0001,3904
+"Mid-Minnesota Management Services, Inc.",1,0.0001,3905
+"Public Title Services, LLC",1,0.0001,3906
+"Credit Adjustment, Inc",1,0.0001,3907
+"CredCare, LLC",1,0.0001,3908
+Thayer Properties Inc. DBA Residential First Capital,1,0.0001,3909
+GREATAMERICA FINANCIAL SERVICES CORPORATION,1,0.0001,3910
+"Credit Systems of the Fox Valley, Inc.",1,0.0001,3911
+Rapid Mortgage Company,1,0.0001,3912
+"Moneytree Financial Services, Inc.",1,0.0001,3913
+"Credit Services, Inc.",1,0.0001,3914

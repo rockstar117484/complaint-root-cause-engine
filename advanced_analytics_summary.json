@@ -1,0 +1,196 @@
+{
+  "generated_at_utc": "2026-11-25T06:58:50Z",
+  "records_analysed": 1842530,
+  "distinct_companies": 3914,
+  "distinct_products": 11,
+  "distinct_issues": 89,
+  "monetary_relief_count": 29279,
+  "monetary_relief_share_pct": 1.5891,
+  "top_10_companies": [
+    {
+      "company": "EQUIFAX, INC.",
+      "complaints": 449805,
+      "share_pct": 24.4124,
+      "rank": 1
+    },
+    {
+      "company": "TRANSUNION INTERMEDIATE HOLDINGS, INC.",
+      "complaints": 430858,
+      "share_pct": 23.384,
+      "rank": 2
+    },
+    {
+      "company": "Experian Information Solutions Inc.",
+      "complaints": 406541,
+      "share_pct": 22.0643,
+      "rank": 3
+    },
+    {
+      "company": "Block, Inc.",
+      "complaints": 42732,
+      "share_pct": 2.3192,
+      "rank": 4
+    },
+    {
+      "company": "CAPITAL ONE FINANCIAL CORPORATION",
+      "complaints": 26624,
+      "share_pct": 1.445,
+      "rank": 5
+    },
+    {
+      "company": "JPMORGAN CHASE & CO.",
+      "complaints": 21055,
+      "share_pct": 1.1427,
+      "rank": 6
+    },
+    {
+      "company": "Early Warning Services, LLC",
+      "complaints": 18619,
+      "share_pct": 1.0105,
+      "rank": 7
+    },
+    {
+      "company": "WELLS FARGO & COMPANY",
+      "complaints": 16829,
+      "share_pct": 0.9134,
+      "rank": 8
+    },
+    {
+      "company": "CITIBANK, N.A.",
+      "complaints": 16718,
+      "share_pct": 0.9073,
+      "rank": 9
+    },
+    {
+      "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+      "complaints": 16299,
+      "share_pct": 0.8846,
+      "rank": 10
+    }
+  ],
+  "top_10_products": [
+    {
+      "product": "Credit reporting or other personal consumer reports",
+      "complaints": 1336473,
+      "share_pct": 72.5347,
+      "rank": 1
+    },
+    {
+      "product": "Debt collection",
+      "complaints": 174148,
+      "share_pct": 9.4516,
+      "rank": 2
+    },
+    {
+      "product": "Checking or savings account",
+      "complaints": 85381,
+      "share_pct": 4.6339,
+      "rank": 3
+    },
+    {
+      "product": "Money transfer, virtual currency, or money service",
+      "complaints": 78754,
+      "share_pct": 4.2742,
+      "rank": 4
+    },
+    {
+      "product": "Credit card",
+      "complaints": 76075,
+      "share_pct": 4.1288,
+      "rank": 5
+    },
+    {
+      "product": "Mortgage",
+      "complaints": 27009,
+      "share_pct": 1.4659,
+      "rank": 6
+    },
+    {
+      "product": "Vehicle loan or lease",
+      "complaints": 20691,
+      "share_pct": 1.123,
+      "rank": 7
+    },
+    {
+      "product": "Student loan",
+      "complaints": 18393,
+      "share_pct": 0.9982,
+      "rank": 8
+    },
+    {
+      "product": "Payday loan, title loan, personal loan, or advance loan",
+      "complaints": 14197,
+      "share_pct": 0.7705,
+      "rank": 9
+    },
+    {
+      "product": "Prepaid card",
+      "complaints": 6907,
+      "share_pct": 0.3749,
+      "rank": 10
+    }
+  ],
+  "top_10_issues": [
+    {
+      "issue": "Incorrect information on your report",
+      "complaints": 694968,
+      "share_pct": 37.7181,
+      "rank": 1
+    },
+    {
+      "issue": "Improper use of your report",
+      "complaints": 375865,
+      "share_pct": 20.3994,
+      "rank": 2
+    },
+    {
+      "issue": "Problem with a company's investigation into an existing problem",
+      "complaints": 260859,
+      "share_pct": 14.1577,
+      "rank": 3
+    },
+    {
+      "issue": "Attempts to collect debt not owed",
+      "complaints": 82126,
+      "share_pct": 4.4572,
+      "rank": 4
+    },
+    {
+      "issue": "Other transaction problem",
+      "complaints": 47779,
+      "share_pct": 2.5931,
+      "rank": 5
+    },
+    {
+      "issue": "Managing an account",
+      "complaints": 45568,
+      "share_pct": 2.4731,
+      "rank": 6
+    },
+    {
+      "issue": "Written notification about debt",
+      "complaints": 40028,
+      "share_pct": 2.1724,
+      "rank": 7
+    },
+    {
+      "issue": "False statements or representation",
+      "complaints": 23095,
+      "share_pct": 1.2534,
+      "rank": 8
+    },
+    {
+      "issue": "Problem with a purchase shown on your statement",
+      "complaints": 21387,
+      "share_pct": 1.1607,
+      "rank": 9
+    },
+    {
+      "issue": "Trouble during payment process",
+      "complaints": 14310,
+      "share_pct": 0.7766,
+      "rank": 10
+    }
+  ],
+  "methodology_note": "Counts and shares describe this published CFPB narrative dataset. No customer/account denominator is available; do not interpret as incidence rates, company quality scores, or evidence of misconduct."
+}
